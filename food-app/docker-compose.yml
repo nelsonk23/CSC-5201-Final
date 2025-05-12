@@ -1,0 +1,52 @@
+services:
+  user_service:
+    build: ./user_service
+    volumes:
+      - ./data:/data
+    ports:
+      - "5001:5001"
+  order_service:
+    build: ./order_service
+    volumes:
+      - ./data:/data
+    ports:
+      - "5002:5002"
+  rating_service:
+    build: ./rating_service
+    volumes:
+      - ./data:/data
+    ports:
+      - "5003:5003"
+  recommendation_service:
+    build: ./recommendation_service
+    volumes:
+      - ./data:/data
+    ports:
+      - "5004:5004"
+  tracking_service:
+    build: ./tracking_service
+    volumes:
+      - ./data:/data
+    ports:
+      - "5005:5005"
+  notification_service:
+    build: ./notification_service
+    volumes:
+      - ./data:/data
+    environment:
+      - TWILIO_SID=
+      - TWILIO_TOKEN=
+      - TWILIO_NUMBER=
+    ports:
+      - "5006:5006"
+  gateway_service:
+    build: ./gateway_service
+    depends_on:
+      - user_service
+      - order_service
+      - rating_service
+      - recommendation_service
+      - tracking_service
+      - notification_service
+    ports:
+      - "5000:5000"
