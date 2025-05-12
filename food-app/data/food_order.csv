@@ -1,0 +1,1899 @@
+order_id,customer_id,restaurant_name,cuisine_type,cost_of_the_order,day_of_the_week,rating,food_preparation_time,delivery_time,delivery_distance,weather_condition,traffic_condition,order_timestamp
+1477147,337525,Hangawi,Korean,30.75,Weekend,0.0,25,20,5.0,Clear,Light,14:40
+1477685,358141,Blue Ribbon Sushi Izakaya,Japanese,12.08,Weekend,0.0,25,23,4.2,Clear,Moderate,16:23
+1477070,66393,Cafe Habana,Mexican,12.23,Weekday,5.0,23,28,2.3,Rainy,Heavy,1:29
+1477334,106968,Blue Ribbon Fried Chicken,American,29.20,Weekend,3.0,25,15,1.7,Clear,Light,17:21
+1478249,76942,Dirty Bird to Go,American,11.59,Weekday,4.0,25,24,4.2,Clear,Moderate,3:25
+1477224,147468,Tamarind TriBeCa,Indian,25.22,Weekday,3.0,20,24,2.6,Snowy,Heavy,16:24
+1477894,157711,The Meatball Shop,Italian,6.07,Weekend,0.0,28,21,3.3,Clear,Cloudy,10:03
+1477859,89574,Barbounia,Mediterranean,5.97,Weekday,3.0,33,30,5.3,Cloudy,Light,20:44
+1477174,121706,Anjappar Chettinad,Indian,16.44,Weekday,5.0,21,26,1.2,Stormy,Heavy,16:40
+1477311,39705,Bukhara Grill,Indian,7.18,Weekday,5.0,29,26,5.3,Clear,Light,2:10
+1477895,143926,Big Wong Restaurant _¤¾Ñ¼,Chinese,5.92,Weekday,0.0,34,28,2.4,Stormy,Moderate,17:45
+1478437,221206,Empanada Mama (closed),Mexican,8.10,Weekend,5.0,23,22,3.9,Clear,Light,5:46
+1476966,129969,Blue Ribbon Fried Chicken,American,24.30,Weekend,5.0,23,17,2.7,Clear,Moderate,17:38
+1477449,104548,Pylos,Mediterranean,11.30,Weekend,3.0,24,23,3.9,Cloudy,Moderate,15:46
+1478198,62667,Lucky's Famous Burgers,American,12.13,Weekday,0.0,23,30,1.4,Cloudy,Light,3:27
+1477414,66222,Shake Shack,American,16.20,Weekend,5.0,33,25,4.5,Clear,Moderate,15:58
+1477486,104555,Sushi of Gari,Japanese,16.98,Weekend,0.0,30,16,4.3,Stormy,Heavy,21:32
+1477373,139885,Blue Ribbon Sushi Izakaya,Japanese,33.03,Weekend,0.0,21,22,4.3,Snowy,Moderate,2:04
+1477138,47280,RedFarm Hudson,Chinese,14.12,Weekend,4.0,25,24,4.8,Snowy,Heavy,12:24
+1477354,67487,Blue Ribbon Sushi,Japanese,16.20,Weekend,4.0,35,26,4.6,Cloudy,Moderate,22:31
+1478296,250494,Five Guys Burgers and Fries,American,24.20,Weekend,4.0,21,24,5.1,Snowy,Heavy,8:44
+1478226,137565,Shake Shack,American,15.91,Weekend,0.0,25,20,1.2,Stormy,Moderate,20:12
+1478287,150599,Shake Shack,American,29.10,Weekday,5.0,21,30,1.4,Clear,Moderate,11:23
+1478014,54630,Tortaria,Mexican,8.92,Weekend,0.0,33,16,3.1,Cloudy,Moderate,15:52
+1476714,363783,Cafe Mogador,Middle Eastern,15.86,Weekday,0.0,32,29,4.9,Snowy,Heavy,9:30
+1476693,41877,Cafe Mogador,Middle Eastern,29.10,Weekday,5.0,20,29,4.9,Rainy,Moderate,2:00
+1476995,371590,The Meatball Shop,Italian,21.88,Weekday,5.0,24,27,2.7,Rainy,Light,6:34
+1476844,175290,Otto Enoteca Pizzeria,Italian,14.02,Weekend,0.0,24,16,1.3,Snowy,Light,18:28
+1477015,76686,Vezzo Thin Crust Pizza,Italian,9.17,Weekend,0.0,21,24,4.4,Snowy,Moderate,0:59
+1476889,149984,Sushi of Gari 46,Japanese,12.18,Weekday,0.0,20,29,2.8,Clear,Light,5:14
+1478289,318874,The Kati Roll Company,Indian,31.33,Weekend,5.0,28,25,2.7,Rainy,Moderate,21:23
+1477699,302790,Klong,Thai,29.05,Weekend,5.0,35,24,2.5,Clear,Light,17:03
+1476855,317794,5 Napkin Burger,American,8.39,Weekday,0.0,35,24,2.5,Rainy,Light,20:34
+1477748,105349,TAO,Japanese,9.12,Weekend,0.0,34,18,2.0,Cloudy,Light,23:44
+1478244,181782,Parm,Italian,29.10,Weekend,5.0,30,26,1.8,Clear,Moderate,7:34
+1478310,65224,Sushi Samba,Japanese,15.47,Weekend,0.0,32,26,4.0,Clear,Light,8:38
+1478017,148649,Blue Ribbon Sushi,Japanese,16.01,Weekday,4.0,23,31,5.3,Cloudy,Moderate,18:14
+1476871,118709,The Meatball Shop,Italian,24.30,Weekday,4.0,31,29,5.5,Snowy,Moderate,20:49
+1477999,208020,Haru Gramercy Park,Japanese,29.83,Weekday,5.0,20,32,4.2,Clear,Moderate,1:01
+1476891,220693,Shake Shack,American,19.89,Weekend,0.0,27,19,3.2,Clear,Heavy,4:10
+1477425,378482,Chipotle Mexican Grill $1.99 Delivery,Mexican,19.35,Weekend,4.0,21,18,3.9,Clear,Moderate,14:46
+1478143,337525,TAO,Japanese,33.22,Weekend,0.0,23,19,1.8,Clear,Light,18:32
+1477267,133637,RedFarm Broadway,Chinese,24.25,Weekend,5.0,22,15,2.9,Clear,Light,21:25
+1477728,107909,Cafeteria,American,16.44,Weekend,0.0,33,22,5.2,Cloudy,Moderate,0:35
+1476908,365237,Five Guys Burgers and Fries,American,22.75,Weekend,5.0,30,20,1.7,Clear,Light,9:09
+1476581,322162,The Meatball Shop,Italian,6.74,Weekend,5.0,29,23,4.4,Snowy,Light,3:33
+1476930,198802,DuMont Burger,American,29.05,Weekend,5.0,22,30,5.4,Stormy,Heavy,14:27
+1477621,122864,Sarabeth's East,American,13.78,Weekend,4.0,34,24,5.5,Cloudy,Light,8:48
+1478354,52037,Blue Ribbon Fried Chicken,American,19.89,Weekday,0.0,27,24,5.3,Rainy,Heavy,22:32
+1477251,81110,Hill Country Fried Chicken,Southern,16.93,Weekend,5.0,33,21,4.3,Stormy,Heavy,20:09
+1477656,300003,Bistango,Italian,21.88,Weekend,0.0,21,19,4.2,Cloudy,Light,10:40
+1477883,91817,Blue Ribbon Fried Chicken,American,29.39,Weekend,0.0,27,28,4.6,Snowy,Moderate,14:55
+1477205,112036,TAO,Japanese,20.23,Weekend,5.0,22,20,3.3,Clear,Heavy,5:47
+1478107,73895,RedFarm Broadway,Chinese,29.10,Weekend,0.0,22,23,4.2,Rainy,Heavy,19:29
+1477760,130507,Jack's Wife Freda,Mediterranean,22.75,Weekend,3.0,35,29,1.2,Stormy,Moderate,17:03
+1476562,129486,Mamoun's Falafel,Mediterranean,14.12,Weekend,3.0,31,15,5.2,Cloudy,Light,2:17
+1477692,313340,Sushi of Gari 46,Japanese,14.60,Weekday,3.0,24,24,3.2,Cloudy,Heavy,13:50
+1477889,177250,RedFarm Hudson,Chinese,12.23,Weekday,5.0,25,33,4.8,Stormy,Heavy,3:02
+1477243,176234,Prosperity Dumpling,Chinese,14.02,Weekend,5.0,20,30,1.2,Rainy,Light,11:28
+1477560,371677,Blue Ribbon Fried Chicken,American,6.79,Weekday,0.0,33,28,2.5,Rainy,Moderate,22:38
+1476896,388918,Blue Ribbon Fried Chicken,American,24.25,Weekend,0.0,28,21,2.5,Clear,Light,19:23
+1478327,68551,Blue Ribbon Sushi Bar & Grill,Japanese,33.03,Weekend,0.0,33,20,4.1,Cloudy,Heavy,22:08
+1476820,152786,Cafe Habana,Mexican,31.38,Weekend,4.0,23,27,5.4,Clear,Heavy,9:02
+1478121,62980,Westville Hudson,American,8.34,Weekday,0.0,22,26,5.3,Cloudy,Heavy,10:40
+1478077,82041,Shake Shack,American,33.03,Weekday,0.0,22,32,4.5,Rainy,Light,9:53
+1478359,361616,Blue Ribbon Brooklyn,American,24.20,Weekday,3.0,22,32,5.0,Clear,Light,13:33
+1476841,398426,RedFarm Broadway,Chinese,12.46,Weekend,4.0,24,20,2.2,Rainy,Moderate,4:31
+1477125,130820,Nobu Next Door,Japanese,15.86,Weekend,5.0,29,23,1.7,Clear,Moderate,0:15
+1477915,200074,Osteria Morini,Italian,14.55,Weekend,0.0,34,22,3.1,Clear,Heavy,3:25
+1477475,65009,Blue Ribbon Fried Chicken,American,32.93,Weekend,5.0,24,23,3.0,Clear,Heavy,6:02
+1477932,170221,Shake Shack,American,16.98,Weekend,0.0,22,21,5.0,Rainy,Moderate,5:36
+1476651,58092,Shake Shack,American,8.00,Weekend,5.0,27,23,5.4,Snowy,Heavy,3:49
+1477730,50616,Parm,Italian,13.05,Weekend,0.0,28,27,3.5,Clear,Light,18:10
+1477518,133202,Sushi Samba,Japanese,29.05,Weekend,5.0,31,16,4.8,Cloudy,Moderate,2:09
+1477821,277898,Haandi,Indian,5.67,Weekday,4.0,23,31,3.5,Rainy,Light,12:09
+1477104,77341,The Meatball Shop,Italian,16.93,Weekend,0.0,30,25,1.1,Clear,Light,10:53
+1477921,97079,Benihana,Japanese,29.29,Weekend,5.0,20,18,5.5,Stormy,Moderate,23:13
+1477938,150002,The Kati Roll Company,Indian,16.15,Weekend,5.0,20,29,3.9,Stormy,Heavy,2:24
+1476943,87472,RedFarm Hudson,Chinese,22.75,Weekend,0.0,31,30,4.7,Snowy,Heavy,9:17
+1477581,231061,Han Dynasty,Chinese,13.34,Weekend,4.0,34,27,1.7,Clear,Light,15:32
+1477975,56722,Shake Shack,American,9.75,Weekend,5.0,33,25,4.7,Clear,Moderate,19:25
+1477601,107909,Cafeteria,American,6.69,Weekday,4.0,21,32,2.5,Stormy,Light,22:46
+1477790,133617,Shake Shack,American,4.75,Weekday,4.0,35,28,2.7,Clear,Heavy,3:39
+1477385,67538,Chipotle Mexican Grill $1.99 Delivery,Mexican,12.56,Weekend,5.0,22,18,2.9,Cloudy,Light,2:43
+1478423,129969,The Meatball Shop,Italian,21.20,Weekend,0.0,34,16,2.1,Snowy,Light,8:38
+1477051,57174,Tortaria,Mexican,19.31,Weekend,0.0,27,28,2.6,Clear,Light,21:37
+1476796,78939,Nobu Next Door,Japanese,16.30,Weekday,3.0,20,24,3.6,Clear,Moderate,1:20
+1478031,309513,Otto Enoteca Pizzeria,Italian,13.05,Weekday,5.0,33,27,3.2,Stormy,Heavy,15:06
+1477740,129798,TAO,Japanese,25.27,Weekday,4.0,24,24,4.4,Clear,Light,4:00
+1478384,184085,Hill Country Fried Chicken,Southern,14.79,Weekend,5.0,35,15,5.2,Cloudy,Moderate,5:20
+1478183,329710,Shake Shack,American,5.72,Weekday,3.0,31,24,4.5,Stormy,Moderate,1:10
+1477569,65009,Chote Nawab,Indian,16.15,Weekend,5.0,24,30,5.3,Stormy,Heavy,3:22
+1478211,154030,RedFarm Hudson,Chinese,33.03,Weekend,4.0,26,22,1.1,Cloudy,Moderate,22:27
+1476635,86731,Mission Cantina,Mexican,16.20,Weekend,5.0,31,18,5.4,Clear,Heavy,14:16
+1477646,306119,Xi'an Famous Foods,Chinese,9.22,Weekday,0.0,31,32,4.3,Clear,Light,8:08
+1477027,164016,Blue Ribbon Fried Chicken,American,16.39,Weekend,0.0,27,22,3.7,Clear,Light,16:40
+1476921,121476,Blue Ribbon Fried Chicken,American,12.18,Weekday,3.0,29,27,4.7,Stormy,Light,6:04
+1476689,305522,Shake Shack,American,24.20,Weekday,4.0,29,29,2.0,Clear,Light,11:52
+1477767,68976,Sarabeth's East,American,17.03,Weekend,3.0,26,30,4.4,Cloudy,Heavy,8:16
+1476582,60703,Cafe Habana,Mexican,6.79,Weekday,0.0,33,25,3.7,Cloudy,Moderate,17:18
+1478169,80460,Rubirosa,Italian,21.83,Weekend,3.0,30,27,5.3,Cloudy,Light,14:49
+1477702,128600,Blue Ribbon Fried Chicken,American,31.29,Weekday,0.0,22,33,3.5,Clear,Moderate,3:57
+1477240,142356,Blue Ribbon Sushi,Japanese,11.83,Weekend,4.0,26,21,2.6,Clear,Heavy,11:00
+1476564,83287,Five Guys Burgers and Fries,American,24.30,Weekend,5.0,30,20,1.8,Clear,Moderate,9:02
+1478408,134152,The Meatball Shop,Italian,22.26,Weekend,0.0,28,25,2.7,Rainy,Light,5:44
+1477824,345899,TAO,Japanese,20.47,Weekend,4.0,26,30,4.9,Stormy,Light,1:08
+1477617,38050,Blue Ribbon Sushi,Japanese,12.18,Weekend,5.0,28,25,2.9,Cloudy,Moderate,11:50
+1477978,259341,Joe's Shanghai _Àü£¾÷´,Chinese,15.81,Weekend,5.0,20,26,1.6,Cloudy,Heavy,18:25
+1477281,309513,Otto Enoteca Pizzeria,Italian,22.36,Weekend,5.0,26,27,4.4,Stormy,Light,14:48
+1478223,234089,Blue Ribbon Sushi,Japanese,8.68,Weekend,5.0,34,27,2.0,Stormy,Light,4:44
+1477364,125123,Shake Shack,American,21.83,Weekend,0.0,23,22,4.8,Snowy,Heavy,7:54
+1476715,365244,Bareburger,American,16.30,Weekday,0.0,20,28,4.9,Cloudy,Light,0:10
+1476654,63020,The Odeon,American,12.90,Weekday,3.0,31,28,5.1,Rainy,Heavy,8:43
+1477296,222879,Parm,Italian,29.15,Weekday,5.0,23,27,1.9,Snowy,Moderate,22:33
+1478321,275535,Pongsri Thai,Thai,13.05,Weekday,4.0,31,24,1.8,Cloudy,Light,15:08
+1477942,49793,Yama Japanese Restaurant,Japanese,22.36,Weekend,5.0,30,16,3.8,Snowy,Moderate,10:29
+1477552,137565,Shake Shack,American,31.29,Weekday,0.0,26,32,2.0,Clear,Heavy,23:05
+1476770,65009,Blue Ribbon Fried Chicken,American,7.86,Weekday,4.0,22,33,1.6,Rainy,Heavy,14:02
+1476558,214394,Yama Japanese Restaurant,Japanese,16.10,Weekend,0.0,33,27,5.0,Snowy,Moderate,6:01
+1477993,91907,Momoya,Japanese,16.98,Weekday,5.0,31,32,5.1,Snowy,Heavy,2:33
+1478072,82041,Osteria Morini,Italian,12.95,Weekend,5.0,26,28,4.0,Cloudy,Moderate,7:51
+1476935,59419,Blue Ribbon Fried Chicken,American,11.69,Weekend,5.0,21,24,1.9,Stormy,Light,20:45
+1477255,50199,Five Guys Burgers and Fries,American,12.13,Weekend,0.0,26,15,1.6,Clear,Heavy,10:53
+1477012,325210,The Meatball Shop,American,12.32,Weekend,0.0,31,19,2.2,Rainy,Light,19:31
+1477704,100999,Balthazar Boulangerie,French,12.13,Weekend,0.0,22,27,1.6,Clear,Light,17:45
+1477188,146588,Sushi of Gari,Japanese,12.18,Weekday,5.0,25,24,1.6,Cloudy,Moderate,8:21
+1478348,310051,Parm,Italian,14.99,Weekend,0.0,34,24,1.2,Cloudy,Light,8:43
+1477405,128243,The Meatball Shop,Italian,6.74,Weekend,5.0,26,30,3.3,Snowy,Light,19:23
+1476826,53543,CafÌ© China,Chinese,24.30,Weekend,0.0,20,23,4.6,Snowy,Moderate,14:51
+1478340,230535,Shake Shack,American,10.38,Weekend,3.0,24,29,1.6,Clear,Light,13:52
+1477044,127122,RedFarm Broadway,Chinese,6.79,Weekend,5.0,33,28,4.1,Stormy,Heavy,7:03
+1476978,177250,RedFarm Hudson,Chinese,25.27,Weekend,0.0,34,28,4.2,Cloudy,Heavy,5:47
+1477287,111125,Otto Enoteca Pizzeria,Italian,14.99,Weekend,0.0,29,21,3.5,Stormy,Moderate,7:25
+1477110,144997,RedFarm Hudson,Chinese,29.05,Weekend,4.0,22,28,3.0,Clear,Light,8:55
+1476555,97991,Blue Ribbon Sushi Bar & Grill,Japanese,9.65,Weekend,0.0,25,26,3.0,Rainy,Heavy,7:58
+1476862,58533,The Meatball Shop,Italian,29.20,Weekend,0.0,31,24,5.0,Rainy,Heavy,16:34
+1477117,104336,Nobu Next Door,Japanese,5.77,Weekday,4.0,29,24,3.1,Clear,Light,9:02
+1478402,232582,CafÌ© China,Chinese,32.93,Weekday,3.0,26,28,5.0,Cloudy,Light,15:22
+1477431,195927,Boqueria,Spanish,12.13,Weekend,5.0,30,20,5.1,Cloudy,Moderate,20:40
+1477836,373689,Bareburger,American,12.08,Weekend,0.0,29,20,5.1,Rainy,Heavy,4:04
+1477376,370372,Blue Ribbon Fried Chicken,American,11.59,Weekday,0.0,25,24,3.1,Clear,Moderate,21:30
+1476835,264707,TAO,Japanese,9.56,Weekend,5.0,21,17,2.1,Clear,Light,12:16
+1477177,42385,Song Thai Restaurant & Bar,Thai,24.20,Weekend,5.0,21,26,5.4,Snowy,Heavy,4:48
+1478174,104555,Sushi of Gari,Japanese,29.34,Weekday,0.0,32,25,4.3,Clear,Light,7:22
+1478269,250494,The Meatball Shop,Italian,11.16,Weekday,5.0,22,28,4.7,Clear,Light,14:31
+1477369,139085,Shake Shack,American,24.25,Weekday,0.0,32,24,1.3,Stormy,Heavy,4:57
+1476969,198309,Blue Ribbon Sushi,Japanese,29.20,Weekend,0.0,22,25,4.8,Rainy,Moderate,17:27
+1477420,399478,Shake Shack,American,14.07,Weekend,0.0,25,28,5.2,Snowy,Heavy,8:20
+1476663,40010,Parm,Italian,19.35,Weekend,4.0,35,19,3.5,Cloudy,Light,7:46
+1477904,48131,RedFarm Hudson,Chinese,16.10,Weekend,4.0,23,29,3.2,Cloudy,Moderate,14:01
+1478219,41692,Shake Shack,American,22.80,Weekend,0.0,30,19,5.0,Rainy,Light,15:47
+1477206,61305,Blue Ribbon Sushi Bar & Grill,Japanese,15.23,Weekend,0.0,30,19,5.5,Rainy,Heavy,20:06
+1477337,123780,Five Guys Burgers and Fries,American,33.03,Weekend,0.0,29,25,4.5,Cloudy,Light,1:20
+1476809,385248,Shake Shack,American,12.95,Weekend,0.0,27,18,4.2,Clear,Light,8:56
+1477750,97806,Shake Shack,American,16.49,Weekend,5.0,32,22,2.1,Clear,Light,16:27
+1476817,97079,Benihana,Japanese,29.05,Weekend,0.0,25,26,5.1,Cloudy,Light,9:13
+1476659,52463,RedFarm Broadway,Chinese,31.33,Weekend,3.0,33,23,5.5,Stormy,Heavy,21:58
+1477609,105068,TAO,Japanese,16.01,Weekend,0.0,26,16,2.8,Rainy,Light,13:59
+1477616,128600,Tamarind TriBeCa,Indian,14.07,Weekend,4.0,26,21,2.4,Stormy,Heavy,11:32
+1476769,71791,Sushi of Gari 46,Japanese,8.83,Weekday,0.0,31,33,5.1,Cloudy,Moderate,1:01
+1477185,362068,The Kati Roll Company,Indian,33.03,Weekend,0.0,35,21,3.0,Stormy,Light,18:51
+1477752,298824,Shake Shack,American,16.25,Weekday,3.0,30,24,4.3,Stormy,Moderate,3:24
+1477239,94524,The Meatball Shop,Italian,22.36,Weekend,4.0,28,18,4.4,Rainy,Heavy,8:26
+1476590,342107,The Kati Roll Company,Indian,16.83,Weekend,4.0,26,20,1.5,Clear,Moderate,14:39
+1478305,62359,Rubirosa,Italian,8.00,Weekday,4.0,27,29,4.9,Clear,Moderate,11:05
+1476751,347181,Blue Ribbon Sushi,Japanese,16.01,Weekend,0.0,29,22,2.6,Cloudy,Moderate,3:05
+1477831,60052,RedFarm Broadway,Chinese,16.01,Weekday,4.0,23,27,5.4,Clear,Light,17:24
+1477955,198936,Five Leaves,American,10.24,Weekday,0.0,22,25,2.6,Stormy,Light,11:09
+1476568,348787,Otto Enoteca Pizzeria,Italian,19.40,Weekday,4.0,32,28,3.1,Clear,Heavy,0:52
+1478391,184325,Pinto Nouveau Thai Bistro,Thai,19.35,Weekend,4.0,34,24,5.2,Snowy,Light,7:22
+1476725,42935,Barbounia,Mediterranean,13.97,Weekend,5.0,29,25,4.3,Rainy,Light,1:54
+1476688,200672,Cafe Mogador,Middle Eastern,13.00,Weekend,0.0,21,15,3.5,Snowy,Light,20:35
+1477102,75484,Five Guys Burgers and Fries,American,13.05,Weekend,0.0,34,27,3.0,Stormy,Moderate,12:09
+1476878,378027,RedFarm Broadway,Chinese,8.49,Weekend,0.0,24,16,3.8,Rainy,Moderate,3:44
+1476805,93133,Parm,Italian,22.80,Weekday,5.0,33,33,3.2,Stormy,Light,8:09
+1478093,268958,Barbounia,Mediterranean,20.18,Weekend,5.0,29,19,3.5,Rainy,Heavy,11:11
+1478201,370017,RedFarm Broadway,Chinese,19.59,Weekend,5.0,24,19,5.1,Rainy,Moderate,9:47
+1478032,146586,Dirty Bird to Go,American,19.40,Weekend,4.0,25,19,1.0,Rainy,Moderate,9:59
+1476606,350085,The Meatball Shop,Italian,17.03,Weekday,0.0,22,29,3.0,Clear,Heavy,13:56
+1477570,292343,Amy Ruth's,Southern,16.11,Weekend,4.0,30,26,1.2,Clear,Heavy,6:46
+1476808,84700,Pepe Giallo,Italian,14.60,Weekday,3.0,32,24,5.5,Rainy,Light,7:45
+1476610,53212,TAO,Japanese,12.27,Weekday,0.0,26,29,1.2,Clear,Moderate,15:37
+1476875,373353,indikitch,Indian,22.26,Weekend,0.0,35,16,5.0,Cloudy,Heavy,18:40
+1476829,79255,The Meatball Shop,Italian,6.79,Weekend,0.0,26,15,4.4,Stormy,Moderate,18:11
+1477366,275689,Han Dynasty,Chinese,14.12,Weekend,4.0,35,19,2.5,Stormy,Light,11:24
+1477774,354719,The Meatball Shop,Italian,29.15,Weekend,5.0,34,20,4.4,Rainy,Heavy,12:00
+1477209,17495,Prosperity Dumpling,Chinese,12.18,Weekday,0.0,26,24,4.0,Snowy,Light,14:28
+1478334,352247,Chipotle Mexican Grill $1.99 Delivery,Mexican,25.22,Weekend,4.0,27,22,4.8,Stormy,Light,23:50
+1477872,300670,Shake Shack,American,13.39,Weekend,0.0,30,22,4.3,Stormy,Heavy,18:23
+1478417,87747,Blue Ribbon Fried Chicken,American,9.02,Weekend,5.0,31,15,1.4,Snowy,Heavy,14:49
+1477401,326426,Sushi of Gari,Japanese,29.15,Weekend,0.0,34,24,5.1,Rainy,Heavy,18:09
+1477764,131645,Yama 49,Japanese,13.00,Weekday,5.0,24,32,1.8,Snowy,Light,15:39
+1477835,129518,Blue Ribbon Fried Chicken,American,15.33,Weekday,4.0,24,29,2.7,Clear,Light,6:10
+1476997,103005,Yama Japanese Restaurant,Japanese,14.55,Weekend,5.0,20,28,4.6,Clear,Light,23:05
+1477519,140477,Momoya,Japanese,31.43,Weekend,0.0,24,17,4.3,Stormy,Heavy,15:19
+1477004,250494,Five Guys Burgers and Fries,American,33.03,Weekend,5.0,29,15,1.2,Stormy,Moderate,12:57
+1477536,105164,Piccolo Angolo,Italian,15.91,Weekend,4.0,26,26,2.4,Cloudy,Moderate,2:53
+1478313,160957,Momoya,Japanese,12.18,Weekend,4.0,27,25,3.0,Clear,Moderate,11:04
+1477290,361509,Shake Shack,American,19.35,Weekday,0.0,35,33,3.6,Cloudy,Heavy,15:06
+1476648,169478,RedFarm Broadway,Chinese,19.35,Weekend,0.0,24,28,5.2,Cloudy,Light,6:24
+1476657,91192,Hill Country Fried Chicken,Southern,29.35,Weekend,4.0,26,24,1.1,Clear,Heavy,2:11
+1478089,134294,Shake Shack,American,15.28,Weekday,4.0,30,29,4.7,Stormy,Heavy,10:54
+1478026,365225,Pepe Rosso To Go,Italian,12.23,Weekday,3.0,24,24,2.5,Clear,Light,6:17
+1477768,279895,Shake Shack,American,9.60,Weekday,4.0,35,28,4.9,Cloudy,Moderate,17:40
+1477424,81110,Han Dynasty,Chinese,12.95,Weekend,0.0,20,25,5.0,Cloudy,Light,13:23
+1478378,384391,Shake Shack,American,8.88,Weekend,5.0,27,23,5.4,Snowy,Heavy,9:45
+1477493,328357,Shake Shack,American,15.96,Weekend,3.0,30,21,1.2,Cloudy,Light,7:46
+1478092,41318,Jack's Wife Freda,Mediterranean,15.47,Weekend,5.0,33,16,2.5,Cloudy,Moderate,4:08
+1477150,92832,Five Guys Burgers and Fries,American,12.23,Weekend,5.0,22,22,5.5,Stormy,Moderate,15:57
+1478157,58871,Shake Shack,American,8.05,Weekday,4.0,25,27,1.2,Cloudy,Light,21:19
+1478343,231042,Momoya,Japanese,8.54,Weekday,4.0,28,29,5.4,Cloudy,Moderate,21:58
+1476860,336162,Nobu Next Door,Japanese,29.15,Weekday,5.0,28,25,5.5,Stormy,Heavy,16:05
+1477675,76907,Han Dynasty,Chinese,7.23,Weekend,5.0,21,18,3.1,Cloudy,Heavy,8:58
+1476799,389740,L'Express,French,19.69,Weekend,3.0,26,17,4.4,Cloudy,Heavy,5:37
+1476598,41168,Parm,Italian,12.13,Weekend,3.0,34,22,1.1,Cloudy,Light,12:21
+1477277,59749,Bareburger,American,16.49,Weekday,0.0,31,27,5.2,Rainy,Moderate,22:59
+1476682,86731,Mission Cantina,Mexican,12.08,Weekend,0.0,30,18,4.6,Cloudy,Heavy,17:42
+1477047,42832,5 Napkin Burger,American,9.27,Weekend,0.0,34,30,3.9,Cloudy,Light,23:21
+1478173,91005,Han Dynasty,Chinese,24.25,Weekend,5.0,33,26,5.0,Rainy,Light,6:42
+1477528,128963,Han Dynasty,Chinese,5.67,Weekday,4.0,21,31,4.2,Stormy,Light,17:42
+1478426,124085,Blue Ribbon Sushi Bar & Grill,Japanese,14.12,Weekend,3.0,21,24,5.2,Snowy,Moderate,9:44
+1476696,231061,Han Dynasty,Chinese,33.03,Weekday,0.0,33,31,3.0,Clear,Light,16:47
+1478189,105138,Han Dynasty,Chinese,8.97,Weekend,4.0,33,19,2.9,Clear,Light,18:06
+1477532,95164,Amma,Indian,8.88,Weekday,4.0,27,24,3.5,Cloudy,Light,9:47
+1477324,263426,Blue Ribbon Sushi Izakaya,Japanese,12.13,Weekday,5.0,30,29,5.2,Cloudy,Light,5:40
+1476698,142461,Delicatessen,American,11.64,Weekend,0.0,27,27,1.5,Cloudy,Moderate,16:37
+1478290,263199,Sushi of Gari 46,Japanese,31.43,Weekend,4.0,35,23,2.0,Cloudy,Heavy,3:41
+1476919,387227,Blue Ribbon Sushi Bar & Grill,Japanese,13.15,Weekend,5.0,30,30,1.3,Stormy,Moderate,13:47
+1477247,385559,Blue Ribbon Fried Chicken,American,14.02,Weekend,5.0,20,28,5.1,Clear,Heavy,22:27
+1477794,127149,Sarabeth's East,American,9.41,Weekend,0.0,25,16,2.4,Cloudy,Moderate,11:09
+1477048,200074,Osteria Morini,Italian,9.07,Weekend,0.0,33,16,4.9,Clear,Heavy,14:18
+1477615,136876,Rubirosa,Italian,14.07,Weekend,5.0,35,16,1.6,Stormy,Light,20:34
+1476566,103884,S'MAC,American,14.46,Weekend,0.0,34,17,3.7,Clear,Light,18:39
+1477310,38612,Vanessa's Dumplings,Chinese,6.70,Weekend,5.0,20,17,3.7,Rainy,Light,5:04
+1477758,334619,Blue Ribbon Sushi Izakaya,Japanese,14.07,Weekday,4.0,24,26,3.4,Stormy,Moderate,21:56
+1477765,92996,Tamarind TriBeCa,Indian,19.45,Weekend,4.0,29,19,4.6,Rainy,Light,21:03
+1476753,195723,Cafe Habana,Mexican,13.97,Weekday,3.0,34,28,4.2,Cloudy,Moderate,15:48
+1476759,268958,Sushi of Gari 46,Japanese,12.22,Weekend,4.0,24,20,5.2,Stormy,Heavy,7:55
+1477333,111356,Bhatti Indian Grill,Indian,29.25,Weekend,5.0,21,15,5.2,Rainy,Heavy,7:33
+1476830,361509,Cafeteria,American,17.03,Weekend,0.0,34,20,3.9,Rainy,Moderate,2:11
+1478227,367591,Taro Sushi,Japanese,16.05,Weekday,5.0,35,32,1.0,Clear,Light,3:12
+1476789,103005,Yama Japanese Restaurant,Japanese,17.08,Weekend,5.0,28,15,4.3,Stormy,Moderate,13:27
+1477603,399121,Blue Ribbon Sushi,Japanese,11.30,Weekday,0.0,24,24,5.2,Snowy,Moderate,15:55
+1478246,260680,Delicatessen,American,32.98,Weekend,5.0,34,16,4.8,Clear,Heavy,7:31
+1476931,124838,Hill Country Fried Chicken,Southern,29.15,Weekend,5.0,33,25,5.1,Stormy,Moderate,0:35
+1477029,295111,The Meatball Shop,Italian,13.00,Weekday,5.0,23,26,4.5,Stormy,Heavy,22:46
+1476849,42052,Pepe Rosso To Go,Italian,13.73,Weekend,0.0,21,28,3.7,Clear,Moderate,0:36
+1478179,52832,Han Dynasty,Chinese,12.23,Weekend,3.0,33,27,1.5,Clear,Heavy,17:52
+1477679,120833,Bareburger,American,16.25,Weekend,0.0,29,15,2.2,Rainy,Light,19:33
+1477810,94483,Bistango,Italian,24.20,Weekend,0.0,28,21,5.3,Snowy,Moderate,9:28
+1477342,49631,The Meatball Shop,Italian,14.31,Weekend,0.0,23,17,3.5,Clear,Moderate,21:04
+1478133,114085,Blue Ribbon Sushi Bar & Grill,Japanese,19.40,Weekend,0.0,28,20,1.6,Clear,Light,21:08
+1477756,251607,Shake Shack,American,14.12,Weekday,0.0,31,28,5.4,Clear,Light,7:50
+1477721,72339,Donburi-ya,Japanese,14.70,Weekend,0.0,30,27,4.6,Clear,Heavy,12:32
+1476952,229946,Balthazar Boulangerie,French,15.52,Weekend,0.0,21,29,2.2,Cloudy,Light,14:17
+1477587,92726,Hatsuhana,Japanese,8.97,Weekend,4.0,25,26,4.7,Rainy,Heavy,5:46
+1478210,320493,Vanessa's Dumplings,Chinese,29.20,Weekday,0.0,27,30,4.2,Stormy,Light,7:58
+1477887,69348,RedFarm Broadway,Chinese,11.64,Weekend,3.0,26,21,3.4,Stormy,Moderate,15:16
+1478366,270149,Samurai Mama,Japanese,11.64,Weekend,5.0,21,18,2.8,Clear,Heavy,7:32
+1478279,354016,Waverly Diner,American,19.40,Weekend,5.0,25,23,5.3,Stormy,Moderate,7:50
+1476819,104548,Tarallucci e Vino Restaurant,Italian,29.10,Weekday,0.0,28,33,1.9,Snowy,Light,23:15
+1477394,105754,Momoya,Japanese,14.02,Weekday,4.0,24,30,5.5,Rainy,Heavy,19:26
+1476667,157578,P.J. Clarke's,American,6.11,Weekend,4.0,27,25,2.5,Clear,Light,11:40
+1476975,350373,Blue Ribbon Fried Chicken,American,12.23,Weekend,4.0,21,26,2.8,Clear,Light,18:59
+1477909,47440,Blue Ribbon Fried Chicken,American,12.18,Weekend,0.0,31,23,1.3,Clear,Moderate,8:53
+1476579,85633,The Meatball Shop,Italian,24.20,Weekend,5.0,24,24,1.3,Rainy,Moderate,17:38
+1477286,110091,The Meatball Shop,Italian,12.18,Weekend,0.0,27,17,5.0,Snowy,Heavy,8:01
+1478436,95164,Amma,Indian,17.03,Weekend,0.0,28,19,3.8,Clear,Moderate,17:20
+1476685,96877,The Meatball Shop,Italian,22.26,Weekday,4.0,30,26,1.1,Clear,Light,1:20
+1477912,261400,The Meatball Shop,Italian,19.45,Weekday,5.0,31,32,3.4,Clear,Moderate,2:29
+1476892,177078,Lantern Thai Kitchen,Thai,21.93,Weekday,0.0,22,25,4.8,Cloudy,Heavy,2:47
+1476882,68429,Shake Shack,American,15.76,Weekend,5.0,24,22,3.5,Clear,Light,22:47
+1477314,52832,ilili Restaurant,Middle Eastern,9.46,Weekday,4.0,25,25,3.8,Snowy,Moderate,4:54
+1477712,373633,Yama 49,Japanese,12.61,Weekday,5.0,23,28,4.7,Snowy,Heavy,17:36
+1477057,390490,Blue Ribbon Brooklyn,American,22.85,Weekend,3.0,23,19,5.4,Snowy,Heavy,2:30
+1477926,72639,P.J. Clarke's,American,12.18,Weekend,3.0,22,28,5.3,Snowy,Heavy,16:06
+1477273,95644,RedFarm Broadway,Chinese,12.61,Weekday,0.0,26,27,1.3,Stormy,Light,22:02
+1478003,129597,Otto Enoteca Pizzeria,Italian,12.13,Weekend,5.0,33,21,1.8,Cloudy,Heavy,10:46
+1477522,101084,RedFarm Hudson,Chinese,12.13,Weekend,0.0,20,22,4.4,Stormy,Heavy,14:38
+1476947,46859,The Meatball Shop,Italian,8.54,Weekday,5.0,24,29,4.6,Rainy,Heavy,10:53
+1478295,117810,Momoya,Japanese,19.35,Weekday,0.0,29,24,1.5,Stormy,Light,21:49
+1476551,49034,The Smile,American,12.18,Weekend,0.0,22,27,4.6,Stormy,Light,23:51
+1476846,82041,Parm,Italian,22.80,Weekend,0.0,35,20,5.1,Stormy,Heavy,12:19
+1476974,142461,Shake Shack,American,12.13,Weekend,4.0,32,15,4.7,Rainy,Moderate,4:13
+1478005,97991,Blue Ribbon Sushi Bar & Grill,Japanese,19.45,Weekday,5.0,34,27,4.4,Rainy,Light,10:37
+1476653,113972,RedFarm Hudson,Chinese,12.13,Weekend,3.0,31,25,2.0,Cloudy,Moderate,13:48
+1476563,114085,Blue Ribbon Sushi Bar & Grill,Japanese,12.18,Weekend,0.0,24,18,1.7,Clear,Light,7:14
+1478440,231042,Momoya,Japanese,12.13,Weekend,5.0,22,21,1.5,Clear,Light,12:18
+1477348,298824,Bareburger,American,12.56,Weekend,0.0,24,26,4.9,Snowy,Heavy,6:19
+1477525,52360,TAO,Japanese,24.30,Weekend,0.0,24,22,5.0,Snowy,Heavy,7:52
+1477920,83504,Balthazar Boulangerie,French,29.15,Weekday,4.0,31,28,5.0,Rainy,Moderate,15:46
+1477797,194778,Shake Shack,American,16.06,Weekend,5.0,30,17,1.4,Rainy,Light,2:14
+1477640,105992,RedFarm Broadway,Chinese,24.30,Weekend,5.0,27,29,4.3,Stormy,Heavy,13:31
+1477091,373486,Chipotle Mexican Grill $1.99 Delivery,Mexican,9.60,Weekend,3.0,23,26,3.6,Stormy,Heavy,17:30
+1477010,49631,The Meatball Shop,Italian,19.40,Weekend,0.0,28,17,1.2,Rainy,Moderate,3:48
+1478324,250494,Blue Ribbon Fried Chicken,American,29.10,Weekend,4.0,21,22,3.6,Clear,Light,3:47
+1477908,378923,Vanessa's Dumpling House,Chinese,12.18,Weekend,0.0,27,18,4.4,Cloudy,Heavy,12:39
+1477573,58898,RedFarm Broadway,Chinese,21.39,Weekend,5.0,23,24,1.6,Clear,Light,10:54
+1476728,250494,Bubby's ,American,24.25,Weekend,0.0,34,28,1.9,Snowy,Moderate,9:29
+1477815,144997,RedFarm Hudson,Chinese,32.93,Weekend,0.0,33,30,3.8,Clear,Heavy,16:52
+1477283,75115,RedFarm Hudson,Chinese,14.07,Weekday,0.0,20,32,2.8,Clear,Heavy,8:54
+1476856,59674,Woorijip,Korean,8.25,Weekend,3.0,26,26,3.4,Snowy,Heavy,2:47
+1477265,115238,The Smile,American,19.40,Weekday,5.0,26,27,5.0,Stormy,Heavy,8:18
+1477723,368663,Shake Shack,American,12.18,Weekend,4.0,23,28,1.2,Clear,Light,4:08
+1478020,128353,The Meatball Shop,Italian,14.94,Weekend,5.0,32,25,4.3,Cloudy,Heavy,9:29
+1477729,355713,RedFarm Broadway,Chinese,14.26,Weekend,0.0,28,24,2.3,Clear,Light,2:33
+1477312,269793,Dirty Bird To Go (archived),American,8.54,Weekend,0.0,32,30,2.3,Cloudy,Light,15:09
+1476577,100778,The Meatball Shop,Italian,12.18,Weekend,0.0,25,28,2.1,Snowy,Light,22:57
+1477032,60052,Rubirosa,Italian,29.10,Weekend,5.0,30,28,1.4,Snowy,Heavy,12:33
+1478221,47280,Rubirosa,Italian,12.56,Weekend,4.0,31,17,1.9,Stormy,Heavy,3:51
+1477747,183520,Blue Ribbon Sushi,Japanese,9.17,Weekend,3.0,25,28,1.2,Clear,Moderate,3:16
+1477389,391860,Lucky's Famous Burgers,American,16.20,Weekend,5.0,32,27,3.1,Clear,Moderate,9:31
+1477983,334373,Five Guys Burgers and Fries,American,14.12,Weekday,5.0,23,32,5.1,Clear,Light,2:43
+1477642,370405,Haveli Indian Restaurant,Indian,5.72,Weekend,3.0,24,26,3.0,Clear,Moderate,10:31
+1478229,64153,Blue Ribbon Fried Chicken,American,21.34,Weekend,0.0,35,23,2.7,Snowy,Moderate,12:33
+1477270,314480,Shake Shack,American,6.79,Weekend,0.0,20,25,3.5,Clear,Light,3:11
+1477301,232035,Blue Ribbon Fried Chicken,American,12.18,Weekend,4.0,22,29,3.0,Clear,Light,16:48
+1476821,80434,Bareburger,American,12.18,Weekend,0.0,33,18,1.8,Clear,Moderate,8:19
+1476979,81166,Dos Caminos,Mexican,6.11,Weekend,5.0,26,21,1.1,Rainy,Moderate,21:28
+1477762,91397,Chipotle Mexican Grill $1.99 Delivery,Mexican,14.16,Weekday,0.0,22,24,4.9,Rainy,Moderate,4:36
+1476906,237592,Shake Shack,American,5.68,Weekend,0.0,31,30,5.3,Clear,Light,20:16
+1476867,91879,da Umberto,Italian,12.27,Weekday,5.0,20,30,3.9,Cloudy,Light,9:58
+1477834,22405,The Meatball Shop,Italian,20.18,Weekend,4.0,32,26,1.3,Clear,Moderate,20:44
+1477577,290693,Shake Shack,American,14.02,Weekend,5.0,26,21,3.5,Snowy,Light,6:41
+1477492,64658,Blue Ribbon Sushi Bar & Grill,Japanese,16.20,Weekday,5.0,27,27,4.2,Stormy,Heavy,2:39
+1476848,365401,Dirty Bird To Go (archived),American,15.57,Weekend,0.0,30,24,4.5,Clear,Light,17:37
+1477870,301032,Mission Cantina,Mexican,14.45,Weekend,0.0,27,29,1.3,Cloudy,Heavy,17:03
+1477714,100536,Shake Shack,American,8.15,Weekend,0.0,26,17,4.2,Snowy,Moderate,18:04
+1478075,232359,The Meatball Shop,American,29.25,Weekend,3.0,21,19,3.9,Stormy,Light,21:39
+1477677,181782,Parm,Italian,8.78,Weekend,3.0,23,26,4.9,Rainy,Moderate,2:52
+1476589,146588,Sushi of Gari,Japanese,15.96,Weekend,5.0,23,22,2.3,Rainy,Heavy,2:17
+1477828,360844,Tamarind TriBeCa,Indian,8.59,Weekday,5.0,32,31,1.4,Cloudy,Moderate,17:24
+1477680,353606,P.J. Clarke's,American,15.62,Weekday,5.0,27,32,3.5,Clear,Light,20:27
+1477468,109221,Tortaria,Mexican,13.00,Weekday,5.0,21,24,3.3,Clear,Heavy,8:04
+1476619,78318,RedFarm Hudson,Chinese,12.23,Weekend,4.0,24,19,2.7,Clear,Light,8:36
+1476702,152786,Cafe Habana,Mexican,25.22,Weekday,0.0,32,28,2.9,Clear,Moderate,2:19
+1478081,118776,Blue Ribbon Sushi Bar & Grill,Japanese,5.87,Weekend,4.0,31,20,5.3,Snowy,Heavy,14:31
+1477598,81110,Hill Country Fried Chicken,Southern,24.20,Weekend,4.0,25,15,4.9,Rainy,Moderate,1:20
+1477624,104336,Shake Shack,American,19.45,Weekday,4.0,28,24,3.0,Rainy,Light,5:54
+1476773,92806,Shake Shack,American,12.18,Weekend,0.0,29,22,3.8,Snowy,Heavy,9:05
+1478299,130521,Lucky's Famous Burgers,American,6.01,Weekend,0.0,33,16,1.1,Clear,Light,11:23
+1477326,52031,Han Dynasty,Chinese,21.93,Weekend,0.0,24,20,4.5,Snowy,Light,18:09
+1478152,304708,Parm,Italian,5.92,Weekend,3.0,21,25,4.7,Snowy,Moderate,21:24
+1478396,74925,Cafe Mogador,Middle Eastern,24.20,Weekend,4.0,32,22,1.6,Cloudy,Light,15:21
+1477537,104130,Blue Ribbon Sushi,Japanese,15.76,Weekend,0.0,30,26,1.6,Snowy,Light,17:38
+1478372,133202,Sushi Samba,Japanese,6.11,Weekend,5.0,30,27,4.9,Snowy,Moderate,10:27
+1478338,150865,Vanessa's Dumpling House,Chinese,5.72,Weekend,0.0,20,21,2.3,Rainy,Light,12:51
+1477025,331608,Shake Shack,American,19.40,Weekend,0.0,30,18,4.9,Cloudy,Light,23:05
+1477158,363561,Shake Shack,American,8.49,Weekday,0.0,33,32,1.5,Rainy,Heavy,17:33
+1477375,235620,Shake Shack,American,32.93,Weekend,0.0,32,25,1.6,Clear,Light,1:18
+1478316,118975,Shake Shack,American,12.23,Weekend,0.0,20,27,4.5,Cloudy,Heavy,11:35
+1476553,128224,Osteria Morini,Italian,9.17,Weekend,0.0,25,22,4.7,Cloudy,Light,3:41
+1478330,109419,The Meatball Shop,Italian,11.69,Weekend,0.0,30,21,2.6,Rainy,Light,20:20
+1476999,63417,Pepe Rosso To Go,Italian,24.20,Weekend,3.0,27,19,4.1,Cloudy,Light,11:03
+1476569,55334,Sushi of Gari Tribeca,Japanese,9.85,Weekend,0.0,26,17,4.9,Clear,Heavy,17:21
+1477040,301618,Vanessa's Dumplings,Chinese,25.22,Weekday,0.0,32,24,4.7,Rainy,Light,12:37
+1476599,47386,Bubby's ,American,22.75,Weekend,5.0,32,16,3.5,Rainy,Moderate,20:42
+1476548,122609,Blue Ribbon Sushi,Japanese,6.84,Weekend,4.0,20,30,5.1,Stormy,Heavy,19:17
+1477099,391746,Blue Ribbon Sushi,Japanese,24.30,Weekend,4.0,35,18,3.6,Clear,Moderate,5:35
+1477508,62027,Momoya,Japanese,19.35,Weekend,4.0,27,28,1.3,Clear,Moderate,6:24
+1478067,237616,Shake Shack,American,12.13,Weekday,3.0,22,27,2.6,Cloudy,Heavy,1:38
+1476946,103526,Burger Joint,American,9.02,Weekday,5.0,24,29,1.5,Rainy,Heavy,14:31
+1477339,68965,RedFarm Hudson,Chinese,12.18,Weekend,0.0,20,18,1.1,Stormy,Heavy,6:51
+1477490,232035,ilili Restaurant,Middle Eastern,9.17,Weekend,0.0,26,19,1.6,Snowy,Light,19:12
+1477135,62359,Pylos,Mediterranean,19.40,Weekend,0.0,28,29,1.1,Snowy,Light,14:05
+1477931,403833,Room Service,Thai,6.69,Weekday,0.0,25,32,3.8,Rainy,Light,21:49
+1477822,61588,Blue Ribbon Sushi,Japanese,5.82,Weekend,0.0,34,27,1.6,Snowy,Light,0:48
+1477360,91907,Sarabeth's Restaurant,American,12.08,Weekend,0.0,28,26,4.7,Clear,Heavy,8:03
+1477163,376578,Shake Shack,American,15.76,Weekend,5.0,32,24,5.1,Snowy,Moderate,0:55
+1476732,212469,Blue Ribbon Fried Chicken,American,33.03,Weekend,5.0,34,24,2.9,Rainy,Light,23:54
+1477987,104563,Blue Ribbon Sushi,Japanese,24.25,Weekend,4.0,24,23,5.5,Clear,Heavy,20:49
+1478315,235818,Shake Shack,American,12.13,Weekend,0.0,30,19,3.0,Clear,Light,15:12
+1476941,127149,Sarabeth's East,American,5.72,Weekend,0.0,33,26,4.8,Clear,Heavy,14:15
+1477014,399520,Xe May Sandwich Shop,Vietnamese,7.96,Weekend,5.0,25,29,1.4,Cloudy,Light,8:53
+1476640,142773,Hibino,Japanese,14.02,Weekend,4.0,28,15,2.7,Cloudy,Moderate,18:52
+1478272,318874,The Kati Roll Company,Indian,14.07,Weekend,5.0,33,17,4.6,Snowy,Moderate,3:19
+1477026,355592,CafÌ© China,Chinese,21.83,Weekend,4.0,32,15,1.4,Rainy,Light,22:29
+1476897,197265,Hill Country Fried Chicken,Southern,29.15,Weekend,0.0,20,17,3.7,Snowy,Moderate,4:06
+1476560,149508,Shake Shack,American,22.26,Weekend,4.0,32,17,3.4,Clear,Moderate,10:31
+1477007,342882,Yama Japanese Restaurant,Japanese,5.82,Weekend,0.0,30,30,3.3,Clear,Moderate,14:37
+1477958,309981,Blue Ribbon Fried Chicken,American,29.10,Weekend,0.0,31,27,1.6,Cloudy,Heavy,6:06
+1478102,165695,The Smile,American,13.39,Weekend,0.0,20,16,1.3,Snowy,Light,2:34
+1478088,77540,Nobu Next Door,Japanese,9.70,Weekend,5.0,30,29,5.2,Snowy,Heavy,22:53
+1478252,94167,Dos Caminos,Mexican,22.36,Weekend,0.0,30,26,3.5,Snowy,Moderate,16:01
+1477964,165130,The Meatball Shop,Italian,12.13,Weekday,4.0,22,32,3.3,Snowy,Moderate,13:10
+1477708,141908,Bareburger,American,6.07,Weekend,4.0,23,15,5.4,Stormy,Heavy,23:20
+1476623,277898,Blue Ribbon Fried Chicken,American,24.30,Weekend,5.0,22,26,4.1,Snowy,Light,6:18
+1476912,149386,Yama Japanese Restaurant,Japanese,8.78,Weekend,4.0,22,28,1.6,Clear,Moderate,20:38
+1478104,75722,Osteria Morini,Italian,24.25,Weekday,0.0,22,24,2.3,Clear,Light,2:33
+1478065,212326,RedFarm Broadway,Chinese,20.18,Weekday,0.0,30,26,4.8,Rainy,Moderate,5:24
+1477196,50123,Cafe Habana,Mexican,4.85,Weekend,5.0,28,22,4.6,Stormy,Heavy,23:20
+1477531,52463,RedFarm Broadway,Chinese,6.06,Weekend,3.0,32,18,3.2,Clear,Moderate,11:35
+1476580,331143,Waverly Diner,American,6.84,Weekend,0.0,24,18,1.0,Rainy,Moderate,1:04
+1477844,134340,Mira Sushi,Japanese,13.05,Weekend,4.0,33,29,5.1,Stormy,Moderate,11:32
+1477192,374286,Vanessa's Dumpling House,Chinese,5.92,Weekday,0.0,30,32,3.1,Cloudy,Moderate,1:12
+1476618,351749,Shake Shack,American,12.13,Weekday,5.0,30,26,4.3,Clear,Moderate,17:25
+1477256,196355,Shake Shack,American,12.18,Weekday,5.0,23,31,4.3,Stormy,Heavy,2:49
+1477919,75484,Five Guys Burgers and Fries,American,29.15,Weekend,0.0,20,16,3.3,Stormy,Light,12:06
+1478120,47440,Blue Ribbon Fried Chicken,American,8.10,Weekend,0.0,33,22,1.0,Cloudy,Moderate,9:52
+1477791,300549,Shake Shack,American,7.23,Weekend,3.0,29,18,4.2,Snowy,Heavy,8:21
+1477806,195927,Boqueria,Spanish,12.66,Weekend,0.0,27,30,2.2,Cloudy,Moderate,19:16
+1477631,115519,The Meatball Shop,Italian,12.23,Weekend,4.0,31,28,4.2,Snowy,Heavy,1:48
+1477566,211697,Shake Shack,American,9.07,Weekday,4.0,21,32,3.1,Clear,Heavy,10:27
+1477156,93797,ilili Restaurant,Middle Eastern,6.02,Weekday,0.0,27,29,4.2,Snowy,Heavy,19:10
+1478136,61388,Five Guys Burgers and Fries,American,14.12,Weekend,4.0,27,27,4.9,Stormy,Moderate,14:31
+1477690,370096,Melt Shop,American,21.93,Weekend,5.0,30,18,5.0,Clear,Light,13:26
+1477237,59217,Jack's Wife Freda,Mediterranean,16.15,Weekend,4.0,26,22,3.0,Clear,Moderate,21:08
+1477107,211697,Shake Shack,American,7.08,Weekend,4.0,25,23,2.0,Cloudy,Moderate,19:12
+1478108,87188,Momoya,Japanese,32.93,Weekday,3.0,28,27,4.7,Clear,Heavy,9:18
+1478047,127934,Blue Ribbon Fried Chicken,American,12.13,Weekend,0.0,20,26,2.0,Stormy,Moderate,23:31
+1477535,125123,S'MAC,American,15.57,Weekend,5.0,34,28,2.5,Clear,Moderate,0:30
+1477517,77793,The Meatball Shop,Italian,29.15,Weekend,5.0,23,30,4.8,Stormy,Moderate,1:32
+1478029,403019,S'MAC,American,15.47,Weekday,5.0,31,32,4.1,Rainy,Moderate,1:41
+1476585,141918,S'MAC,American,12.37,Weekend,4.0,30,28,4.9,Stormy,Light,5:21
+1477620,148320,Tamarind TriBeCa,Indian,16.49,Weekday,0.0,31,28,3.2,Clear,Heavy,23:14
+1476664,164016,Blue Ribbon Fried Chicken,American,24.30,Weekday,5.0,20,27,3.7,Clear,Light,14:54
+1478422,197832,The Meatball Shop,Italian,14.84,Weekend,0.0,20,28,4.8,Stormy,Heavy,7:23
+1477482,114919,Yama Japanese Restaurant,Japanese,25.27,Weekend,0.0,30,16,4.6,Rainy,Heavy,7:41
+1477271,94152,The Meatball Shop,Italian,17.08,Weekday,5.0,22,26,2.6,Cloudy,Heavy,11:06
+1477094,384571,Blue Ribbon Fried Chicken,American,22.31,Weekday,5.0,28,27,3.5,Clear,Moderate,21:34
+1477722,347263,Dos Caminos,Mexican,12.08,Weekday,5.0,26,26,3.0,Clear,Heavy,3:29
+1476831,169478,RedFarm Broadway,Chinese,12.61,Weekend,4.0,32,17,1.2,Clear,Moderate,1:05
+1477843,241719,Blue Ribbon Sushi Izakaya,Japanese,13.10,Weekday,5.0,24,28,1.7,Cloudy,Light,19:52
+1477323,59181,RedFarm Hudson,Chinese,12.13,Weekend,5.0,28,29,1.1,Snowy,Moderate,0:19
+1477066,376381,Shake Shack,American,8.25,Weekend,0.0,30,15,3.5,Rainy,Light,23:09
+1477914,366975,Blue Ribbon Sushi Bar & Grill,Japanese,16.39,Weekend,0.0,31,18,1.4,Snowy,Light,23:16
+1478064,221430,Han Dynasty,Chinese,14.75,Weekend,0.0,30,16,5.1,Cloudy,Heavy,4:55
+1477711,67647,J. G. Melon,American,12.66,Weekend,4.0,23,20,3.6,Snowy,Moderate,14:44
+1477410,39011,Mamoun's Falafel,Mediterranean,9.07,Weekend,0.0,20,24,3.2,Cloudy,Light,0:44
+1477278,347263,Hummus Place,Middle Eastern,16.15,Weekend,4.0,30,28,3.6,Clear,Light,6:05
+1477663,93133,Nobu Next Door,Japanese,29.29,Weekday,4.0,30,24,4.5,Stormy,Heavy,12:49
+1477195,64830,Cafeteria,American,20.47,Weekday,3.0,32,24,4.8,Cloudy,Light,19:10
+1477737,104548,Tarallucci e Vino Restaurant,Italian,11.59,Weekend,0.0,21,15,1.0,Clear,Light,16:45
+1477058,65779,The Kati Roll Company,Indian,24.35,Weekday,0.0,33,29,1.1,Rainy,Light,3:02
+1476996,149984,Sushi of Gari 46,Japanese,16.44,Weekend,4.0,24,27,5.1,Stormy,Light,15:59
+1477193,304291,P.J. Clarke's,American,5.92,Weekday,3.0,33,30,1.4,Clear,Light,2:16
+1476596,199735,The Meatball Shop,Italian,14.12,Weekend,0.0,32,18,2.9,Cloudy,Light,3:50
+1477154,143796,S'MAC,American,5.92,Weekday,4.0,34,30,2.6,Cloudy,Heavy,11:43
+1478278,42755,Blue Ribbon Fried Chicken,American,13.00,Weekend,0.0,29,30,5.1,Snowy,Heavy,18:54
+1478355,68103,The Meatball Shop,Italian,21.83,Weekend,4.0,30,20,2.2,Stormy,Light,18:20
+1476557,348787,Otto Enoteca Pizzeria,Italian,16.15,Weekend,0.0,35,22,4.9,Stormy,Heavy,6:38
+1477264,35774,The Meatball Shop,Italian,12.23,Weekday,0.0,28,33,3.0,Cloudy,Light,6:44
+1476806,203370,Chipotle Mexican Grill $1.99 Delivery,Mexican,24.30,Weekday,0.0,21,33,2.9,Snowy,Moderate,13:48
+1478000,167136,ilili Restaurant,Middle Eastern,29.05,Weekend,0.0,24,29,4.8,Stormy,Heavy,8:21
+1478159,57943,Shake Shack,American,15.76,Weekend,3.0,35,29,1.9,Clear,Moderate,13:12
+1476910,397362,TAO,Japanese,8.10,Weekend,5.0,32,16,1.4,Clear,Light,13:19
+1476660,47280,Blue Ribbon Sushi,Japanese,12.18,Weekend,5.0,34,29,5.1,Cloudy,Moderate,3:41
+1477558,268365,Cafe Mogador,Middle Eastern,25.17,Weekend,4.0,23,30,2.2,Cloudy,Heavy,20:50
+1477458,114247,Shake Shack,American,20.23,Weekend,0.0,32,18,5.0,Rainy,Heavy,14:28
+1477233,110138,Saravanaa Bhavan,Indian,9.12,Weekday,5.0,28,28,5.1,Stormy,Heavy,7:41
+1477772,91958,TAO,Japanese,12.18,Weekday,0.0,26,33,1.5,Rainy,Light,10:01
+1477319,145389,Westville Hudson,American,20.23,Weekday,0.0,31,29,3.5,Cloudy,Moderate,23:46
+1477731,122609,Blue Ribbon Sushi Izakaya,Japanese,24.25,Weekend,5.0,33,21,2.9,Rainy,Light,22:12
+1477571,121476,Blue Ribbon Fried Chicken,American,16.20,Weekend,0.0,32,23,1.6,Clear,Moderate,2:42
+1477274,96877,Melt Shop,American,9.12,Weekday,0.0,29,33,2.3,Cloudy,Light,11:47
+1477276,304449,Friend of a Farmer,American,9.75,Weekend,0.0,26,30,4.9,Stormy,Moderate,17:14
+1478046,53289,The Loop,Japanese,31.38,Weekend,4.0,26,24,5.3,Cloudy,Heavy,1:05
+1478398,137617,Blue Ribbon Fried Chicken,American,24.30,Weekend,5.0,34,21,2.5,Cloudy,Moderate,2:11
+1477991,69713,The Meatball Shop,Italian,19.35,Weekend,5.0,21,23,4.3,Rainy,Light,9:10
+1478267,93065,Han Dynasty,Chinese,14.16,Weekend,0.0,30,23,1.5,Cloudy,Light,22:14
+1477901,353676,indikitch,Indian,9.26,Weekend,5.0,33,26,5.0,Rainy,Moderate,1:07
+1478247,104555,Sushi of Gari,Japanese,32.98,Weekend,4.0,34,21,2.8,Rainy,Light,17:47
+1477875,154022,Blue Ribbon Sushi Bar & Grill,Japanese,12.18,Weekend,5.0,22,18,2.5,Rainy,Moderate,3:06
+1476749,351799,Sushi of Gari Tribeca,Japanese,9.55,Weekend,4.0,35,25,1.8,Cloudy,Moderate,6:00
+1477600,347263,Hangawi,Korean,6.74,Weekend,0.0,21,22,5.0,Rainy,Heavy,15:57
+1477500,152786,Cafe Habana,Mexican,14.07,Weekend,4.0,26,21,4.9,Cloudy,Light,5:12
+1477498,103500,RedFarm Hudson,Chinese,14.02,Weekend,0.0,29,22,2.0,Cloudy,Moderate,15:54
+1478337,100527,Empanada Mama (closed),Mexican,5.92,Weekday,3.0,34,25,4.8,Snowy,Light,1:53
+1476736,60835,Nobu Next Door,Japanese,12.46,Weekend,4.0,35,28,5.3,Stormy,Heavy,12:37
+1477372,55227,Sushi of Gari Tribeca,Japanese,29.20,Weekend,5.0,32,22,1.4,Snowy,Light,6:40
+1477126,41409,Nobu Next Door,Japanese,15.76,Weekday,0.0,33,31,5.2,Stormy,Light,9:28
+1478158,232035,Balade,Middle Eastern,9.22,Weekday,5.0,25,24,1.6,Clear,Moderate,1:14
+1476586,173667,Osteria Morini,Italian,8.88,Weekend,0.0,34,26,3.6,Cloudy,Light,1:12
+1477951,242689,The Odeon,American,13.92,Weekend,0.0,34,23,3.1,Cloudy,Moderate,17:47
+1477472,67845,RedFarm Hudson,Chinese,29.34,Weekend,5.0,27,29,1.1,Cloudy,Heavy,12:58
+1476738,233614,Yama 49,Japanese,22.36,Weekend,0.0,33,25,3.1,Clear,Light,19:19
+1477445,97079,Donburi-ya,Japanese,5.77,Weekend,0.0,27,29,1.5,Cloudy,Light,7:21
+1477738,97346,Osteria Morini,Italian,12.13,Weekend,5.0,22,26,2.2,Cloudy,Heavy,22:41
+1477403,87603,The Meatball Shop,American,6.69,Weekend,4.0,27,27,3.9,Clear,Light,10:43
+1477392,203370,Chipotle Mexican Grill $1.99 Delivery,Mexican,15.57,Weekend,4.0,31,20,2.3,Snowy,Moderate,18:44
+1476877,53289,The Loop,Japanese,4.66,Weekend,0.0,34,25,4.5,Snowy,Moderate,15:25
+1477877,360844,RedFarm Broadway,Chinese,19.35,Weekend,5.0,33,18,2.5,Clear,Light,11:50
+1477586,84087,The Meatball Shop,Italian,8.78,Weekday,5.0,34,33,1.9,Clear,Light,16:22
+1477936,133202,Blue Ribbon Sushi,Japanese,9.17,Weekend,0.0,27,29,2.7,Cloudy,Moderate,3:52
+1478209,63141,Shake Shack,American,29.10,Weekend,0.0,23,28,1.8,Rainy,Light,12:56
+1477643,139827,RedFarm Hudson,Chinese,5.77,Weekend,4.0,33,28,4.9,Cloudy,Moderate,17:00
+1477809,148499,Posto,Italian,24.25,Weekend,0.0,23,25,2.2,Clear,Moderate,8:43
+1478380,110091,The Meatball Shop,Italian,9.41,Weekday,5.0,30,32,4.8,Snowy,Moderate,13:06
+1477516,52256,Han Dynasty,Chinese,29.15,Weekend,0.0,31,19,3.4,Cloudy,Light,21:54
+1476915,142273,Pepe Rosso To Go,Italian,15.57,Weekend,5.0,29,27,3.9,Clear,Light,23:51
+1478109,87006,Nobu Next Door,Japanese,11.59,Weekend,5.0,26,24,5.2,Rainy,Heavy,17:27
+1476914,141445,Parm,Italian,16.30,Weekend,3.0,26,23,4.7,Snowy,Moderate,20:27
+1477463,66505,Mamoun's Falafel,Mediterranean,12.18,Weekday,5.0,25,30,4.7,Clear,Heavy,5:20
+1477521,113972,RedFarm Hudson,Chinese,12.08,Weekday,0.0,21,26,1.6,Cloudy,Moderate,2:49
+1477427,291891,The Kati Roll Company,Indian,17.03,Weekend,5.0,24,22,4.6,Snowy,Heavy,23:05
+1476944,105614,Terakawa Ramen,Japanese,8.54,Weekday,3.0,27,25,1.1,Cloudy,Light,16:06
+1477929,87006,Nobu Next Door,Japanese,6.74,Weekend,0.0,31,29,4.9,Rainy,Moderate,14:28
+1477220,41249,Kambi Ramen House,Japanese,32.93,Weekend,5.0,35,19,3.9,Clear,Light,3:47
+1476866,42018,Blue Ribbon Sushi,Japanese,12.18,Weekday,0.0,34,32,4.7,Rainy,Heavy,14:08
+1477037,79215,Blue Ribbon Sushi,Japanese,12.23,Weekend,3.0,33,21,5.1,Snowy,Heavy,0:18
+1477495,92806,Shake Shack,American,14.94,Weekday,0.0,33,31,3.8,Rainy,Light,9:50
+1477248,349123,Shake Shack,American,12.95,Weekday,5.0,20,30,3.2,Cloudy,Moderate,17:10
+1476740,60873,Jack's Wife Freda,Mediterranean,25.17,Weekday,4.0,31,25,5.4,Rainy,Heavy,20:08
+1477238,87727,Blue Ribbon Sushi,Japanese,13.87,Weekend,0.0,28,28,4.3,Stormy,Light,17:20
+1478052,77544,Shake Shack,American,24.30,Weekend,4.0,35,16,4.2,Stormy,Heavy,10:06
+1477130,365469,Wo Hop Restaurant,Chinese,14.16,Weekend,4.0,22,16,5.3,Clear,Heavy,19:29
+1477856,143984,The Smile,American,25.17,Weekend,3.0,31,15,1.4,Cloudy,Moderate,18:37
+1477592,87357,Shake Shack,American,31.43,Weekend,5.0,30,19,4.7,Snowy,Light,4:05
+1477659,54093,Shake Shack,American,13.00,Weekend,0.0,20,18,3.1,Rainy,Light,15:03
+1477661,122852,Blue Ribbon Fried Chicken,American,24.20,Weekend,0.0,28,29,1.2,Stormy,Light,21:17
+1477230,284455,Shake Shack,American,12.66,Weekend,5.0,35,24,2.4,Clear,Moderate,20:39
+1476624,117810,Momoya,Japanese,6.84,Weekday,0.0,21,24,5.5,Clear,Moderate,19:07
+1477832,100778,Spice Thai,Thai,15.86,Weekend,0.0,34,25,4.0,Clear,Light,7:14
+1477749,362842,Cafe Habana,Mexican,9.75,Weekday,5.0,34,30,4.8,Rainy,Moderate,18:23
+1478037,97346,da Umberto,Italian,7.61,Weekend,0.0,23,26,4.4,Snowy,Moderate,23:01
+1477109,208020,Sushi of Gari 46,Japanese,29.05,Weekend,0.0,21,23,1.1,Rainy,Light,19:13
+1476902,165110,Room Service,Thai,22.31,Weekend,0.0,22,15,1.8,Cloudy,Light,17:42
+1476916,52832,Dickson's Farmstand Meats,American,15.72,Weekend,4.0,23,28,4.7,Snowy,Heavy,4:08
+1476703,405334,TAO,Japanese,25.22,Weekend,0.0,26,16,3.5,Stormy,Heavy,13:56
+1477785,77306,Xi'an Famous Foods,Chinese,24.30,Weekend,4.0,32,29,3.5,Clear,Light,11:47
+1476650,88201,J. G. Melon,American,8.35,Weekend,5.0,29,23,2.1,Stormy,Light,17:22
+1476643,88185,Momoya,Japanese,22.85,Weekend,4.0,32,17,1.7,Clear,Moderate,21:30
+1477371,369452,UVA Wine Bar & Restaurant,Italian,29.15,Weekend,0.0,29,30,4.4,Rainy,Light,9:37
+1476994,141576,Blue Ribbon Sushi Bar & Grill,Japanese,19.35,Weekday,5.0,23,28,4.3,Cloudy,Moderate,10:31
+1476934,126134,Jack's Wife Freda,Mediterranean,32.93,Weekend,3.0,21,16,2.3,Clear,Light,22:58
+1476954,97370,Momoya,Japanese,14.21,Weekend,0.0,24,30,2.5,Clear,Heavy,3:07
+1478160,52832,Donburi-ya,Japanese,15.86,Weekday,5.0,28,28,2.9,Snowy,Light,3:49
+1478228,86233,TAO,Japanese,15.28,Weekend,4.0,33,22,1.7,Snowy,Light,6:27
+1478002,348096,The Meatball Shop,Italian,12.13,Weekend,5.0,34,16,4.3,Clear,Moderate,0:18
+1478112,232542,The Meatball Shop,Italian,22.36,Weekend,4.0,35,21,3.6,Cloudy,Moderate,12:16
+1478114,237616,Shake Shack,American,5.68,Weekend,0.0,26,18,4.2,Rainy,Heavy,18:01
+1477400,68775,Sushi of Gari Tribeca,Japanese,29.15,Weekend,4.0,22,17,1.5,Rainy,Light,11:02
+1478274,374826,Waverly Diner,American,22.80,Weekend,4.0,25,21,1.5,Snowy,Moderate,23:05
+1477804,381020,The Meatball Shop,Italian,19.45,Weekend,5.0,21,19,5.1,Cloudy,Moderate,20:50
+1477572,150865,Vanessa's Dumpling House,Chinese,15.52,Weekend,5.0,20,23,2.2,Clear,Light,12:11
+1476904,60845,Blue Ribbon Sushi,Japanese,25.27,Weekend,3.0,20,20,2.6,Snowy,Moderate,13:14
+1477336,94480,The Meatball Shop,Italian,32.93,Weekend,5.0,34,29,3.5,Clear,Light,7:42
+1476929,61181,S'MAC,American,24.20,Weekend,0.0,28,17,3.3,Clear,Moderate,5:03
+1477812,93505,Rubirosa,Italian,24.20,Weekend,5.0,31,15,3.7,Clear,Heavy,5:55
+1477210,182080,Shake Shack,American,14.65,Weekday,0.0,26,33,2.0,Clear,Light,6:44
+1477873,370053,Shake Shack,American,12.08,Weekend,3.0,29,24,3.0,Cloudy,Light,22:56
+1477858,60052,Rubirosa,Italian,5.77,Weekend,0.0,27,21,5.0,Snowy,Heavy,14:23
+1477788,270444,P.J. Clarke's,American,4.71,Weekend,0.0,23,15,2.3,Cloudy,Heavy,17:57
+1476711,106968,Blue Ribbon Fried Chicken,American,8.78,Weekend,0.0,22,26,4.9,Clear,Moderate,18:29
+1477997,186473,Blue Ribbon Sushi Izakaya,Japanese,12.23,Weekend,3.0,34,25,1.1,Cloudy,Light,17:26
+1477523,53503,RedFarm Broadway,Chinese,12.23,Weekend,4.0,21,21,5.1,Rainy,Light,8:58
+1476572,356195,Blue Ribbon Fried Chicken,American,29.15,Weekday,5.0,20,29,4.5,Clear,Heavy,6:46
+1476895,105460,Burger Joint,American,13.10,Weekend,0.0,22,18,4.3,Rainy,Heavy,15:00
+1478236,121905,Chipotle Mexican Grill $1.99 Delivery,Mexican,22.26,Weekend,4.0,21,21,4.6,Stormy,Moderate,20:47
+1476628,70456,Parm,Italian,12.56,Weekday,0.0,32,28,5.1,Stormy,Light,21:31
+1476927,62626,Sushi of Gari 46,Japanese,13.05,Weekend,0.0,24,22,5.3,Snowy,Moderate,13:37
+1477547,242754,Rubirosa,Italian,13.92,Weekend,0.0,29,27,5.0,Snowy,Light,20:24
+1478349,229946,Balthazar Boulangerie,French,21.39,Weekend,0.0,35,29,4.4,Snowy,Light,5:31
+1477850,216438,Blue Ribbon Sushi,Japanese,29.25,Weekend,0.0,33,17,5.2,Stormy,Heavy,3:18
+1478048,101202,Burger Joint,American,12.18,Weekend,4.0,35,15,4.9,Clear,Moderate,14:13
+1477133,175290,Shake Shack,American,12.18,Weekend,0.0,26,25,4.5,Snowy,Moderate,22:13
+1476746,201471,ilili Restaurant,Middle Eastern,12.66,Weekend,5.0,21,15,5.4,Stormy,Light,20:02
+1477724,80531,RedFarm Hudson,Chinese,12.18,Weekend,0.0,24,27,1.8,Cloudy,Heavy,2:41
+1476911,74707,Bareburger,American,8.63,Weekend,4.0,21,22,3.5,Rainy,Heavy,0:43
+1478292,334373,Tamarind TriBeCa,Indian,12.18,Weekend,0.0,26,30,5.0,Cloudy,Heavy,17:44
+1478024,241719,Sushi of Gari Tribeca,Japanese,14.12,Weekend,0.0,21,29,5.4,Cloudy,Moderate,23:41
+1478281,58898,Blue Ribbon Sushi,Japanese,16.93,Weekend,4.0,30,25,4.2,Cloudy,Light,12:02
+1478009,379538,Parm,Italian,6.79,Weekend,3.0,21,30,2.0,Cloudy,Moderate,18:32
+1476898,174437,Han Dynasty,Chinese,29.20,Weekend,0.0,26,30,2.2,Stormy,Light,18:18
+1477285,325285,RedFarm Broadway,Chinese,14.02,Weekday,0.0,25,26,2.0,Rainy,Moderate,12:36
+1478335,84502,Nobu Next Door,Japanese,25.17,Weekend,4.0,31,29,5.1,Rainy,Light,5:51
+1477934,60052,RedFarm Broadway,Chinese,12.61,Weekend,5.0,28,21,5.4,Rainy,Heavy,3:24
+1476645,140477,Serafina Fabulous Pizza,Italian,13.68,Weekend,5.0,20,20,1.7,Cloudy,Light,21:30
+1477450,79215,Blue Ribbon Sushi,Japanese,11.93,Weekend,3.0,24,21,1.9,Snowy,Light,6:27
+1477657,177078,Lantern Thai Kitchen,Thai,13.97,Weekend,0.0,28,29,1.4,Clear,Moderate,21:27
+1478135,276431,The Meatball Shop,Italian,14.02,Weekday,5.0,20,27,5.2,Snowy,Heavy,20:58
+1477254,58898,Blue Ribbon Sushi,Japanese,8.10,Weekend,5.0,35,18,2.5,Cloudy,Light,16:46
+1477705,60397,Jack's Wife Freda,Mediterranean,12.18,Weekend,3.0,33,23,4.2,Rainy,Light,23:54
+1477814,62359,Pylos,Mediterranean,35.41,Weekday,4.0,21,29,3.7,Rainy,Light,8:13
+1478059,53947,Gaia Italian Cafe,Italian,8.78,Weekend,0.0,25,15,1.7,Snowy,Light,21:56
+1478192,54365,Shake Shack,American,16.25,Weekend,5.0,27,23,2.3,Clear,Moderate,13:37
+1477743,104130,Blue Ribbon Sushi,Japanese,6.64,Weekend,0.0,23,15,2.5,Clear,Heavy,5:50
+1477203,60138,The Meatball Shop,American,15.86,Weekday,5.0,29,26,2.9,Snowy,Light,11:33
+1477292,386766,Parm,Italian,17.03,Weekday,3.0,21,27,5.4,Cloudy,Heavy,23:57
+1477178,47440,Bareburger,American,24.20,Weekend,4.0,23,23,4.4,Snowy,Moderate,7:58
+1478283,167986,J. G. Melon,American,8.25,Weekday,3.0,34,33,1.8,Clear,Light,11:03
+1477321,89844,Five Guys Burgers and Fries,American,12.08,Weekend,0.0,20,18,5.0,Cloudy,Light,15:08
+1477322,355592,CafÌ© China,Chinese,12.13,Weekend,0.0,27,25,3.0,Stormy,Heavy,18:45
+1477879,362961,ilili Restaurant,Middle Eastern,16.49,Weekend,4.0,30,28,5.3,Clear,Moderate,1:28
+1476741,318095,Blue Ribbon Sushi Izakaya,Japanese,6.79,Weekend,5.0,32,30,4.6,Snowy,Moderate,23:26
+1478303,72639,Sushi of Gari,Japanese,10.72,Weekday,0.0,30,26,5.2,Clear,Light,13:22
+1476647,294246,Piccolo Angolo,Italian,19.35,Weekend,0.0,29,29,1.6,Rainy,Light,17:16
+1476669,142677,Chola Eclectic Indian Cuisine,Indian,8.73,Weekend,5.0,30,28,1.6,Snowy,Light,19:18
+1477049,175101,TAO,Japanese,9.65,Weekend,4.0,25,18,4.5,Stormy,Heavy,8:22
+1477602,320493,Vanessa's Dumplings,Chinese,16.78,Weekend,5.0,27,29,4.5,Stormy,Moderate,6:58
+1477088,129486,Mamoun's Falafel,Mediterranean,12.61,Weekend,4.0,21,17,3.1,Cloudy,Heavy,7:22
+1476964,81405,RedFarm Broadway,Chinese,24.25,Weekend,5.0,29,22,5.5,Stormy,Moderate,17:35
+1477981,154464,Westville Hudson,American,11.16,Weekend,4.0,24,20,1.7,Clear,Moderate,7:22
+1476717,151191,Pongsri Thai,Thai,20.18,Weekday,0.0,23,25,3.2,Clear,Light,3:37
+1477851,66373,Blue Ribbon Sushi Izakaya,Japanese,32.93,Weekend,4.0,21,19,5.5,Stormy,Light,8:09
+1478063,367093,Parm,Italian,15.86,Weekday,0.0,30,24,4.9,Cloudy,Light,5:25
+1477636,94909,Parm,Italian,12.13,Weekend,4.0,29,26,4.2,Cloudy,Heavy,8:41
+1477763,111356,Blue Ribbon Sushi,Japanese,13.87,Weekday,0.0,31,30,5.4,Rainy,Heavy,19:33
+1477944,70564,Rubirosa,Italian,14.12,Weekday,3.0,26,27,4.5,Stormy,Moderate,20:29
+1478073,121686,TAO,Japanese,24.25,Weekend,4.0,22,21,1.3,Clear,Moderate,12:01
+1478357,142356,Blue Ribbon Sushi,Japanese,14.07,Weekday,0.0,35,29,2.5,Clear,Light,7:09
+1478055,7567,indikitch,Indian,5.58,Weekend,0.0,35,30,1.5,Stormy,Light,20:19
+1476815,39029,Prosperity Dumpling,Chinese,13.63,Weekend,5.0,25,24,1.3,Stormy,Moderate,18:31
+1477019,62359,RedFarm Hudson,Chinese,15.52,Weekend,5.0,30,18,4.7,Cloudy,Light,2:37
+1477159,283310,Shake Shack,American,8.73,Weekend,0.0,35,17,2.6,Stormy,Light,7:55
+1478409,151333,Melt Shop,American,25.27,Weekend,5.0,27,30,5.4,Clear,Light,9:51
+1477471,103147,Hot Kitchen,Chinese,29.54,Weekend,5.0,34,28,4.9,Rainy,Moderate,15:47
+1476747,115213,Junoon,Indian,9.22,Weekday,0.0,30,32,1.0,Clear,Light,5:44
+1477165,128600,Blue Ribbon Fried Chicken,American,15.33,Weekend,0.0,23,15,2.6,Stormy,Moderate,23:57
+1477378,115610,Tamarind TriBeCa,Indian,12.13,Weekend,0.0,35,20,5.3,Clear,Light,23:50
+1476803,73873,Han Dynasty,Chinese,14.02,Weekend,0.0,24,15,3.9,Stormy,Light,21:48
+1477792,270525,The Smile,American,8.39,Weekday,0.0,20,31,2.9,Cloudy,Light,11:49
+1478331,42424,Han Dynasty,Chinese,12.13,Weekend,5.0,33,27,2.2,Cloudy,Light,10:30
+1478319,84087,The Meatball Shop,Italian,16.49,Weekend,3.0,22,28,1.8,Rainy,Light,0:15
+1477090,54081,Osteria Morini,Italian,9.22,Weekday,4.0,29,33,1.2,Clear,Light,11:19
+1477623,41136,The Meatball Shop,Italian,19.35,Weekend,0.0,27,20,1.5,Cloudy,Light,20:44
+1477098,304509,RedFarm Broadway,Chinese,22.80,Weekday,0.0,33,33,5.5,Clear,Light,20:40
+1477399,378482,Shake Shack,American,29.49,Weekend,0.0,34,24,5.0,Cloudy,Moderate,17:28
+1476649,38116,Ravagh Persian Grill,Middle Eastern,16.93,Weekend,0.0,33,21,1.4,Clear,Light,16:01
+1478288,58231,Rohm Thai,Thai,29.10,Weekend,0.0,31,23,1.8,Clear,Light,22:49
+1477719,367051,RedFarm Hudson,Chinese,15.04,Weekend,3.0,35,25,2.3,Clear,Light,14:34
+1477816,187187,Momoya,Japanese,11.59,Weekend,3.0,24,29,3.7,Clear,Light,15:24
+1477777,73175,Hill Country Fried Chicken,Southern,31.43,Weekday,5.0,25,28,3.5,Rainy,Light,16:51
+1476637,49695,Blue Ribbon Fried Chicken,American,18.24,Weekend,0.0,21,16,1.6,Clear,Moderate,20:15
+1477349,52327,Nobu Next Door,Japanese,4.47,Weekend,5.0,28,26,2.3,Stormy,Light,23:22
+1478222,370656,Vanessa's Dumplings,Chinese,8.98,Weekend,0.0,20,20,4.3,Stormy,Light,7:59
+1476774,114400,Shake Shack,American,29.39,Weekday,0.0,23,33,3.8,Clear,Heavy,21:16
+1478421,59673,Dig Inn Seasonal Market,American,15.71,Weekday,5.0,27,26,4.3,Clear,Light,11:32
+1476775,66636,Shake Shack,American,29.10,Weekday,5.0,29,31,2.1,Stormy,Moderate,21:36
+1478087,96921,Bareburger,American,8.39,Weekend,3.0,27,30,2.0,Clear,Heavy,17:49
+1476710,65009,Blue Ribbon Sushi Izakaya,Japanese,8.93,Weekend,5.0,28,18,1.7,Clear,Heavy,7:50
+1478395,283052,Han Dynasty,Chinese,13.00,Weekend,4.0,32,22,1.0,Stormy,Light,12:49
+1478265,52832,Dos Caminos,Mexican,16.06,Weekend,0.0,35,19,1.7,Clear,Heavy,8:22
+1476625,348352,Olea,Mediterranean,6.69,Weekday,0.0,20,28,3.1,Snowy,Moderate,6:23
+1477413,325272,Shake Shack,American,16.10,Weekend,0.0,28,24,1.8,Cloudy,Light,7:15
+1477485,165695,Jack's Wife Freda,Mediterranean,6.69,Weekend,5.0,21,16,4.7,Cloudy,Moderate,14:13
+1476708,126026,Nobu Next Door,Japanese,9.51,Weekend,0.0,25,29,3.2,Clear,Heavy,10:28
+1477168,352130,TAO,Japanese,12.08,Weekend,0.0,24,30,2.0,Cloudy,Moderate,10:52
+1476872,42018,Blue Ribbon Sushi,Japanese,5.82,Weekday,0.0,27,28,1.8,Clear,Light,3:41
+1477161,263426,Nobu Next Door,Japanese,9.41,Weekend,0.0,32,30,2.8,Clear,Moderate,10:08
+1477799,399520,Xe May Sandwich Shop,Vietnamese,14.07,Weekday,0.0,28,28,2.0,Cloudy,Light,19:40
+1477309,64151,Rubirosa,Italian,22.80,Weekday,5.0,32,27,2.7,Stormy,Light,3:12
+1478132,74762,Cafeteria,American,12.23,Weekday,0.0,26,25,4.4,Cloudy,Heavy,6:50
+1477456,124085,Blue Ribbon Sushi Bar & Grill,Japanese,15.91,Weekend,0.0,31,16,1.9,Rainy,Light,10:01
+1477678,102085,Otto Enoteca Pizzeria,Italian,9.61,Weekend,5.0,26,30,2.7,Clear,Light,5:36
+1477428,77857,Shake Shack,American,8.00,Weekend,4.0,24,30,4.4,Clear,Light,14:45
+1477359,373285,RedFarm Hudson,Chinese,12.08,Weekend,0.0,21,24,5.3,Clear,Light,13:10
+1477542,59673,Shake Shack,American,12.08,Weekday,0.0,27,27,4.8,Snowy,Moderate,14:37
+1477945,63096,Rubirosa,Italian,14.12,Weekend,0.0,33,15,3.9,Clear,Heavy,22:12
+1477211,304365,Sarabeth's Restaurant,American,21.93,Weekend,0.0,25,27,2.3,Cloudy,Light,14:19
+1477315,176622,Cafe Mogador,Middle Eastern,15.91,Weekend,5.0,32,15,1.8,Clear,Moderate,1:36
+1478058,200631,Amy Ruth's,Southern,7.38,Weekday,4.0,24,29,4.2,Clear,Light,0:55
+1476678,91817,Shake Shack,American,21.39,Weekend,4.0,28,18,5.1,Snowy,Moderate,21:19
+1478363,138024,Cho Dang Gol,Korean,29.25,Weekend,4.0,23,21,4.6,Clear,Moderate,9:21
+1477288,47879,El Parador Cafe,Mexican,13.19,Weekday,5.0,22,28,5.0,Stormy,Moderate,6:16
+1478350,132753,Vanessa's Dumplings,Chinese,15.57,Weekend,5.0,33,28,4.2,Clear,Moderate,9:48
+1477651,404649,Parm,Italian,19.45,Weekday,0.0,28,28,3.6,Clear,Moderate,19:35
+1476977,41246,Shake Shack,American,25.17,Weekend,5.0,27,26,3.5,Cloudy,Moderate,5:56
+1477544,113972,RedFarm Hudson,Chinese,19.35,Weekend,4.0,31,15,1.9,Clear,Light,3:39
+1477487,209552,TAO,Japanese,12.61,Weekend,5.0,32,24,1.6,Cloudy,Light,4:36
+1477187,353331,Chipotle Mexican Grill $1.99 Delivery,Mexican,12.13,Weekend,5.0,34,19,2.3,Clear,Moderate,2:14
+1478387,70564,Jack's Wife Freda,Mediterranean,12.08,Weekend,5.0,30,19,5.1,Cloudy,Heavy,9:32
+1476955,70001,Dirty Bird to Go,American,12.08,Weekday,0.0,23,32,2.9,Rainy,Light,12:19
+1476673,83287,Blue Ribbon Sushi Izakaya,Japanese,9.51,Weekend,0.0,35,21,4.2,Stormy,Heavy,19:59
+1476909,366975,Blue Ribbon Sushi Bar & Grill,Japanese,4.85,Weekend,5.0,20,21,3.8,Clear,Heavy,4:34
+1478204,64153,Blue Ribbon Fried Chicken,American,14.07,Weekday,4.0,34,24,1.5,Clear,Light,2:35
+1476613,65561,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.10,Weekend,5.0,24,28,4.7,Cloudy,Heavy,14:13
+1476739,290266,Socarrat Paella Bar,Spanish,25.22,Weekend,5.0,23,20,3.9,Clear,Moderate,21:56
+1476617,53513,The Meatball Shop,Italian,31.33,Weekend,3.0,30,15,1.8,Clear,Light,12:50
+1477563,385426,Shake Shack,American,17.03,Weekday,5.0,35,32,3.7,Cloudy,Moderate,11:36
+1477302,52832,Don's Bogam BBQ & Wine Bar,Korean,12.23,Weekend,0.0,32,20,1.6,Clear,Heavy,12:04
+1478217,62161,Tamarind TriBeCa,Indian,6.07,Weekend,4.0,30,17,3.1,Cloudy,Heavy,11:33
+1478341,254913,Shake Shack,American,10.82,Weekend,4.0,34,20,4.2,Cloudy,Light,4:52
+1477200,289597,Han Dynasty,Chinese,9.51,Weekday,0.0,24,27,2.3,Clear,Moderate,12:15
+1476982,47440,Bareburger,American,8.73,Weekend,5.0,21,19,4.7,Cloudy,Moderate,13:44
+1478367,100999,Blue Ribbon Sushi Izakaya,Japanese,12.23,Weekday,0.0,26,26,4.9,Cloudy,Light,14:16
+1477852,74412,da Umberto,Italian,32.98,Weekend,0.0,30,28,2.6,Snowy,Moderate,2:23
+1477325,54110,Parm,Italian,19.35,Weekday,4.0,23,26,2.1,Stormy,Light,5:07
+1477524,236739,Xi'an Famous Foods,Chinese,19.45,Weekend,5.0,28,18,3.8,Rainy,Moderate,7:16
+1477430,182252,Five Leaves,American,6.26,Weekday,5.0,31,26,1.4,Rainy,Light,5:28
+1477197,345062,Alidoro,American,12.61,Weekend,0.0,34,22,1.1,Snowy,Moderate,12:26
+1476763,142170,RedFarm Broadway,Chinese,13.10,Weekend,4.0,26,22,4.9,Cloudy,Light,16:09
+1476893,164131,Tony's Di Napoli,Italian,14.07,Weekend,0.0,22,27,1.4,Snowy,Heavy,1:16
+1476884,167828,Shake Shack,American,15.57,Weekend,0.0,35,18,2.5,Clear,Light,18:28
+1477693,67345,Bareburger,American,13.05,Weekend,4.0,31,30,2.8,Stormy,Light,19:01
+1478170,208186,Blue Ribbon Sushi Izakaya,Japanese,16.44,Weekend,0.0,32,23,4.8,Rainy,Light,21:11
+1477676,78939,Blue Ribbon Sushi,Japanese,8.54,Weekend,5.0,34,25,5.0,Rainy,Light,15:02
+1477637,227992,Nobu Next Door,Japanese,12.13,Weekend,0.0,28,16,2.9,Clear,Moderate,7:38
+1477922,304587,Westville Hudson,American,33.03,Weekend,5.0,25,18,3.6,Clear,Light,6:14
+1478151,62941,Cipriani Le Specialita,Italian,5.92,Weekend,5.0,35,30,5.1,Clear,Heavy,0:22
+1477219,389155,The Meatball Shop,Italian,32.98,Weekday,3.0,23,25,3.4,Cloudy,Moderate,7:45
+1478018,304112,Shake Shack,American,16.25,Weekday,5.0,27,31,1.8,Clear,Heavy,21:31
+1477998,90113,Blue Ribbon Sushi,Japanese,29.10,Weekend,5.0,20,16,5.2,Cloudy,Light,16:30
+1477170,197832,The Meatball Shop,Italian,12.08,Weekday,0.0,25,28,3.1,Stormy,Light,8:12
+1478282,221394,Cafe Habana,Mexican,8.25,Weekend,4.0,21,29,4.0,Rainy,Moderate,17:31
+1477826,381020,RedFarm Broadway,Chinese,8.20,Weekend,4.0,31,30,1.7,Clear,Heavy,10:06
+1477890,284835,Shake Shack,American,22.36,Weekday,3.0,20,32,2.6,Cloudy,Moderate,15:15
+1477045,143511,Chipotle Mexican Grill $1.99 Delivery,Mexican,16.44,Weekday,0.0,33,30,3.3,Rainy,Light,16:34
+1478430,133701,The Loop,Japanese,24.30,Weekend,5.0,21,29,3.7,Rainy,Light,18:27
+1477160,61181,The Meatball Shop,Italian,8.63,Weekday,4.0,28,27,1.6,Snowy,Light,11:17
+1477605,91907,Momoya,Japanese,9.02,Weekend,0.0,21,30,3.2,Snowy,Heavy,0:14
+1478351,78939,Blue Ribbon Sushi,Japanese,12.08,Weekend,5.0,31,16,5.2,Clear,Moderate,5:00
+1477017,175101,TAO,Japanese,15.76,Weekend,0.0,26,19,1.1,Snowy,Moderate,7:22
+1478202,345429,Burger Joint,American,21.88,Weekend,5.0,26,24,3.5,Cloudy,Moderate,3:14
+1478053,125262,Barbounia,Mediterranean,5.77,Weekend,0.0,23,23,4.2,Clear,Moderate,8:00
+1476933,375704,Shake Shack,American,32.98,Weekend,3.0,22,21,4.8,Clear,Light,20:58
+1476656,124596,RedFarm Hudson,Chinese,29.10,Weekday,0.0,27,26,1.4,Clear,Heavy,10:49
+1478071,70315,Five Guys Burgers and Fries,American,14.12,Weekend,4.0,28,25,5.3,Clear,Light,5:09
+1476800,183520,Blue Ribbon Sushi,Japanese,11.59,Weekend,0.0,26,23,2.9,Rainy,Moderate,12:45
+1477568,296554,Blue Ribbon Fried Chicken,American,9.75,Weekday,5.0,23,32,3.3,Cloudy,Light,1:33
+1478332,146456,Five Guys Burgers and Fries,American,12.18,Weekend,0.0,22,26,4.7,Snowy,Light,1:09
+1477504,71613,Empanada Mama (closed),Mexican,15.57,Weekend,4.0,24,20,2.2,Cloudy,Light,12:30
+1477597,49010,Shake Shack,American,24.25,Weekend,5.0,34,24,4.7,Snowy,Heavy,8:44
+1478001,64153,Blue Ribbon Fried Chicken,American,31.38,Weekend,3.0,35,20,4.0,Clear,Moderate,19:02
+1477127,314480,Shake Shack,American,15.76,Weekday,5.0,30,24,3.5,Snowy,Light,3:38
+1477846,52574,Blue Ribbon Sushi,Japanese,24.25,Weekday,5.0,30,26,4.7,Cloudy,Light,12:37
+1477297,164131,Tony's Di Napoli,Italian,29.10,Weekend,0.0,26,19,1.2,Rainy,Light,15:30
+1477838,52256,Han Dynasty,Chinese,12.08,Weekend,5.0,22,23,2.8,Clear,Light,1:10
+1477112,65806,Blue Ribbon Fried Chicken,American,12.13,Weekend,0.0,21,28,5.4,Clear,Light,13:20
+1477355,79215,Blue Ribbon Sushi,Japanese,15.86,Weekend,0.0,33,15,2.0,Snowy,Moderate,2:34
+1477365,61181,Shake Shack,American,14.07,Weekend,5.0,33,25,1.0,Clear,Light,12:15
+1477266,85422,Saravanaa Bhavan,Indian,24.25,Weekday,5.0,29,26,2.1,Stormy,Light,23:58
+1477800,344268,Sushi Choshi,Japanese,13.73,Weekend,3.0,35,27,3.1,Clear,Light,17:42
+1478428,53543,The Smile,American,12.18,Weekday,5.0,29,27,3.5,Rainy,Moderate,13:26
+1478400,353331,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.05,Weekend,0.0,28,27,5.1,Clear,Light,3:28
+1478403,294478,RedFarm Broadway,Chinese,32.98,Weekend,4.0,25,15,1.5,Cloudy,Light,13:25
+1477970,198802,Cafe Habana,Mexican,6.69,Weekday,5.0,26,31,5.4,Clear,Light,21:44
+1476928,58205,The Meatball Shop,Italian,24.30,Weekend,0.0,33,21,3.0,Rainy,Heavy,3:40
+1477020,91108,Rubirosa,Italian,7.33,Weekend,5.0,26,22,3.5,Cloudy,Moderate,10:16
+1477973,245264,RedFarm Hudson,Chinese,9.12,Weekday,5.0,29,26,2.7,Clear,Light,23:15
+1478406,129122,Sarabeth's East,American,12.13,Weekend,0.0,34,30,3.9,Cloudy,Moderate,1:45
+1477701,328551,Kanoyama,Japanese,32.98,Weekend,5.0,35,16,4.1,Stormy,Light,18:24
+1477318,42408,UVA Wine Bar & Restaurant,Italian,14.65,Weekday,5.0,32,25,4.9,Cloudy,Light,12:29
+1477438,94132,Parm,Italian,31.33,Weekend,0.0,24,16,1.5,Snowy,Light,5:45
+1478376,67133,RedFarm Broadway,Chinese,9.65,Weekend,5.0,30,20,2.9,Cloudy,Light,16:56
+1477367,343554,Blue Ribbon Fried Chicken,American,12.95,Weekend,5.0,27,28,4.8,Clear,Moderate,2:24
+1477754,133222,P.J. Clarke's,American,21.34,Weekday,5.0,25,28,4.4,Cloudy,Moderate,0:30
+1478280,91722,Shake Shack,American,19.40,Weekend,5.0,32,15,3.2,Clear,Light,12:14
+1478412,43018,RedFarm Hudson,Chinese,6.69,Weekend,0.0,24,20,1.6,Rainy,Light,19:19
+1476887,142356,Blue Ribbon Sushi,Japanese,12.13,Weekday,0.0,26,27,3.8,Stormy,Moderate,20:56
+1478382,144997,Nobu Next Door,Japanese,15.91,Weekend,4.0,26,15,1.2,Clear,Light,18:33
+1478115,93308,Shake Shack,American,5.77,Weekend,4.0,28,18,3.4,Stormy,Light,19:05
+1476782,367449,The Meatball Shop,Italian,12.23,Weekend,5.0,24,17,2.7,Cloudy,Light,18:33
+1478178,125834,The Meatball Shop,Italian,12.23,Weekend,5.0,25,19,3.3,Clear,Light,16:07
+1478294,390459,Shake Shack,American,12.18,Weekend,0.0,35,29,4.1,Clear,Heavy,12:20
+1477854,58025,Tamarind TriBeCa,Indian,11.64,Weekend,0.0,33,23,3.2,Clear,Moderate,18:55
+1477189,54630,V-Nam Cafe,Vietnamese,22.26,Weekend,5.0,33,26,5.0,Clear,Moderate,21:57
+1476894,384698,Don's Bogam BBQ & Wine Bar,Korean,14.07,Weekend,3.0,33,16,2.6,Clear,Light,20:10
+1476807,79215,Blue Ribbon Sushi,Japanese,16.49,Weekend,3.0,24,30,2.1,Stormy,Light,20:27
+1477937,98735,The Meatball Shop,Italian,9.65,Weekday,5.0,34,28,4.5,Clear,Light,22:27
+1478407,386766,Parm,Italian,12.23,Weekend,0.0,21,30,2.5,Snowy,Heavy,7:41
+1478199,70001,Han Dynasty,Chinese,12.18,Weekday,0.0,26,26,5.1,Cloudy,Light,19:00
+1478389,68775,Sushi of Gari Tribeca,Japanese,12.13,Weekend,0.0,25,30,4.3,Rainy,Light,13:09
+1478103,130956,Blue Ribbon Sushi,Japanese,12.95,Weekend,5.0,25,16,2.8,Clear,Light,4:53
+1476824,259341,Momoya,Japanese,19.40,Weekend,4.0,27,16,1.8,Stormy,Light,13:13
+1478441,228541,RedFarm Hudson,Chinese,29.10,Weekend,0.0,27,28,3.5,Stormy,Moderate,9:45
+1478399,264399,Han Dynasty,Chinese,29.15,Weekday,0.0,20,24,4.8,Clear,Moderate,8:57
+1477635,124393,Amma,Indian,31.43,Weekday,5.0,20,27,2.7,Cloudy,Heavy,16:29
+1476797,357592,Blue Ribbon Sushi,Japanese,16.15,Weekend,3.0,23,21,4.2,Rainy,Light,7:24
+1476652,232035,ilili Restaurant,Middle Eastern,8.97,Weekend,0.0,24,19,3.3,Clear,Light,21:06
+1478196,97991,Blue Ribbon Sushi Bar & Grill,Japanese,15.28,Weekday,0.0,24,29,5.0,Stormy,Moderate,3:16
+1477862,317660,Shake Shack,American,10.24,Weekend,0.0,22,21,4.8,Clear,Moderate,11:53
+1478141,150865,Vanessa's Dumpling House,Chinese,29.10,Weekday,0.0,22,25,4.5,Clear,Moderate,2:10
+1476962,342777,Blue Ribbon Sushi,Japanese,12.90,Weekday,3.0,25,31,4.1,Rainy,Light,4:25
+1477959,175290,Otto Enoteca Pizzeria,Italian,29.05,Weekend,5.0,24,18,4.1,Clear,Light,3:20
+1477426,135769,Blue Ribbon Sushi,Japanese,19.35,Weekend,5.0,26,23,5.3,Cloudy,Light,10:52
+1478049,259341,TAO,Japanese,12.71,Weekend,3.0,22,17,1.9,Snowy,Light,18:04
+1477811,373152,Blue Ribbon Sushi,Japanese,24.30,Weekend,5.0,32,28,3.3,Clear,Light,13:06
+1478068,222073,The Smile,American,12.08,Weekend,5.0,27,25,2.3,Clear,Light,10:25
+1477002,133202,ilili Restaurant,Middle Eastern,29.25,Weekend,3.0,27,21,3.6,Cloudy,Light,7:40
+1477139,139755,Tortaria,Mexican,13.05,Weekend,5.0,23,19,1.3,Clear,Light,10:52
+1478150,97806,Shake Shack,American,25.22,Weekend,4.0,35,27,5.4,Clear,Moderate,3:10
+1476603,48677,Shake Shack,American,12.95,Weekend,0.0,32,19,3.1,Cloudy,Moderate,1:50
+1476752,27365,Nobu Next Door,Japanese,16.06,Weekend,0.0,31,23,2.5,Clear,Light,17:04
+1477073,87752,Shake Shack,American,29.05,Weekend,5.0,21,22,1.1,Cloudy,Moderate,12:22
+1477823,50260,Bareburger,American,5.63,Weekend,4.0,32,30,5.4,Clear,Heavy,10:32
+1476684,35631,Shake Shack,American,19.40,Weekend,5.0,32,24,4.2,Snowy,Light,6:56
+1477892,196320,Parm,Italian,25.17,Weekday,4.0,33,32,1.3,Clear,Moderate,21:49
+1477481,47440,Bareburger,American,25.22,Weekday,3.0,31,27,4.7,Cloudy,Light,2:25
+1477538,184085,Hill Country Fried Chicken,Southern,14.84,Weekend,4.0,21,21,4.5,Cloudy,Heavy,7:05
+1476626,84087,The Meatball Shop,Italian,6.69,Weekend,0.0,25,22,3.9,Rainy,Light,1:04
+1477557,140501,The Meatball Shop,Italian,22.36,Weekend,5.0,32,21,2.4,Snowy,Light,16:10
+1477684,39275,TAO,Japanese,15.28,Weekend,5.0,20,27,2.1,Clear,Light,0:14
+1477865,120490,Parm,Italian,8.20,Weekday,0.0,34,24,1.0,Clear,Heavy,22:35
+1477612,56722,Shake Shack,American,22.31,Weekday,0.0,33,32,4.8,Cloudy,Light,2:46
+1476620,54110,Tamarind TriBeCa,Indian,12.23,Weekend,4.0,21,21,4.9,Rainy,Heavy,19:29
+1477244,47386,Bubby's ,American,12.18,Weekday,4.0,28,31,5.4,Clear,Light,2:18
+1477231,63147,Shake Shack,American,12.61,Weekend,4.0,29,19,4.9,Rainy,Moderate,9:38
+1477576,105087,Rubirosa,Italian,14.12,Weekday,4.0,26,32,2.7,Clear,Light,22:23
+1478203,41907,Hatsuhana,Japanese,14.07,Weekend,5.0,27,24,3.8,Clear,Heavy,14:58
+1476890,83469,Han Dynasty,Chinese,12.18,Weekday,3.0,33,29,1.4,Stormy,Heavy,18:13
+1477059,67487,Blue Ribbon Sushi,Japanese,17.07,Weekend,4.0,27,15,2.3,Stormy,Light,21:14
+1477038,96877,The Meatball Shop,Italian,12.18,Weekend,5.0,25,28,3.8,Rainy,Moderate,20:13
+1478220,399729,Blue Ribbon Sushi,Japanese,8.83,Weekend,4.0,20,19,4.5,Cloudy,Light,3:19
+1477459,149984,Sushi of Gari 46,Japanese,14.31,Weekend,0.0,27,25,1.8,Snowy,Moderate,5:33
+1478214,103049,TAO,Japanese,25.22,Weekend,5.0,28,17,2.3,Rainy,Moderate,1:41
+1476636,232214,Terakawa Ramen,Japanese,14.65,Weekend,4.0,30,16,4.5,Clear,Heavy,9:01
+1477807,38050,Blue Ribbon Sushi,Japanese,12.71,Weekday,0.0,24,28,3.6,Cloudy,Light,7:59
+1477841,18902,Rubirosa,Italian,21.88,Weekend,4.0,28,27,4.1,Clear,Light,9:30
+1476998,140279,Blue Ribbon Sushi Bar & Grill,Japanese,12.95,Weekday,0.0,28,28,1.3,Clear,Heavy,12:37
+1477900,276192,Sushi of Gari Tribeca,Japanese,8.63,Weekend,5.0,33,28,2.4,Clear,Light,7:29
+1477173,68300,Blue Ribbon Fried Chicken,American,21.83,Weekend,0.0,20,27,1.0,Cloudy,Light,11:18
+1476876,325285,RedFarm Broadway,Chinese,5.48,Weekend,3.0,27,18,2.9,Stormy,Heavy,13:59
+1477496,132137,Parm,Italian,22.36,Weekend,0.0,27,27,2.0,Cloudy,Moderate,20:11
+1476845,55334,Blue Ribbon Sushi,Japanese,12.13,Weekend,5.0,31,29,5.5,Clear,Light,9:55
+1476642,277898,Blue Ribbon Fried Chicken,American,12.18,Weekend,0.0,25,17,4.9,Clear,Light,3:51
+1477801,268365,Zero Otto Nove,Italian,12.18,Weekday,4.0,29,25,5.1,Clear,Heavy,3:24
+1477594,47440,Bareburger,American,12.18,Weekday,3.0,25,24,1.2,Snowy,Moderate,12:25
+1478318,263426,TAO,Japanese,22.12,Weekday,5.0,32,30,3.1,Stormy,Moderate,4:12
+1476734,148327,Shake Shack,American,33.03,Weekday,0.0,31,28,1.6,Stormy,Moderate,18:28
+1477202,259341,Joe's Shanghai _Àü£¾÷´,Chinese,16.10,Weekend,5.0,31,22,2.4,Stormy,Light,23:34
+1478180,270525,The Smile,American,22.26,Weekend,5.0,25,26,2.2,Clear,Moderate,20:28
+1477992,65589,Blue Ribbon Sushi Izakaya,Japanese,19.45,Weekday,5.0,33,32,1.6,Clear,Light,4:51
+1477164,74424,Shake Shack,American,15.77,Weekend,3.0,29,20,3.2,Clear,Light,23:54
+1478386,240093,The Meatball Shop,Italian,14.70,Weekday,5.0,30,24,5.5,Clear,Light,12:37
+1476756,263426,Shake Shack,American,14.07,Weekend,3.0,21,27,5.3,Clear,Light,7:10
+1477989,102801,ilili Restaurant,Middle Eastern,13.73,Weekday,5.0,22,33,4.2,Clear,Moderate,20:13
+1477972,97806,Shake Shack,American,12.61,Weekend,4.0,26,25,3.7,Clear,Moderate,2:35
+1477452,107240,Shake Shack,American,8.34,Weekend,5.0,21,30,4.9,Clear,Moderate,5:11
+1477578,385150,Blue Ribbon Sushi,Japanese,12.18,Weekend,4.0,27,16,5.0,Rainy,Moderate,18:52
+1478208,371590,The Meatball Shop,Italian,29.15,Weekend,5.0,29,27,1.5,Rainy,Moderate,4:08
+1477215,27609,Blue Ribbon Sushi Bar & Grill,Japanese,24.25,Weekend,5.0,25,26,5.1,Cloudy,Heavy,7:37
+1477479,373152,Blue Ribbon Sushi,Japanese,12.32,Weekday,0.0,29,27,3.5,Cloudy,Light,3:59
+1476675,235818,Shake Shack,American,15.96,Weekday,4.0,28,27,5.4,Snowy,Moderate,12:36
+1476854,47440,Blue Ribbon Fried Chicken,American,6.45,Weekend,4.0,30,24,2.8,Stormy,Heavy,6:46
+1478275,334758,Five Guys Burgers and Fries,American,24.30,Weekend,5.0,28,18,2.2,Snowy,Heavy,10:50
+1477604,128711,RedFarm Hudson,Chinese,12.56,Weekend,3.0,20,22,4.1,Clear,Light,10:25
+1477039,338923,Hill Country Fried Chicken,Southern,22.31,Weekday,3.0,21,25,3.9,Stormy,Heavy,3:43
+1477100,164005,Sushi of Gari,Japanese,15.52,Weekend,0.0,20,16,2.2,Cloudy,Moderate,9:17
+1478008,374826,Dos Caminos,Mexican,6.74,Weekend,5.0,32,26,4.4,Cloudy,Light,18:17
+1478298,79343,Blue Ribbon Sushi Bar & Grill,Japanese,6.02,Weekday,0.0,29,25,2.0,Rainy,Light,22:16
+1477085,103852,J. G. Melon,American,6.74,Weekend,5.0,20,29,1.6,Cloudy,Light,11:07
+1477052,35993,Mira Sushi,Japanese,11.79,Weekend,0.0,32,26,1.7,Clear,Light,23:13
+1478042,201542,TAO,Japanese,29.05,Weekend,4.0,35,24,1.8,Cloudy,Heavy,2:34
+1476605,366975,Blue Ribbon Sushi Bar & Grill,Japanese,19.35,Weekend,0.0,23,17,2.2,Rainy,Light,15:15
+1477825,389740,L'Express,French,11.98,Weekday,5.0,21,28,2.2,Clear,Light,10:08
+1476735,369272,Blue Ribbon Sushi Bar & Grill,Japanese,11.69,Weekday,5.0,21,28,4.1,Cloudy,Light,1:35
+1476686,45396,Blue Ribbon Sushi,Japanese,16.44,Weekend,5.0,30,29,5.0,Clear,Heavy,19:09
+1478435,350180,RedFarm Hudson,Chinese,20.32,Weekday,5.0,30,29,4.3,Snowy,Light,13:37
+1476802,318451,Blue Ribbon Sushi,Japanese,14.02,Weekend,4.0,23,18,1.1,Clear,Light,17:25
+1478416,378027,RedFarm Broadway,Chinese,9.07,Weekend,4.0,35,17,1.1,Clear,Heavy,13:50
+1477893,63513,Mamoun's Falafel,Mediterranean,5.92,Weekday,0.0,31,33,1.6,Snowy,Moderate,7:01
+1477018,53947,Shake Shack,American,15.52,Weekend,5.0,33,17,2.6,Stormy,Light,20:21
+1477706,68258,Jack's Wife Freda,Mediterranean,22.31,Weekend,0.0,23,28,5.0,Cloudy,Moderate,0:27
+1476971,250494,Parm,Italian,28.57,Weekday,5.0,22,32,1.7,Rainy,Light,22:09
+1477470,350659,Shake Shack,American,24.25,Weekend,4.0,27,30,1.4,Stormy,Moderate,9:03
+1477755,107909,Cafeteria,American,12.08,Weekend,3.0,35,28,5.5,Cloudy,Heavy,22:19
+1478084,110461,Blue Ribbon Sushi,Japanese,22.07,Weekend,4.0,33,15,4.6,Clear,Heavy,5:20
+1478163,372722,Shake Shack,American,21.29,Weekend,0.0,35,21,2.1,Clear,Heavy,16:33
+1478431,245862,S'MAC,American,16.49,Weekend,5.0,27,19,5.5,Cloudy,Moderate,14:01
+1477559,127149,P.J. Clarke's,American,25.27,Weekday,5.0,34,29,3.9,Stormy,Light,18:16
+1477666,368295,Blue Ribbon Fried Chicken,American,11.64,Weekend,5.0,24,16,1.4,Stormy,Light,3:43
+1477746,288777,Don's Bogam BBQ & Wine Bar,Korean,12.61,Weekend,4.0,25,26,1.8,Clear,Moderate,15:35
+1478358,371806,The Meatball Shop,Italian,13.00,Weekend,5.0,34,26,4.3,Stormy,Light,21:26
+1476863,40010,The Meatball Shop,American,31.43,Weekend,0.0,31,22,2.5,Clear,Light,3:09
+1477041,52832,Junoon,Indian,25.17,Weekday,0.0,23,24,1.9,Clear,Moderate,8:17
+1478438,114085,Blue Ribbon Sushi Bar & Grill,Japanese,9.12,Weekend,3.0,27,27,2.8,Clear,Light,17:27
+1476616,348096,Parm,Italian,31.43,Weekday,5.0,28,25,2.0,Cloudy,Light,4:50
+1476968,99621,Jack's Wife Freda,Mediterranean,29.05,Weekend,5.0,35,28,4.0,Snowy,Light,14:04
+1478045,97420,Yama 49,Japanese,31.33,Weekend,5.0,21,27,1.7,Clear,Heavy,22:36
+1477660,304365,Sarabeth's Restaurant,American,24.25,Weekend,5.0,23,24,4.4,Cloudy,Light,9:44
+1476584,363561,Shake Shack,American,12.37,Weekend,3.0,28,28,3.3,Clear,Moderate,14:32
+1477619,75251,Blue Ribbon Fried Chicken,American,24.25,Weekend,0.0,27,21,1.1,Stormy,Moderate,19:08
+1477033,59105,Sushi of Gari 46,Japanese,29.05,Weekend,3.0,35,26,1.5,Rainy,Light,17:11
+1477308,321255,Shake Shack,American,5.63,Weekend,0.0,27,16,3.0,Cloudy,Light,11:18
+1476588,128711,RedFarm Hudson,Chinese,9.51,Weekend,3.0,29,26,5.2,Rainy,Light,5:00
+1476713,58434,Blue Ribbon Sushi Izakaya,Japanese,15.76,Weekend,4.0,33,23,2.0,Snowy,Light,19:23
+1477036,162330,Shake Shack,American,11.64,Weekend,0.0,23,29,4.0,Clear,Heavy,16:44
+1477340,186473,Blue Ribbon Sushi,Japanese,12.13,Weekend,5.0,30,28,2.5,Stormy,Light,12:29
+1477682,35432,TAO,Japanese,14.99,Weekend,0.0,24,21,3.5,Cloudy,Light,0:15
+1477514,178172,The Meatball Shop,American,12.18,Weekend,4.0,23,22,2.0,Stormy,Moderate,1:01
+1477046,302132,Dos Caminos Soho,Mexican,12.66,Weekday,5.0,24,30,5.0,Cloudy,Moderate,20:31
+1477593,322787,Parm,Italian,12.08,Weekend,5.0,30,25,3.5,Snowy,Light,11:24
+1476716,37982,Saravanaa Bhavan,Indian,15.52,Weekday,5.0,33,26,3.8,Clear,Light,2:19
+1477357,5444,Go! Go! Curry!,Japanese,20.18,Weekend,3.0,22,29,2.9,Clear,Heavy,13:18
+1476576,297130,Blue Ribbon Sushi,Japanese,31.43,Weekend,5.0,24,17,3.4,Cloudy,Moderate,3:38
+1477888,40500,J. G. Melon,American,12.18,Weekend,0.0,32,22,2.2,Clear,Light,20:38
+1476814,64621,La Follia,Italian,8.05,Weekend,0.0,28,20,5.0,Clear,Heavy,3:46
+1477212,49631,The Meatball Shop,Italian,14.41,Weekend,0.0,28,28,4.2,Snowy,Light,19:09
+1477078,115231,Izakaya Ten,Japanese,12.23,Weekday,5.0,23,24,3.0,Rainy,Light,4:53
+1477061,390436,Blue Ribbon Sushi,Japanese,13.00,Weekday,5.0,22,31,3.2,Clear,Light,1:58
+1477116,126730,The Kati Roll Company,Indian,24.20,Weekend,5.0,26,16,4.0,Snowy,Light,14:41
+1478128,320187,TAO,Japanese,14.75,Weekend,5.0,35,19,2.2,Rainy,Light,9:56
+1477118,105837,Nobu Next Door,Japanese,5.77,Weekend,4.0,25,29,2.3,Cloudy,Light,20:46
+1476646,103147,Hot Kitchen,Chinese,13.00,Weekend,5.0,32,25,3.2,Clear,Heavy,1:26
+1478286,102580,Blue Ribbon Sushi Izakaya,Japanese,29.05,Weekday,4.0,28,25,4.7,Cloudy,Moderate,18:53
+1477876,129823,Rubirosa,Italian,12.23,Weekend,0.0,21,18,5.3,Clear,Light,2:29
+1478443,96943,Cafe Mogador,Middle Eastern,29.88,Weekend,4.0,20,17,2.7,Rainy,Light,23:43
+1478195,115519,Blue Ribbon Fried Chicken,American,20.23,Weekday,4.0,20,26,2.2,Clear,Heavy,10:52
+1477787,14869,Shake Shack,American,4.80,Weekend,4.0,22,24,1.1,Clear,Light,13:47
+1477093,318545,Serafina Fabulous Pizza,Italian,14.84,Weekday,3.0,35,31,4.1,Clear,Light,16:35
+1477140,366954,Blue Ribbon Sushi,Japanese,24.25,Weekend,5.0,35,16,4.5,Clear,Light,16:48
+1477024,68154,Nobu Next Door,Japanese,12.18,Weekend,5.0,32,23,5.4,Snowy,Moderate,0:19
+1478035,178846,Blue Ribbon Fried Chicken,American,10.14,Weekend,4.0,21,17,4.0,Snowy,Heavy,8:09
+1477541,196928,Han Dynasty,Chinese,12.13,Weekend,0.0,20,25,1.6,Stormy,Moderate,12:50
+1477499,306119,Xi'an Famous Foods,Chinese,14.12,Weekend,4.0,32,19,4.0,Cloudy,Moderate,12:20
+1478085,42930,Tony's Di Napoli,Italian,11.30,Weekend,4.0,35,29,2.2,Rainy,Light,6:11
+1477374,177078,Lantern Thai Kitchen,Thai,32.93,Weekend,0.0,34,27,3.7,Clear,Light,7:44
+1477882,80737,RedFarm Broadway,Chinese,24.20,Weekday,0.0,22,33,2.2,Snowy,Heavy,21:32
+1477713,314908,Blue Ribbon Fried Chicken,American,8.44,Weekend,3.0,31,18,1.8,Cloudy,Light,7:39
+1477115,87752,Shake Shack,American,24.25,Weekday,5.0,20,27,4.7,Clear,Light,0:54
+1476658,127149,P.J. Clarke's,American,31.43,Weekend,4.0,31,23,2.2,Snowy,Light,4:08
+1477491,276192,Sushi of Gari Tribeca,Japanese,9.46,Weekend,0.0,22,29,4.2,Stormy,Light,15:54
+1477867,138426,Tony's Di Napoli,Italian,15.81,Weekend,5.0,35,30,3.3,Stormy,Moderate,7:37
+1478097,252342,Westville Hudson,American,12.18,Weekend,3.0,20,25,1.7,Clear,Moderate,10:11
+1478401,112272,The Kati Roll Company,Indian,29.25,Weekend,0.0,30,21,2.7,Cloudy,Moderate,19:43
+1477382,69025,Han Dynasty,Chinese,6.84,Weekend,5.0,22,22,3.7,Cloudy,Moderate,0:48
+1478414,41409,Nobu Next Door,Japanese,12.66,Weekend,0.0,20,21,2.4,Cloudy,Light,4:23
+1477638,113507,Parm,Italian,12.18,Weekend,0.0,32,26,2.4,Cloudy,Moderate,0:55
+1477183,127934,Blue Ribbon Fried Chicken,American,33.03,Weekend,5.0,35,25,3.2,Clear,Light,2:10
+1477681,225912,12 Chairs,Middle Eastern,16.30,Weekday,4.0,27,26,4.4,Snowy,Moderate,4:47
+1477582,297130,Blue Ribbon Sushi,Japanese,12.95,Weekend,0.0,22,23,5.4,Cloudy,Moderate,17:58
+1477190,397588,Kanoyama,Japanese,25.27,Weekday,0.0,29,33,4.4,Snowy,Light,23:01
+1477043,142356,Blue Ribbon Sushi,Japanese,6.74,Weekend,4.0,22,28,2.2,Snowy,Light,10:24
+1477136,120490,Parm,Italian,21.88,Weekend,4.0,23,30,3.6,Cloudy,Light,15:48
+1476972,111356,Bhatti Indian Grill,Indian,32.98,Weekday,0.0,32,30,4.3,Clear,Moderate,1:19
+1476627,120385,Westville Hudson,American,16.98,Weekend,5.0,34,20,1.7,Cloudy,Light,15:20
+1477148,385406,The Meatball Shop,Italian,11.59,Weekday,0.0,21,30,4.4,Rainy,Light,17:14
+1478165,54851,RedFarm Hudson,Chinese,12.18,Weekend,0.0,22,27,2.2,Cloudy,Light,10:21
+1476622,399332,Philippe Chow,Chinese,24.20,Weekday,5.0,28,30,2.7,Stormy,Moderate,7:49
+1477246,39705,Bukhara Grill,Indian,16.54,Weekend,5.0,23,17,3.2,Clear,Light,12:53
+1477512,44759,Sushi of Gari Tribeca,Japanese,9.27,Weekend,0.0,20,17,3.1,Cloudy,Moderate,4:08
+1477696,54809,RedFarm Broadway,Chinese,24.30,Weekday,5.0,24,31,1.9,Cloudy,Light,2:22
+1476578,97079,Donburi-ya,Japanese,12.18,Weekend,0.0,23,23,1.4,Clear,Light,8:30
+1477171,229946,Chipotle Mexican Grill $1.99 Delivery,Mexican,12.13,Weekend,3.0,34,25,2.4,Clear,Moderate,14:35
+1477960,375098,12 Chairs,Middle Eastern,29.10,Weekend,0.0,22,26,3.4,Clear,Light,23:02
+1478260,41991,Blue Ribbon Sushi Bar & Grill,Japanese,12.37,Weekend,0.0,21,16,3.1,Rainy,Heavy,1:38
+1476720,91958,Dirty Bird To Go (archived),American,12.13,Weekend,4.0,22,27,4.7,Cloudy,Light,10:37
+1476767,83287,Blue Ribbon Sushi Izakaya,Japanese,18.24,Weekend,5.0,32,22,3.0,Clear,Moderate,1:48
+1477839,75548,The MasalaWala,Indian,12.13,Weekend,4.0,32,15,2.0,Stormy,Light,0:54
+1477462,304707,Han Dynasty,Chinese,12.08,Weekend,5.0,27,29,3.8,Clear,Moderate,16:03
+1477120,285774,Blue Ribbon Sushi,Japanese,6.79,Weekday,5.0,21,29,4.2,Clear,Light,10:02
+1476858,385350,Blue Ribbon Sushi,Japanese,12.13,Weekend,5.0,26,17,4.3,Stormy,Light,13:49
+1476967,129798,TAO,Japanese,29.49,Weekday,0.0,22,32,3.0,Stormy,Light,22:38
+1477808,123977,Vezzo Thin Crust Pizza,Italian,13.05,Weekend,5.0,31,27,4.4,Snowy,Light,7:22
+1477902,91114,Shake Shack,American,15.77,Weekend,4.0,35,23,3.6,Cloudy,Light,8:08
+1477416,123977,Vezzo Thin Crust Pizza,Italian,22.26,Weekday,0.0,22,32,4.3,Clear,Heavy,10:32
+1476833,388420,Sushi of Gari 46,Japanese,9.02,Weekend,5.0,32,17,1.7,Clear,Moderate,7:55
+1476813,261665,Han Dynasty,Chinese,7.71,Weekend,5.0,22,18,3.0,Cloudy,Light,7:40
+1477907,213212,Blue Ribbon Fried Chicken,American,14.65,Weekend,0.0,34,23,1.0,Clear,Heavy,21:16
+1477668,160957,Han Dynasty,Chinese,22.31,Weekend,5.0,29,15,2.8,Snowy,Heavy,11:12
+1477306,94691,brgr,American,5.72,Weekday,3.0,24,26,1.8,Cloudy,Moderate,0:17
+1478257,41877,Cafe Mogador,Middle Eastern,6.69,Weekend,4.0,23,30,1.7,Rainy,Light,11:25
+1477662,6987,Hill Country Fried Chicken,Southern,29.78,Weekday,0.0,35,33,2.3,Clear,Light,6:30
+1478161,52327,Sushi of Gari,Japanese,16.01,Weekend,0.0,33,19,2.8,Clear,Moderate,20:45
+1478225,142574,Sushi of Gari,Japanese,15.96,Weekend,0.0,22,19,1.2,Clear,Heavy,7:17
+1476839,107909,Shake Shack,American,14.07,Weekend,0.0,33,21,3.5,Clear,Moderate,10:14
+1477847,106478,Blue Ribbon Sushi,Japanese,24.25,Weekday,4.0,22,29,1.9,Cloudy,Moderate,11:37
+1476718,35643,Vanessa's Dumpling House,Chinese,14.84,Weekend,5.0,31,24,2.2,Clear,Light,8:03
+1478429,355090,Shake Shack,American,22.85,Weekend,5.0,24,23,4.2,Clear,Heavy,18:58
+1476885,133349,Vanessa's Dumplings,Chinese,20.23,Weekend,5.0,33,17,3.8,Cloudy,Light,3:33
+1478230,97346,RedFarm Hudson,Chinese,14.60,Weekend,3.0,30,28,1.9,Cloudy,Light,20:04
+1478162,241080,TAO,Japanese,15.52,Weekend,4.0,32,27,2.8,Clear,Light,5:41
+1477645,343554,Blue Ribbon Fried Chicken,American,8.98,Weekend,3.0,26,27,2.9,Cloudy,Moderate,14:23
+1477583,370096,Melt Shop,American,19.40,Weekend,4.0,30,25,2.9,Cloudy,Light,21:52
+1477214,98319,Five Guys Burgers and Fries,American,13.00,Weekday,5.0,30,27,3.0,Rainy,Moderate,20:07
+1477529,377260,The Smile,American,5.82,Weekend,3.0,22,25,1.7,Clear,Moderate,3:06
+1477648,110792,Blue Ribbon Sushi,Japanese,16.06,Weekend,0.0,24,21,4.6,Clear,Light,10:54
+1476874,60901,RedFarm Hudson,Chinese,5.82,Weekend,5.0,22,22,1.6,Clear,Light,9:12
+1477097,132906,Sushi of Gari 46,Japanese,13.05,Weekday,0.0,28,30,4.2,Snowy,Light,1:12
+1477974,41907,Parm,Italian,9.22,Weekend,4.0,31,25,5.4,Rainy,Moderate,17:36
+1478036,186976,Burger Joint,American,8.35,Weekend,4.0,28,17,1.0,Clear,Light,13:53
+1478371,258275,Cafe Habana,Mexican,25.17,Weekend,0.0,27,26,1.3,Clear,Light,15:37
+1476730,344577,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.05,Weekend,4.0,22,21,4.5,Clear,Light,23:55
+1476768,72757,Jack's Wife Freda,Mediterranean,8.49,Weekend,0.0,23,18,4.7,Clear,Moderate,5:54
+1476786,103852,Blue Ribbon Sushi,Japanese,6.74,Weekend,5.0,22,29,4.5,Clear,Heavy,8:57
+1478242,372276,Pinto Nouveau Thai Bistro,Thai,24.20,Weekend,5.0,29,15,1.9,Stormy,Light,1:23
+1477773,72726,Shake Shack,American,12.18,Weekend,5.0,32,24,2.0,Cloudy,Light,9:49
+1477063,317446,The Meatball Shop,Italian,19.40,Weekend,5.0,28,30,2.1,Cloudy,Light,6:34
+1477419,186454,Shake Shack,American,14.07,Weekend,5.0,34,17,3.2,Stormy,Moderate,12:42
+1476864,381020,RedFarm Broadway,Chinese,31.86,Weekend,4.0,25,19,2.6,Clear,Light,15:34
+1476791,390484,RedFarm Broadway,Chinese,12.56,Weekday,4.0,35,33,2.2,Rainy,Light,0:54
+1477054,351799,Sushi of Gari Tribeca,Japanese,14.07,Weekend,5.0,34,29,3.8,Cloudy,Heavy,14:39
+1478184,232359,The Meatball Shop,American,5.82,Weekend,5.0,30,30,2.4,Clear,Heavy,0:04
+1476851,361220,Carmine's,Italian,19.98,Weekday,5.0,34,30,2.9,Cloudy,Heavy,8:16
+1476597,373059,Shake Shack,American,14.07,Weekend,0.0,31,25,2.3,Clear,Moderate,2:13
+1477241,42828,Jack's Wife Freda,Mediterranean,14.12,Weekday,5.0,25,25,4.8,Clear,Heavy,21:33
+1477282,241719,Sushi of Gari Tribeca,Japanese,12.42,Weekend,4.0,23,20,1.1,Stormy,Moderate,13:07
+1477874,41168,Parm,Italian,12.13,Weekend,0.0,25,29,2.2,Clear,Light,18:28
+1476852,369809,Five Guys Burgers and Fries,American,19.45,Weekday,3.0,28,28,4.9,Snowy,Light,4:53
+1476958,41638,Blue Ribbon Fried Chicken,American,12.18,Weekend,4.0,26,29,3.3,Clear,Heavy,15:28
+1477226,361728,The Meatball Shop,Italian,6.69,Weekend,0.0,25,18,2.9,Clear,Moderate,3:25
+1477327,328731,Nobu Next Door,Japanese,13.97,Weekday,0.0,27,24,3.5,Cloudy,Light,9:19
+1476905,360844,Blue Ribbon Sushi Bar & Grill,Japanese,5.72,Weekday,5.0,32,26,2.9,Stormy,Light,2:21
+1478433,94700,Haandi,Indian,13.10,Weekend,0.0,31,30,4.2,Rainy,Light,7:19
+1476666,205241,Shake Shack,American,6.07,Weekday,4.0,23,27,1.5,Clear,Heavy,8:02
+1476552,334758,Melt Shop,American,12.56,Weekend,4.0,25,23,1.4,Rainy,Light,11:22
+1477137,157578,P.J. Clarke's,American,14.07,Weekday,5.0,33,26,1.9,Snowy,Light,16:31
+1477440,127934,Blue Ribbon Fried Chicken,American,12.52,Weekday,4.0,24,31,4.1,Clear,Moderate,0:39
+1477545,144352,Shake Shack,American,21.93,Weekday,0.0,21,33,3.9,Clear,Light,12:04
+1478215,92726,Sarabeth's East,American,25.27,Weekend,4.0,23,19,4.5,Cloudy,Light,16:52
+1478301,184325,Asuka Sushi,Japanese,22.75,Weekday,5.0,25,32,1.3,Rainy,Moderate,17:57
+1477294,39334,The Meatball Shop,American,12.18,Weekend,5.0,22,26,3.2,Clear,Heavy,8:11
+1477235,115841,Rubirosa,Italian,15.38,Weekday,0.0,30,31,1.9,Stormy,Light,6:59
+1478012,114919,Yama Japanese Restaurant,Japanese,12.66,Weekend,0.0,25,26,4.4,Cloudy,Moderate,17:33
+1477005,87006,Nobu Next Door,Japanese,25.17,Weekend,0.0,21,16,5.3,Clear,Light,1:10
+1476600,141912,P.J. Clarke's,American,24.25,Weekend,0.0,24,15,3.2,Stormy,Light,2:06
+1478270,303548,Shake Shack,American,14.02,Weekend,4.0,20,21,3.0,Cloudy,Moderate,15:54
+1477299,60039,ilili Restaurant,Middle Eastern,31.33,Weekday,4.0,29,27,3.9,Rainy,Light,19:39
+1477388,396432,Blue Ribbon Sushi Izakaya,Japanese,9.70,Weekend,0.0,25,15,4.4,Clear,Light,6:08
+1477221,125510,Blue Ribbon Sushi Izakaya,Japanese,33.03,Weekend,3.0,34,23,5.1,Rainy,Heavy,9:39
+1476691,68775,Sushi of Gari Tribeca,Japanese,24.20,Weekend,0.0,22,21,5.1,Clear,Moderate,21:56
+1476838,51356,Burger Joint,American,16.15,Weekend,0.0,31,15,1.2,Clear,Light,16:51
+1477913,92096,Aurora,Italian,21.93,Weekend,0.0,31,18,1.8,Clear,Heavy,0:34
+1477453,83287,Shake Shack,American,9.41,Weekend,5.0,22,20,1.1,Clear,Moderate,7:56
+1477946,81152,Hill Country Fried Chicken,Southern,14.12,Weekend,5.0,25,15,4.1,Cloudy,Moderate,18:40
+1477395,56219,Parm,Italian,14.55,Weekday,5.0,30,32,2.4,Cloudy,Heavy,1:15
+1478404,97991,Blue Ribbon Sushi Bar & Grill,Japanese,33.03,Weekend,5.0,28,15,1.7,Snowy,Moderate,17:07
+1476567,122609,Blue Ribbon Sushi,Japanese,13.00,Weekend,5.0,34,15,3.2,Stormy,Heavy,1:40
+1476903,53874,Sarabeth's,American,25.17,Weekend,3.0,28,23,5.4,Clear,Light,12:52
+1478374,64151,Rubirosa,Italian,5.97,Weekend,3.0,30,25,1.4,Clear,Light,2:52
+1476764,44049,Sushi Samba,Japanese,13.00,Weekend,4.0,33,21,1.1,Stormy,Heavy,6:41
+1476629,317993,Melt Shop,American,12.66,Weekend,3.0,27,26,2.7,Stormy,Light,3:18
+1476936,260035,Blue Ribbon Sushi Bar & Grill,Japanese,14.12,Weekend,0.0,31,25,1.7,Clear,Light,15:29
+1478342,142681,Osteria Morini,Italian,8.30,Weekend,0.0,27,19,5.3,Clear,Moderate,6:41
+1477229,72339,Hatsuhana,Japanese,17.03,Weekday,4.0,35,33,2.6,Stormy,Light,1:14
+1476961,112272,Blue Ribbon Sushi,Japanese,14.02,Weekday,0.0,35,29,1.8,Clear,Moderate,19:14
+1477332,43018,RedFarm Hudson,Chinese,24.20,Weekend,5.0,27,19,1.7,Clear,Moderate,21:29
+1478193,83287,Five Guys Burgers and Fries,American,16.01,Weekend,0.0,27,19,3.5,Stormy,Light,1:38
+1478410,84087,The Meatball Shop,Italian,25.22,Weekend,5.0,32,25,1.8,Cloudy,Light,16:34
+1477080,67848,The Kati Roll Company,Indian,19.45,Weekend,0.0,25,24,1.5,Rainy,Light,17:10
+1477169,46696,Blue Ribbon Sushi Bar & Grill,Japanese,12.08,Weekday,5.0,29,24,1.9,Snowy,Moderate,14:14
+1476761,64153,Blue Ribbon Fried Chicken,American,24.25,Weekday,5.0,33,30,4.8,Cloudy,Moderate,20:21
+1477584,275689,Cafe Habana,Mexican,16.98,Weekday,4.0,23,30,2.8,Snowy,Light,18:41
+1477916,121706,Blue Ribbon Fried Chicken,American,13.00,Weekend,0.0,24,30,3.4,Snowy,Moderate,9:10
+1476561,115213,Tamarind TriBeCa,Indian,13.24,Weekend,0.0,23,30,4.3,Cloudy,Light,17:46
+1477072,113507,Parm,Italian,29.39,Weekday,0.0,26,30,1.1,Stormy,Heavy,17:00
+1476755,331143,Waverly Diner,American,11.59,Weekend,0.0,25,22,4.2,Clear,Light,8:36
+1478293,84045,Barbounia,Mediterranean,12.13,Weekend,0.0,26,26,2.7,Cloudy,Light,6:14
+1477142,87151,Rubirosa,Italian,24.20,Weekend,4.0,23,26,4.8,Clear,Moderate,1:45
+1477494,300003,Crema Restaurante,Mexican,15.86,Weekend,0.0,31,30,1.2,Snowy,Moderate,8:25
+1477176,260680,Tamarind TriBeCa,Indian,12.95,Weekday,3.0,27,24,5.4,Cloudy,Moderate,12:16
+1478383,121905,Shake Shack,American,15.86,Weekend,3.0,34,20,3.7,Clear,Moderate,3:11
+1476917,58675,Big Daddy's,American,14.84,Weekend,5.0,32,22,4.8,Cloudy,Light,16:42
+1478082,103005,Yama Japanese Restaurant,Japanese,5.77,Weekend,0.0,34,21,3.0,Stormy,Moderate,17:07
+1477502,367076,Sushi of Gari 46,Japanese,22.80,Weekend,0.0,30,25,2.3,Rainy,Heavy,6:21
+1477734,81658,The Meatball Shop,Italian,29.25,Weekday,5.0,35,29,1.2,Snowy,Moderate,0:20
+1477151,97991,Blue Ribbon Sushi Bar & Grill,Japanese,22.36,Weekend,4.0,25,18,3.5,Cloudy,Light,17:50
+1478333,93437,Sushi of Gari 46,Japanese,22.26,Weekend,5.0,27,26,4.5,Snowy,Moderate,0:24
+1477013,52832,Donburi-ya,Japanese,8.01,Weekday,5.0,30,30,3.6,Clear,Light,9:46
+1476949,14869,Pepe Rosso To Go,Italian,16.30,Weekend,0.0,23,30,3.3,Clear,Light,8:48
+1477779,39275,TAO,Japanese,31.43,Weekend,0.0,34,20,4.0,Snowy,Moderate,10:48
+1478131,395616,Parm,Italian,12.13,Weekend,3.0,23,15,4.6,Snowy,Light,10:32
+1477769,129798,TAO,Japanese,8.05,Weekday,0.0,26,31,3.6,Rainy,Heavy,15:10
+1478099,97255,Parm,Italian,19.40,Weekday,0.0,24,28,1.4,Stormy,Heavy,14:12
+1476810,95164,Amma,Indian,19.35,Weekend,0.0,30,16,3.5,Clear,Moderate,13:41
+1477279,35432,TAO,Japanese,16.15,Weekend,3.0,24,22,3.9,Rainy,Light,23:05
+1478309,127130,Momoya,Japanese,16.05,Weekday,4.0,34,33,3.6,Cloudy,Moderate,14:02
+1477368,132137,Parm,Italian,24.25,Weekend,4.0,34,21,1.2,Cloudy,Moderate,15:26
+1477409,146588,Shake Shack,American,9.07,Weekday,3.0,35,26,3.2,Stormy,Light,13:04
+1477506,283831,Blue Ribbon Sushi Bar & Grill,Japanese,13.05,Weekday,5.0,22,28,3.4,Stormy,Moderate,5:59
+1476888,342107,Shake Shack,American,12.13,Weekday,5.0,25,30,5.2,Clear,Moderate,3:28
+1477579,349854,Shake Shack,American,24.35,Weekday,5.0,34,26,1.8,Clear,Light,16:47
+1477977,43856,Han Dynasty,Chinese,16.01,Weekend,5.0,30,16,1.2,Clear,Moderate,16:45
+1478336,138426,Tony's Di Napoli,Italian,5.82,Weekend,5.0,26,26,4.6,Rainy,Light,17:44
+1477649,106478,Cafe Mogador,Middle Eastern,16.15,Weekend,5.0,29,27,4.0,Cloudy,Light,4:19
+1477108,47280,Blue Ribbon Sushi,Japanese,29.68,Weekend,3.0,26,30,4.9,Clear,Light,7:04
+1477947,78560,The Meatball Shop,Italian,12.18,Weekend,3.0,27,20,4.6,Clear,Moderate,10:59
+1477488,344586,Sushi of Gari 46,Japanese,12.56,Weekend,4.0,20,22,4.0,Cloudy,Moderate,13:14
+1477236,1311,Chipotle Mexican Grill $1.99 Delivery,Mexican,16.10,Weekend,0.0,22,26,3.6,Clear,Moderate,14:59
+1478392,77511,Parm,Italian,21.93,Weekend,4.0,22,25,1.5,Snowy,Light,22:11
+1476940,197633,Sushi of Gari 46,Japanese,5.77,Weekday,4.0,32,24,5.0,Clear,Moderate,5:51
+1477671,393765,Nobu Next Door,Japanese,6.02,Weekend,5.0,33,24,2.7,Stormy,Light,20:27
+1476742,92096,Aurora,Italian,6.74,Weekday,0.0,30,26,2.3,Clear,Moderate,16:40
+1478177,80683,Blue Ribbon Sushi,Japanese,11.59,Weekend,4.0,22,18,4.3,Stormy,Light,23:45
+1477035,141496,Dickson's Farmstand Meats,American,33.03,Weekend,5.0,35,20,2.8,Clear,Light,14:07
+1477923,75115,RedFarm Hudson,Chinese,33.03,Weekend,3.0,32,19,2.0,Rainy,Light,12:14
+1478054,170221,Shake Shack,American,5.72,Weekend,0.0,24,19,4.4,Cloudy,Light,4:38
+1477590,145952,Blue Ribbon Sushi,Japanese,29.15,Weekday,0.0,26,24,2.9,Stormy,Light,2:45
+1477984,353676,indikitch,Indian,14.07,Weekend,4.0,20,30,3.5,Clear,Heavy,16:40
+1476828,52832,Donburi-ya,Japanese,6.64,Weekday,0.0,21,29,2.3,Clear,Light,16:57
+1477234,91817,Melt Shop,American,9.60,Weekend,5.0,30,16,2.9,Stormy,Moderate,4:09
+1477829,164529,Blue Ribbon Sushi,Japanese,9.32,Weekend,4.0,32,18,2.2,Clear,Moderate,17:11
+1477191,93797,ilili Restaurant,Middle Eastern,25.22,Weekday,5.0,25,33,3.8,Clear,Heavy,6:15
+1477509,382076,Shake Shack,American,16.93,Weekend,0.0,25,26,2.7,Cloudy,Heavy,8:04
+1477950,301032,Blue Ribbon Fried Chicken,American,16.44,Weekend,4.0,24,16,5.4,Clear,Light,9:16
+1476679,241719,Blue Ribbon Sushi Izakaya,Japanese,14.41,Weekend,5.0,22,20,5.1,Stormy,Moderate,13:53
+1478388,285143,Pepe Rosso To Go,Italian,12.13,Weekend,4.0,25,18,2.0,Snowy,Moderate,15:31
+1478078,54608,Tamarind TriBeCa,Indian,22.26,Weekend,5.0,34,15,4.5,Rainy,Moderate,6:00
+1477443,105903,Shake Shack,American,24.30,Weekday,4.0,35,29,2.9,Rainy,Moderate,1:59
+1477272,143984,The Smile,American,12.27,Weekday,0.0,32,24,1.6,Rainy,Moderate,23:47
+1476868,122609,Blue Ribbon Sushi Izakaya,Japanese,12.23,Weekend,0.0,33,23,4.3,Snowy,Moderate,2:02
+1478432,331143,Waverly Diner,American,14.60,Weekday,3.0,20,32,3.8,Clear,Light,13:41
+1476988,94115,Moonstruck on Second,American,14.94,Weekend,5.0,27,20,2.7,Clear,Light,20:35
+1476762,367111,Blue Ribbon Sushi Bar & Grill,Japanese,16.54,Weekend,0.0,27,17,2.8,Clear,Moderate,22:34
+1477925,347181,RedFarm Hudson,Chinese,11.64,Weekend,0.0,34,18,4.4,Rainy,Moderate,23:59
+1478145,42461,Melt Shop,American,11.69,Weekday,4.0,21,27,3.6,Cloudy,Moderate,11:11
+1477042,209179,RedFarm Broadway,Chinese,6.74,Weekend,0.0,31,27,4.6,Clear,Light,22:04
+1476834,176622,Cafe Mogador,Middle Eastern,9.22,Weekend,0.0,23,15,1.4,Clear,Light,10:32
+1477446,88333,The Meatball Shop,American,5.77,Weekend,0.0,33,27,4.1,Snowy,Heavy,14:10
+1477727,333311,Blue Ribbon Sushi Izakaya,Japanese,21.93,Weekend,0.0,35,26,1.7,Snowy,Moderate,2:38
+1476812,83287,Shake Shack,American,9.02,Weekday,4.0,23,27,2.5,Stormy,Light,17:00
+1477948,141550,Serafina Fabulous Pizza,Italian,22.80,Weekday,4.0,28,31,1.7,Cloudy,Moderate,23:31
+1477739,63096,Rubirosa,Italian,12.51,Weekend,5.0,21,15,5.0,Clear,Moderate,3:49
+1476801,104130,Ravagh Persian Grill,Middle Eastern,14.07,Weekday,5.0,34,33,4.4,Stormy,Light,8:18
+1477530,64754,The Kati Roll Company,Indian,5.34,Weekend,4.0,27,18,4.3,Cloudy,Light,13:00
+1478140,62730,Westville Hudson,American,29.10,Weekend,0.0,20,24,3.8,Stormy,Moderate,10:21
+1477398,87357,Five Guys Burgers and Fries,American,6.40,Weekday,5.0,23,32,2.8,Clear,Light,12:50
+1477575,367800,Cafe Mogador,Middle Eastern,14.12,Weekend,0.0,24,24,5.0,Clear,Light,15:45
+1477780,303409,TAO,Japanese,12.18,Weekend,0.0,23,24,4.7,Clear,Moderate,10:42
+1477726,268958,Osteria Morini,Italian,19.45,Weekend,0.0,26,29,2.2,Cloudy,Heavy,3:04
+1477703,121681,Momoya,Japanese,11.59,Weekend,5.0,20,21,3.1,Clear,Moderate,8:41
+1476631,57263,Nobu Next Door,Japanese,9.22,Weekend,0.0,29,23,1.7,Clear,Light,6:33
+1476822,284256,Empanada Mama (closed),Mexican,12.13,Weekend,5.0,21,22,3.8,Cloudy,Light,23:00
+1477869,125854,Shake Shack,American,15.76,Weekend,4.0,34,27,4.9,Clear,Light,14:57
+1478245,52832,Junoon,Indian,29.49,Weekend,5.0,23,17,5.2,Clear,Moderate,5:54
+1477250,41409,Nobu Next Door,Japanese,19.35,Weekend,4.0,28,30,2.6,Clear,Light,4:58
+1477591,97806,Shake Shack,American,31.43,Weekend,0.0,30,19,3.5,Cloudy,Heavy,7:19
+1477840,35309,Blue Ribbon Sushi,Japanese,19.40,Weekend,5.0,24,25,1.8,Clear,Moderate,14:10
+1477613,186473,Blue Ribbon Sushi,Japanese,11.69,Weekend,0.0,28,29,5.1,Cloudy,Light,10:01
+1477129,52832,Han Dynasty,Chinese,19.30,Weekend,0.0,34,21,5.3,Rainy,Light,11:18
+1476670,355970,The Meatball Shop,Italian,7.61,Weekend,3.0,20,26,2.7,Rainy,Light,8:48
+1478155,5693,The Meatball Shop,Italian,8.30,Weekday,0.0,29,32,3.1,Cloudy,Heavy,4:23
+1477928,70709,RedFarm Hudson,Chinese,25.17,Weekend,0.0,21,17,3.9,Clear,Light,19:55
+1478233,264707,TAO,Japanese,12.08,Weekday,3.0,24,26,1.7,Clear,Light,6:35
+1477622,84087,The Meatball Shop,Italian,12.71,Weekday,5.0,29,33,2.6,Clear,Moderate,4:17
+1478130,114410,The Meatball Shop,Italian,12.18,Weekend,0.0,20,16,4.7,Cloudy,Light,6:01
+1477698,60835,Parm,Italian,29.35,Weekend,5.0,29,17,4.7,Stormy,Heavy,0:03
+1478080,312853,Five Guys Burgers and Fries,American,25.27,Weekend,5.0,27,29,4.6,Snowy,Light,9:55
+1477533,236739,Xi'an Famous Foods,Chinese,8.54,Weekend,5.0,29,30,1.4,Rainy,Moderate,7:58
+1476729,396481,Han Dynasty,Chinese,29.15,Weekend,0.0,27,15,1.5,Cloudy,Light,10:02
+1477980,385150,Blue Ribbon Sushi,Japanese,17.85,Weekend,0.0,28,18,4.5,Rainy,Light,17:48
+1478019,106006,Blue Ribbon Sushi Izakaya,Japanese,16.10,Weekend,3.0,20,28,1.3,Clear,Moderate,12:14
+1477505,399832,The Kati Roll Company,Indian,14.07,Weekend,5.0,23,20,5.2,Clear,Light,4:59
+1477204,376578,Shake Shack,American,15.57,Weekday,4.0,34,25,1.9,Rainy,Moderate,9:08
+1477988,82041,Parm,Italian,16.44,Weekend,4.0,23,22,4.5,Cloudy,Moderate,21:21
+1478345,365871,Cafe de La Esquina,Mexican,16.06,Weekend,5.0,27,21,5.0,Stormy,Heavy,2:18
+1478413,318689,Olive Garden,Italian,6.74,Weekend,5.0,23,19,2.8,Cloudy,Moderate,3:56
+1476639,399172,Blue Ribbon Fried Chicken,American,14.07,Weekday,0.0,20,31,3.8,Snowy,Moderate,6:21
+1477985,325272,Cho Dang Gol,Korean,12.13,Weekend,4.0,29,16,2.9,Snowy,Light,6:13
+1477198,86449,The Meatball Shop,Italian,8.54,Weekend,3.0,31,15,1.7,Cloudy,Light,3:47
+1476973,101746,Cafeteria,American,11.59,Weekend,0.0,24,19,1.2,Cloudy,Moderate,3:04
+1477961,167738,Jack's Wife Freda,Mediterranean,31.43,Weekend,5.0,34,20,1.7,Stormy,Moderate,20:56
+1477092,144851,Benihana,Japanese,16.11,Weekend,0.0,25,29,1.8,Cloudy,Light,19:03
+1477866,44706,Blue Ribbon Sushi,Japanese,9.41,Weekend,5.0,24,18,2.9,Cloudy,Heavy,18:55
+1478041,96456,67 Burger,American,29.05,Weekday,5.0,20,28,4.3,Cloudy,Light,5:49
+1477860,209179,RedFarm Broadway,Chinese,5.87,Weekend,4.0,27,22,1.3,Clear,Heavy,14:21
+1478232,77371,Blue Ribbon Sushi Bar & Grill,Japanese,12.18,Weekend,4.0,24,15,1.3,Clear,Moderate,0:15
+1477023,99288,Boqueria,Spanish,12.13,Weekday,0.0,33,28,3.7,Clear,Heavy,7:17
+1477455,38336,Rubirosa,Italian,16.20,Weekend,4.0,21,27,2.3,Clear,Moderate,20:57
+1477709,110461,Blue Ribbon Sushi,Japanese,5.97,Weekend,3.0,31,30,4.8,Clear,Light,19:54
+1477263,291667,Shake Shack,American,12.23,Weekday,5.0,35,25,2.2,Stormy,Light,14:03
+1477242,63890,Blue Ribbon Sushi,Japanese,14.12,Weekday,5.0,35,33,2.2,Snowy,Light,21:21
+1476788,310706,Parm,Italian,6.74,Weekday,5.0,25,30,4.5,Cloudy,Moderate,16:26
+1477783,73895,RedFarm Broadway,Chinese,19.40,Weekend,5.0,24,25,3.7,Rainy,Moderate,19:03
+1478231,141732,Blue Ribbon Fried Chicken,American,12.13,Weekend,0.0,35,29,5.0,Cloudy,Heavy,3:55
+1476798,110858,Burger Joint,American,14.16,Weekend,4.0,28,28,4.5,Rainy,Moderate,16:46
+1477432,345798,Yama Japanese Restaurant,Japanese,12.13,Weekend,0.0,26,26,2.1,Clear,Light,22:11
+1478044,354719,Jack's Wife Freda,Mediterranean,31.38,Weekend,0.0,28,18,3.6,Snowy,Light,0:48
+1477789,185355,Sushi Samba,Japanese,22.85,Weekday,5.0,21,32,3.4,Stormy,Moderate,18:47
+1477736,361701,Westville Hudson,American,32.93,Weekend,5.0,30,20,2.4,Clear,Light,7:00
+1478235,114234,The Meatball Shop,Italian,19.40,Weekend,0.0,20,16,5.5,Clear,Heavy,21:37
+1478156,41968,Shake Shack,American,8.10,Weekend,0.0,25,24,4.6,Rainy,Light,17:47
+1478262,48851,Melt Shop,American,9.02,Weekday,0.0,29,24,3.8,Clear,Light,5:10
+1476554,368663,Shake Shack,American,9.12,Weekend,0.0,31,19,2.7,Clear,Heavy,13:11
+1476787,78887,TAO,Japanese,6.69,Weekday,4.0,26,25,4.6,Snowy,Light,6:34
+1476744,71743,Serafina Fabulous Pizza,Italian,16.88,Weekend,0.0,33,27,4.5,Clear,Light,23:04
+1476951,331143,Waverly Diner,American,16.30,Weekday,3.0,28,25,3.3,Clear,Heavy,14:42
+1477429,252965,Five Guys Burgers and Fries,American,9.27,Weekend,4.0,23,25,1.5,Stormy,Light,4:24
+1476986,298794,TAO,Japanese,15.86,Weekend,4.0,22,17,1.4,Clear,Moderate,6:24
+1477441,275689,Blue Ribbon Sushi,Japanese,12.23,Weekend,0.0,20,24,2.7,Clear,Moderate,23:00
+1477667,106478,Balthazar Boulangerie,French,12.13,Weekend,5.0,25,24,5.1,Clear,Heavy,12:07
+1476583,62929,Bareburger,American,17.03,Weekend,5.0,35,21,2.5,Rainy,Light,16:33
+1478030,131093,Bareburger,American,13.77,Weekend,3.0,33,29,3.4,Clear,Heavy,2:00
+1478373,40808,V-Nam Cafe,Vietnamese,6.01,Weekday,3.0,20,31,1.7,Cloudy,Moderate,3:00
+1477634,387227,Blue Ribbon Sushi Bar & Grill,Japanese,29.25,Weekday,0.0,25,29,1.6,Clear,Heavy,18:45
+1476591,128224,Blue Ribbon Sushi,Japanese,16.10,Weekend,3.0,26,17,4.9,Rainy,Light,14:36
+1476704,325285,RedFarm Hudson,Chinese,5.73,Weekday,0.0,25,25,3.6,Clear,Moderate,8:55
+1478216,142619,Shake Shack,American,6.07,Weekend,4.0,28,19,1.1,Clear,Moderate,1:56
+1478066,156218,RedFarm Hudson,Chinese,15.23,Weekend,5.0,31,16,5.0,Stormy,Light,13:45
+1477626,122802,Parm,Italian,9.17,Weekend,0.0,25,17,1.2,Stormy,Heavy,6:39
+1476861,94700,Tamarind TriBeCa,Indian,29.15,Weekend,3.0,35,22,1.9,Clear,Light,23:16
+1476899,335155,Shake Shack,American,29.05,Weekend,4.0,33,16,2.5,Clear,Moderate,4:52
+1478248,113926,Han Dynasty,Chinese,33.03,Weekday,5.0,35,32,1.8,Clear,Light,9:02
+1477827,65009,Blue Ribbon Sushi Izakaya,Japanese,8.83,Weekday,5.0,34,27,1.3,Clear,Light,13:22
+1477227,373689,Bareburger,American,6.74,Weekend,0.0,26,29,2.2,Clear,Light,22:44
+1478034,77786,Sushi of Gari Tribeca,Japanese,17.03,Weekend,0.0,23,22,2.0,Stormy,Light,9:44
+1478181,97079,Benihana,Japanese,25.22,Weekday,4.0,27,27,1.8,Stormy,Heavy,5:21
+1477489,14869,Tres Carnes,Mexican,9.17,Weekend,4.0,25,30,2.8,Clear,Moderate,18:55
+1476804,113477,Schnipper's Quality Kitchen,American,12.18,Weekend,0.0,31,22,1.3,Snowy,Moderate,15:17
+1478004,54540,Parm,Italian,12.18,Weekend,0.0,29,16,1.9,Cloudy,Light,7:35
+1477650,284835,Shake Shack,American,15.57,Weekend,5.0,32,17,2.4,Clear,Light,10:37
+1478069,130521,Lucky's Famous Burgers,American,12.13,Weekday,5.0,21,30,3.3,Rainy,Light,20:05
+1477175,47235,Blue Ribbon Fried Chicken,American,14.60,Weekend,3.0,27,27,1.4,Rainy,Heavy,21:10
+1477943,294478,Sushi of Gari 46,Japanese,11.84,Weekend,0.0,27,24,1.8,Rainy,Moderate,9:56
+1477467,164005,Sushi of Gari,Japanese,14.07,Weekend,0.0,35,26,4.4,Rainy,Light,16:42
+1477474,357761,Go! Go! Curry!,Japanese,33.03,Weekend,0.0,22,15,4.3,Stormy,Moderate,22:23
+1477996,82041,Shake Shack,American,8.10,Weekend,5.0,26,27,4.4,Stormy,Light,23:40
+1477782,275689,Dirty Bird to Go,American,12.18,Weekday,0.0,20,24,5.2,Rainy,Heavy,18:29
+1477527,120353,Parm,Italian,5.72,Weekend,4.0,26,27,2.5,Clear,Moderate,8:03
+1476837,147468,Nha Trang One,Vietnamese,15.67,Weekday,3.0,23,24,3.2,Clear,Light,12:56
+1477686,105837,Nobu Next Door,Japanese,12.18,Weekend,4.0,29,20,4.5,Snowy,Moderate,2:37
+1476795,103970,Shake Shack,American,16.20,Weekend,0.0,20,21,1.6,Clear,Light,13:06
+1477599,60270,Market Table,American,6.79,Weekend,0.0,21,17,3.0,Cloudy,Heavy,3:12
+1477564,378820,Sushi Samba,Japanese,12.61,Weekend,5.0,29,29,3.4,Cloudy,Heavy,5:04
+1476733,264707,TAO,Japanese,32.93,Weekend,0.0,34,16,1.3,Cloudy,Light,11:50
+1477753,65306,Sushi of Gari Tribeca,Japanese,14.79,Weekend,0.0,32,24,1.1,Stormy,Heavy,13:04
+1476825,143866,Otto Enoteca Pizzeria,Italian,24.20,Weekend,0.0,34,15,4.6,Snowy,Heavy,13:10
+1478010,49987,Parm,Italian,6.69,Weekend,5.0,24,28,4.6,Stormy,Light,6:17
+1477113,6987,Hill Country Fried Chicken,Southern,12.23,Weekday,4.0,20,29,4.1,Cloudy,Heavy,2:42
+1476549,75169,Tamarind TriBeCa,Indian,6.74,Weekend,5.0,25,26,2.6,Cloudy,Light,10:42
+1476676,186473,Blue Ribbon Sushi,Japanese,16.06,Weekday,0.0,34,33,1.4,Cloudy,Moderate,20:06
+1477595,370337,Blue Ribbon Fried Chicken,American,12.23,Weekend,0.0,30,20,1.6,Snowy,Moderate,17:41
+1477618,184325,Asuka Sushi,Japanese,22.80,Weekend,0.0,30,28,3.5,Cloudy,Moderate,2:02
+1477911,65306,Sushi of Gari Tribeca,Japanese,12.18,Weekend,5.0,35,19,2.9,Stormy,Heavy,0:46
+1476630,182252,Five Leaves,American,9.17,Weekend,4.0,34,23,5.4,Rainy,Light,22:43
+1477546,67162,Shake Shack,American,14.07,Weekday,4.0,24,28,2.1,Rainy,Light,7:29
+1477320,397261,Blue Ribbon Fried Chicken,American,14.84,Weekend,5.0,21,25,1.9,Clear,Light,3:08
+1477084,283051,Shake Shack,American,6.69,Weekday,5.0,26,32,1.1,Clear,Moderate,11:47
+1476726,41907,Hatsuhana,Japanese,14.07,Weekend,0.0,26,17,4.3,Clear,Moderate,16:14
+1478427,86806,Pylos,Mediterranean,14.12,Weekday,4.0,26,24,2.4,Snowy,Light,8:19
+1476743,183520,Blue Ribbon Sushi,Japanese,6.69,Weekend,0.0,35,26,4.5,Rainy,Light,17:54
+1478238,59314,Shake Shack,American,13.58,Weekend,0.0,25,24,5.2,Clear,Moderate,19:04
+1476695,68300,Blue Ribbon Fried Chicken,American,33.18,Weekend,0.0,26,20,2.2,Stormy,Moderate,21:17
+1476573,370405,Haveli Indian Restaurant,Indian,29.10,Weekday,3.0,23,24,5.2,Cloudy,Light,15:34
+1478323,354948,Westville Hudson,American,24.25,Weekend,0.0,25,21,5.0,Stormy,Moderate,18:43
+1477735,302769,Blue Ribbon Fried Chicken,American,29.05,Weekend,5.0,29,20,3.8,Rainy,Heavy,18:00
+1477674,334372,Rubirosa,Italian,6.55,Weekend,0.0,23,15,2.5,Clear,Heavy,19:02
+1478006,42781,Blue Ribbon Sushi,Japanese,24.30,Weekday,0.0,21,26,4.9,Cloudy,Light,1:35
+1478033,67748,Rubirosa,Italian,19.40,Weekend,4.0,34,16,3.6,Stormy,Light,13:25
+1478186,302923,Shake Shack,American,20.52,Weekend,3.0,31,15,1.6,Clear,Heavy,10:06
+1477776,115213,Tamarind TriBeCa,Indian,29.39,Weekend,5.0,30,25,4.2,Clear,Light,13:56
+1478312,398952,Han Dynasty,Chinese,13.78,Weekend,5.0,27,20,5.3,Cloudy,Moderate,19:51
+1477757,60688,Shake Shack,American,14.12,Weekend,0.0,29,30,3.5,Clear,Light,8:37
+1477291,198194,The Kati Roll Company,Indian,19.40,Weekday,5.0,24,30,2.4,Clear,Moderate,22:01
+1478168,78879,Blue Ribbon Fried Chicken,American,19.40,Weekend,4.0,33,21,5.1,Clear,Moderate,23:49
+1477269,255697,Sushi Samba,Japanese,6.84,Weekend,5.0,27,20,4.8,Cloudy,Moderate,12:21
+1477896,42052,Pepe Rosso To Go,Italian,22.80,Weekend,5.0,35,24,3.0,Stormy,Moderate,14:22
+1477507,146588,Shake Shack,American,19.40,Weekend,5.0,33,27,2.6,Stormy,Moderate,11:07
+1478271,347181,RedFarm Hudson,Chinese,14.12,Weekend,5.0,21,24,4.8,Cloudy,Light,13:36
+1477853,115213,Junoon,Indian,28.62,Weekday,5.0,21,32,1.5,Rainy,Moderate,4:09
+1477001,318451,Blue Ribbon Sushi,Japanese,29.25,Weekend,0.0,22,27,2.1,Clear,Light,5:56
+1476948,86421,Vanessa's Dumpling House,Chinese,9.65,Weekend,5.0,20,22,2.8,Snowy,Light,20:51
+1478347,251817,Blue Ribbon Fried Chicken,American,15.71,Weekend,3.0,27,25,1.3,Rainy,Light,2:49
+1478098,132906,Sushi of Gari 46,Japanese,12.13,Weekday,0.0,20,33,4.5,Rainy,Heavy,12:50
+1477457,92806,Shake Shack,American,15.18,Weekday,5.0,30,33,4.6,Cloudy,Light,1:55
+1477393,79849,Parm,Italian,22.36,Weekend,4.0,21,30,3.9,Clear,Light,7:41
+1476956,55220,Saravanaa Bhavan,Indian,12.13,Weekday,0.0,32,26,1.4,Cloudy,Light,6:37
+1477653,142619,Shake Shack,American,12.13,Weekend,5.0,26,26,1.5,Clear,Moderate,8:41
+1477261,76938,Sushi of Gari,Japanese,31.43,Weekend,0.0,21,27,2.4,Stormy,Light,17:11
+1478127,78879,Blue Ribbon Fried Chicken,American,20.18,Weekend,3.0,22,20,2.4,Clear,Light,13:35
+1476556,301380,ilili Restaurant,Middle Eastern,16.30,Weekend,4.0,27,16,1.4,Snowy,Light,8:14
+1477280,377274,RedFarm Broadway,Chinese,14.07,Weekend,3.0,34,17,2.0,Snowy,Moderate,10:42
+1477968,350083,Sushi of Gari,Japanese,6.69,Weekend,4.0,22,16,4.3,Clear,Light,0:43
+1476784,105385,Han Dynasty,Chinese,24.20,Weekend,5.0,23,15,1.3,Clear,Moderate,9:20
+1478255,382076,Shake Shack,American,6.69,Weekday,0.0,20,29,3.8,Snowy,Light,17:07
+1478224,74048,ilili Restaurant,Middle Eastern,9.56,Weekend,0.0,27,27,5.1,Rainy,Light,8:47
+1476672,105385,Han Dynasty,Chinese,8.54,Weekend,4.0,31,15,4.2,Clear,Light,10:57
+1478240,44367,Rubirosa,Italian,24.20,Weekend,4.0,34,16,4.4,Rainy,Heavy,4:57
+1477864,81166,Dos Caminos,Mexican,8.10,Weekday,0.0,23,26,2.4,Cloudy,Moderate,21:57
+1476869,241356,Blue Ribbon Fried Chicken,American,19.35,Weekday,0.0,35,24,4.0,Clear,Moderate,6:53
+1476886,320088,Cafe Mogador,Middle Eastern,13.68,Weekend,4.0,29,18,1.2,Rainy,Light,5:09
+1478101,105068,TAO,Japanese,13.97,Weekend,5.0,28,25,4.7,Clear,Heavy,5:20
+1476712,385150,Blue Ribbon Sushi,Japanese,9.75,Weekday,5.0,27,27,1.2,Clear,Light,6:38
+1477083,308517,Tamarind TriBeCa,Indian,6.74,Weekend,4.0,20,17,2.4,Cloudy,Light,13:17
+1478164,138024,Cho Dang Gol,Korean,11.84,Weekend,5.0,25,16,4.1,Rainy,Moderate,0:26
+1477390,199049,Five Guys Burgers and Fries,American,16.05,Weekend,4.0,29,18,1.8,Snowy,Moderate,10:41
+1478273,65009,Blue Ribbon Sushi Izakaya,Japanese,12.23,Weekend,0.0,21,23,1.1,Clear,Light,4:20
+1476900,240014,Sarabeth's,American,32.93,Weekday,4.0,33,33,1.9,Stormy,Light,18:15
+1477060,94152,Empanada Mama (closed),Mexican,14.21,Weekend,0.0,27,25,3.9,Clear,Light,5:09
+1477697,362685,Momoya,Japanese,29.10,Weekday,4.0,21,29,2.2,Snowy,Light,0:15
+1477833,27609,Shake Shack,American,15.57,Weekday,0.0,28,30,4.3,Snowy,Light,11:08
+1477295,140530,Sushi of Gari 46,Japanese,12.13,Weekend,0.0,25,29,3.7,Cloudy,Moderate,10:37
+1476655,91817,Blue Ribbon Fried Chicken,American,29.15,Weekend,4.0,31,17,1.3,Cloudy,Heavy,8:11
+1477585,350410,Burger Joint,American,11.98,Weekend,0.0,20,17,2.8,Clear,Moderate,20:21
+1478175,349676,Sarabeth's,American,29.30,Weekend,5.0,23,17,3.3,Clear,Moderate,15:54
+1477982,39421,Go! Go! Curry!,Japanese,14.02,Weekday,4.0,22,27,4.3,Clear,Light,23:20
+1476697,46219,The Meatball Shop,American,32.93,Weekend,3.0,35,16,5.5,Clear,Moderate,16:54
+1477053,398489,Five Guys Burgers and Fries,American,14.07,Weekday,0.0,24,26,1.7,Cloudy,Light,17:15
+1477152,92364,Sushi of Gari 46,Japanese,25.17,Weekend,0.0,29,27,4.1,Rainy,Light,19:15
+1478308,358158,Galli Restaurant,Italian,16.06,Weekend,5.0,22,16,5.0,Cloudy,Moderate,18:23
+1478028,44594,Shake Shack,American,24.25,Weekend,5.0,31,28,1.3,Cloudy,Heavy,9:41
+1477555,361497,V-Nam Cafe,Vietnamese,12.13,Weekend,4.0,20,26,4.8,Clear,Moderate,8:55
+1478137,209418,Izakaya Ten,Japanese,13.05,Weekend,3.0,34,23,4.9,Stormy,Light,12:11
+1477803,165110,Room Service,Thai,12.23,Weekend,0.0,35,16,1.2,Cloudy,Light,17:01
+1476771,365225,P.J. Clarke's,American,12.18,Weekday,5.0,30,24,3.2,Clear,Heavy,15:41
+1478362,134152,The Meatball Shop,Italian,29.10,Weekday,5.0,22,33,2.6,Stormy,Light,13:03
+1476722,328551,Kanoyama,Japanese,12.81,Weekend,5.0,23,24,2.7,Clear,Light,6:34
+1477503,99621,Westville Hudson,American,24.30,Weekend,0.0,32,15,2.1,Clear,Moderate,23:24
+1478126,113972,Parm,Italian,14.79,Weekend,0.0,33,29,2.9,Snowy,Moderate,7:35
+1478076,96800,Sarabeth's East,American,29.30,Weekend,0.0,27,20,1.8,Clear,Moderate,17:54
+1477350,59095,Blue Ribbon Fried Chicken,American,8.93,Weekday,5.0,34,30,3.1,Stormy,Light,15:56
+1478111,366954,Blue Ribbon Sushi,Japanese,12.23,Weekend,4.0,29,22,2.2,Rainy,Light,7:57
+1477976,69348,RedFarm Broadway,Chinese,16.10,Weekend,5.0,21,27,3.5,Clear,Light,8:48
+1477439,113926,Five Guys Burgers and Fries,American,12.08,Weekday,0.0,28,27,1.6,Cloudy,Light,1:00
+1477469,96943,Cafe Mogador,Middle Eastern,24.25,Weekend,0.0,26,22,3.8,Cloudy,Moderate,21:35
+1478314,338599,Yama Japanese Restaurant,Japanese,12.18,Weekday,0.0,30,25,5.0,Clear,Light,12:30
+1476641,57943,brgr,American,14.07,Weekend,0.0,26,24,4.7,Snowy,Light,15:00
+1478194,67937,Shake Shack,American,15.52,Weekend,5.0,22,17,1.0,Stormy,Heavy,6:27
+1477293,316402,The Meatball Shop,American,12.13,Weekend,0.0,23,23,4.5,Clear,Light,0:05
+1477884,348096,Parm,Italian,29.44,Weekend,4.0,33,24,2.0,Clear,Moderate,5:52
+1477351,150577,Sushi of Gari Tribeca,Japanese,8.63,Weekend,5.0,33,17,4.4,Clear,Heavy,9:41
+1476907,87006,Nobu Next Door,Japanese,5.67,Weekday,5.0,33,25,3.7,Snowy,Moderate,4:04
+1477817,335897,Sushi of Gari 46,Japanese,12.18,Weekday,4.0,24,27,2.4,Clear,Moderate,17:58
+1477408,125542,Hampton Chutney Co.,Thai,12.37,Weekend,4.0,21,20,4.5,Clear,Moderate,19:16
+1477953,39334,The Meatball Shop,American,19.35,Weekend,4.0,31,25,2.4,Stormy,Light,9:27
+1477924,288808,The Meatball Shop,Italian,32.98,Weekday,5.0,26,27,4.4,Rainy,Moderate,19:38
+1477995,140477,Momoya,Japanese,8.10,Weekend,0.0,32,27,4.6,Clear,Moderate,12:30
+1476709,105837,Nobu Next Door,Japanese,11.11,Weekend,0.0,25,30,2.6,Clear,Light,18:42
+1478188,99288,The Meatball Shop,American,12.56,Weekend,0.0,28,22,5.1,Stormy,Moderate,12:50
+1477153,120353,Parm,Italian,25.27,Weekday,0.0,27,27,2.8,Clear,Moderate,18:06
+1477802,85091,The Meatball Shop,Italian,12.13,Weekend,4.0,21,25,1.4,Cloudy,Light,11:19
+1477715,217363,Jack's Wife Freda,Mediterranean,9.41,Weekend,5.0,28,15,4.3,Clear,Heavy,14:45
+1478263,201535,Blue Ribbon Fried Chicken,American,9.51,Weekday,0.0,30,29,3.5,Rainy,Moderate,20:44
+1477669,260844,Byblos Restaurant,Middle Eastern,25.27,Weekend,3.0,33,16,1.8,Clear,Light,21:45
+1478187,111411,Blue Ribbon Sushi,Japanese,12.56,Weekend,0.0,32,20,5.0,Cloudy,Moderate,21:38
+1476559,47440,Bareburger,American,15.57,Weekday,4.0,24,28,3.5,Clear,Moderate,12:46
+1477464,320187,TAO,Japanese,19.35,Weekend,0.0,34,22,4.0,Clear,Moderate,9:19
+1477143,165695,The Smile,American,29.10,Weekend,0.0,22,16,4.5,Snowy,Light,17:11
+1476683,263075,Burger Joint,American,12.23,Weekday,0.0,21,27,4.9,Rainy,Light,11:40
+1477358,83287,Boqueria,Spanish,14.50,Weekend,0.0,35,29,4.4,Stormy,Moderate,20:36
+1478149,303548,Shake Shack,American,25.22,Weekend,3.0,27,25,4.7,Stormy,Light,16:17
+1477761,123977,Blue Ribbon Sushi,Japanese,24.35,Weekend,5.0,33,22,2.5,Cloudy,Light,10:56
+1478311,326505,Blue Ribbon Fried Chicken,American,21.29,Weekend,5.0,28,29,4.9,Clear,Light,20:14
+1477956,177078,Lantern Thai Kitchen,Thai,9.46,Weekend,5.0,29,19,4.2,Stormy,Moderate,8:05
+1476925,354719,The Meatball Shop,Italian,14.02,Weekday,5.0,32,32,4.8,Stormy,Light,13:46
+1476950,270444,P.J. Clarke's,American,15.96,Weekend,0.0,27,18,2.3,Cloudy,Heavy,9:22
+1477363,51675,Blue Ribbon Sushi,Japanese,19.40,Weekday,0.0,24,24,4.2,Cloudy,Moderate,15:51
+1476832,385191,Donburi-ya,Japanese,12.37,Weekend,5.0,24,17,2.8,Snowy,Moderate,10:10
+1476681,68258,Parm,Italian,12.13,Weekday,4.0,23,31,3.0,Clear,Heavy,9:30
+1478100,62667,Balthazar Boulangerie,French,21.93,Weekend,0.0,31,20,4.1,Clear,Heavy,22:49
+1478218,209418,Izakaya Ten,Japanese,6.02,Weekend,0.0,24,19,4.5,Snowy,Heavy,14:02
+1477655,96666,Empanada Mama (closed),Mexican,19.35,Weekend,5.0,29,22,2.3,Clear,Heavy,20:59
+1477553,52037,L'Express,French,22.02,Weekday,0.0,21,27,5.5,Cloudy,Moderate,12:59
+1477957,285937,TAO,Japanese,8.00,Weekday,4.0,28,24,3.3,Cloudy,Light,11:51
+1476692,175327,Nobu Next Door,Japanese,29.10,Weekday,3.0,35,27,1.6,Clear,Light,21:08
+1478172,125123,Sushi Samba,Japanese,12.95,Weekend,0.0,21,21,5.3,Stormy,Moderate,18:03
+1476836,68551,Blue Ribbon Sushi Bar & Grill,Japanese,16.10,Weekend,0.0,27,27,2.7,Rainy,Heavy,8:18
+1477009,396815,Blue Ribbon Fried Chicken,American,5.73,Weekend,0.0,34,16,4.1,Snowy,Moderate,18:30
+1477510,231061,Han Dynasty,Chinese,8.10,Weekend,5.0,23,26,3.6,Cloudy,Light,8:12
+1477954,130237,Tamarind TriBeCa,Indian,16.98,Weekend,5.0,22,17,4.6,Stormy,Light,21:15
+1476609,48677,Shake Shack,American,8.34,Weekend,0.0,23,28,5.2,Rainy,Light,14:10
+1476785,78939,Blue Ribbon Sushi,Japanese,24.25,Weekday,0.0,29,25,3.8,Snowy,Heavy,21:23
+1477182,383826,Song Thai Restaurant & Bar,Thai,29.20,Weekend,5.0,21,28,3.9,Cloudy,Heavy,15:13
+1477979,201438,S'MAC,American,14.55,Weekend,0.0,29,29,5.2,Snowy,Moderate,12:05
+1477304,88406,The Meatball Shop,Italian,24.20,Weekday,4.0,28,30,1.6,Cloudy,Light,10:43
+1476823,60039,Blue Ribbon Sushi,Japanese,12.13,Weekday,0.0,32,29,3.1,Clear,Light,22:45
+1478434,40500,J. G. Melon,American,19.45,Weekend,5.0,24,15,1.3,Cloudy,Light,8:08
+1477411,143721,Hummus Place,Middle Eastern,9.75,Weekend,5.0,28,28,4.8,Snowy,Light,10:35
+1477720,215219,Empanada Mama (closed),Mexican,19.98,Weekday,4.0,23,32,4.8,Stormy,Heavy,12:02
+1476638,46696,Blue Ribbon Sushi Bar & Grill,Japanese,11.88,Weekend,5.0,25,17,1.8,Snowy,Heavy,11:00
+1478411,361846,RedFarm Broadway,Chinese,6.69,Weekend,0.0,27,24,4.4,Rainy,Light,21:44
+1477166,402215,RedFarm Hudson,Chinese,21.29,Weekend,4.0,32,25,4.8,Clear,Heavy,11:55
+1477338,81110,Hill Country Fried Chicken,Southern,11.64,Weekend,4.0,35,21,1.6,Cloudy,Light,14:26
+1477003,120833,Bareburger,American,32.93,Weekend,0.0,29,24,2.1,Cloudy,Moderate,21:53
+1477565,65009,Blue Ribbon Fried Chicken,American,12.56,Weekday,5.0,27,27,2.0,Clear,Moderate,14:42
+1477842,299221,RedFarm Broadway,Chinese,14.07,Weekday,0.0,35,33,4.4,Clear,Light,21:14
+1478328,58898,Rubirosa,Italian,33.03,Weekend,5.0,22,28,5.4,Rainy,Light,22:50
+1477289,72322,Cafe Mogador,Middle Eastern,12.95,Weekend,3.0,21,20,4.8,Stormy,Moderate,22:11
+1478146,207281,Shake Shack,American,12.27,Weekend,5.0,24,28,1.5,Clear,Moderate,10:55
+1476662,115213,Tamarind TriBeCa,Indian,12.18,Weekend,5.0,25,20,4.1,Clear,Heavy,19:00
+1476991,81828,The Meatball Shop,Italian,12.08,Weekend,3.0,32,19,4.9,Clear,Light,18:27
+1477433,283331,Dickson's Farmstand Meats,American,12.18,Weekend,5.0,21,20,3.5,Snowy,Moderate,18:21
+1478250,369272,Blue Ribbon Sushi,Japanese,12.22,Weekend,0.0,34,28,2.1,Stormy,Light,11:39
+1478239,400390,Shake Shack,American,12.95,Weekend,4.0,30,26,1.9,Cloudy,Heavy,16:30
+1477370,89889,Sushi of Gari 46,Japanese,29.10,Weekday,5.0,32,30,4.2,Clear,Moderate,17:26
+1477580,79849,Chipotle Mexican Grill $1.99 Delivery,Mexican,15.23,Weekend,0.0,31,21,3.6,Clear,Light,10:32
+1478091,369272,Blue Ribbon Sushi Bar & Grill,Japanese,15.81,Weekday,0.0,21,29,3.6,Snowy,Light,19:26
+1477795,169478,RedFarm Broadway,Chinese,15.96,Weekday,4.0,35,33,1.5,Cloudy,Heavy,16:50
+1477903,47440,Bareburger,American,16.25,Weekend,0.0,32,28,3.1,Cloudy,Moderate,16:20
+1478439,48444,TAO,Japanese,8.54,Weekend,4.0,26,23,3.4,Cloudy,Light,9:58
+1476731,94480,TAO,Japanese,29.10,Weekend,0.0,28,23,1.3,Stormy,Light,14:19
+1476827,148649,Blue Ribbon Sushi,Japanese,6.74,Weekend,0.0,31,27,4.1,Snowy,Light,20:01
+1476777,69749,Blue Ribbon Sushi,Japanese,31.38,Weekend,0.0,26,27,2.9,Clear,Moderate,12:20
+1478027,41907,Parm,Italian,22.75,Weekday,0.0,30,27,1.7,Clear,Moderate,17:38
+1476811,47386,Barbounia,Mediterranean,16.93,Weekend,5.0,30,18,3.5,Stormy,Moderate,17:47
+1477184,108659,Rubirosa,Italian,32.98,Weekend,0.0,33,30,3.9,Stormy,Heavy,10:50
+1477119,47594,Shake Shack,American,5.82,Weekday,0.0,29,29,3.0,Clear,Light,21:32
+1478021,97991,Blue Ribbon Sushi Bar & Grill,Japanese,22.26,Weekday,0.0,20,26,2.2,Rainy,Moderate,22:41
+1476990,301032,Mission Cantina,Mexican,15.57,Weekend,5.0,21,28,1.8,Cloudy,Light,18:50
+1478329,116992,Tres Carnes,Mexican,33.32,Weekday,4.0,21,33,2.4,Clear,Moderate,22:15
+1478385,250494,Blue Ribbon Fried Chicken,American,21.34,Weekend,5.0,28,21,1.6,Clear,Light,14:25
+1477300,232359,The Meatball Shop,American,31.43,Weekend,4.0,20,21,5.3,Clear,Heavy,19:53
+1477275,58088,Sushi of Gari 46,Japanese,9.22,Weekend,4.0,32,28,2.5,Snowy,Moderate,14:56
+1477994,127130,Momoya,Japanese,9.55,Weekend,5.0,30,26,2.9,Snowy,Heavy,9:14
+1477123,270525,The Smile,American,8.59,Weekend,4.0,32,29,5.4,Snowy,Light,8:34
+1476758,120504,Schnipper's Quality Kitchen,American,14.02,Weekend,5.0,20,16,5.1,Snowy,Light,12:40
+1477940,42274,Joe's Shanghai _Àü£¾÷´,Chinese,16.15,Weekend,3.0,33,20,2.4,Cloudy,Heavy,22:03
+1477089,398930,RedFarm Broadway,Chinese,8.97,Weekend,0.0,21,16,4.0,Clear,Moderate,12:50
+1476587,355713,TAO,Japanese,9.22,Weekend,5.0,26,25,3.7,Clear,Moderate,18:41
+1478015,364714,Nobu Next Door,Japanese,8.97,Weekday,0.0,22,31,5.2,Snowy,Heavy,16:11
+1478023,243910,Nobu Next Door,Japanese,14.12,Weekend,3.0,30,19,4.2,Stormy,Heavy,15:03
+1476766,45837,Shake Shack,American,19.35,Weekend,4.0,21,29,2.7,Rainy,Light,18:54
+1477347,66636,Shake Shack,American,20.52,Weekend,0.0,31,26,3.9,Snowy,Light,16:11
+1478339,35643,Vanessa's Dumpling House,Chinese,18.43,Weekend,5.0,34,28,1.0,Cloudy,Moderate,21:32
+1477647,359228,Yama Japanese Restaurant,Japanese,9.27,Weekend,0.0,23,29,4.9,Rainy,Moderate,22:09
+1477478,140757,Parm,Italian,12.47,Weekend,0.0,22,24,2.8,Clear,Heavy,9:42
+1477180,154339,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.15,Weekday,0.0,21,24,4.2,Cloudy,Light,10:59
+1478110,250494,Shake Shack,American,12.18,Weekend,0.0,23,16,5.2,Clear,Heavy,12:05
+1476632,120385,Westville Hudson,American,9.51,Weekend,0.0,27,28,1.3,Clear,Moderate,19:59
+1478352,142192,Otto Enoteca Pizzeria,Italian,12.18,Weekend,5.0,21,20,5.1,Stormy,Heavy,11:30
+1477079,49086,Jack's Wife Freda,Mediterranean,12.13,Weekend,4.0,33,23,3.7,Clear,Light,12:14
+1477384,127445,Shake Shack,American,6.79,Weekend,4.0,35,30,3.1,Cloudy,Light,18:13
+1477262,43636,Blue Ribbon Fried Chicken,American,12.08,Weekend,4.0,21,21,4.4,Rainy,Light,17:39
+1476602,88078,RedFarm Hudson,Chinese,13.92,Weekend,5.0,28,24,3.6,Rainy,Light,16:27
+1477741,46859,The Meatball Shop,Italian,6.84,Weekend,0.0,25,18,4.3,Rainy,Moderate,8:55
+1478370,57638,Grand Sichuan International,Chinese,25.27,Weekday,5.0,35,30,1.2,Rainy,Light,11:56
+1477232,275689,Nobu Next Door,Japanese,9.17,Weekend,0.0,24,15,2.5,Rainy,Moderate,21:49
+1477444,88075,Shake Shack,American,24.30,Weekday,4.0,33,30,1.6,Clear,Light,22:55
+1478346,66498,Shake Shack,American,16.20,Weekday,0.0,27,30,1.8,Rainy,Moderate,22:01
+1477539,152675,Tres Carnes,Mexican,20.13,Weekend,0.0,35,18,3.8,Rainy,Light,15:23
+1477172,59749,Bareburger,American,19.35,Weekday,4.0,33,27,3.1,Clear,Light,8:28
+1477418,387102,Vanessa's Dumplings,Chinese,14.02,Weekend,4.0,22,24,2.4,Snowy,Light,16:30
+1476937,142045,Shake Shack,American,22.36,Weekday,0.0,33,25,4.4,Stormy,Moderate,16:19
+1477962,59703,Big Daddy's,American,12.08,Weekend,5.0,22,16,5.0,Clear,Moderate,9:12
+1477630,355090,Shake Shack,American,12.18,Weekday,0.0,26,27,2.1,Rainy,Moderate,10:22
+1477497,76942,Sarabeth's Restaurant,American,12.27,Weekend,5.0,24,24,1.9,Clear,Light,16:59
+1477930,100065,Han Dynasty,Chinese,6.64,Weekend,0.0,25,29,5.4,Rainy,Light,17:06
+1476778,276192,Sushi of Gari Tribeca,Japanese,31.33,Weekday,0.0,34,26,4.8,Snowy,Heavy,21:57
+1477155,50563,J. G. Melon,American,6.06,Weekday,4.0,24,27,2.9,Cloudy,Moderate,17:14
+1478139,107909,Shake Shack,American,24.20,Weekday,0.0,22,31,2.4,Clear,Light,21:58
+1477317,61889,Parm,Italian,15.77,Weekend,4.0,27,18,3.0,Cloudy,Light,14:28
+1476694,91105,Cafe Mogador,Middle Eastern,29.05,Weekend,4.0,27,30,4.2,Clear,Moderate,19:33
+1476987,88078,RedFarm Hudson,Chinese,15.96,Weekend,3.0,21,18,4.6,Cloudy,Light,22:09
+1476942,118975,Shake Shack,American,5.72,Weekend,0.0,34,17,3.8,Cloudy,Moderate,22:28
+1477344,99621,Jack's Wife Freda,Mediterranean,5.67,Weekday,3.0,24,29,4.5,Snowy,Light,13:45
+1477813,260844,Byblos Restaurant,Middle Eastern,24.20,Weekend,0.0,32,20,4.0,Cloudy,Moderate,13:42
+1477417,355759,Pinto Nouveau Thai Bistro,Thai,11.79,Weekend,5.0,21,27,1.3,Clear,Light,14:28
+1476671,49620,Cafe Habana,Mexican,8.73,Weekday,3.0,27,28,2.7,Stormy,Light,21:11
+1477805,290313,RedFarm Broadway,Chinese,21.93,Weekend,0.0,22,22,5.3,Rainy,Moderate,21:54
+1477305,45846,The Meatball Shop,American,24.20,Weekend,5.0,21,30,5.3,Cloudy,Moderate,11:40
+1477223,303548,J. G. Melon,American,22.26,Weekend,5.0,22,25,3.3,Cloudy,Light,14:14
+1478394,106940,Blue Ribbon Sushi,Japanese,14.50,Weekday,3.0,34,24,2.4,Clear,Moderate,20:10
+1477963,115519,Blue Ribbon Fried Chicken,American,12.23,Weekend,5.0,27,27,3.0,Cloudy,Light,12:03
+1477861,125320,Shake Shack,American,20.57,Weekend,5.0,24,19,4.4,Snowy,Light,11:00
+1477201,332635,TAO,Japanese,16.05,Weekend,4.0,23,20,4.5,Snowy,Moderate,11:02
+1478253,67345,Parm,Italian,25.27,Weekend,5.0,28,16,2.5,Rainy,Light,9:02
+1476607,197633,Sushi of Gari 46,Japanese,7.38,Weekend,0.0,29,28,2.1,Clear,Heavy,13:04
+1477540,341136,Blue Ribbon Sushi,Japanese,13.78,Weekend,4.0,32,23,3.1,Stormy,Light,10:16
+1478117,56642,Bareburger,American,22.85,Weekday,0.0,21,30,1.3,Cloudy,Light,14:25
+1477515,95049,Sushi of Gari 46,Japanese,12.13,Weekend,0.0,31,24,3.5,Rainy,Light,11:16
+1477329,80737,RedFarm Broadway,Chinese,12.90,Weekday,3.0,29,29,4.2,Clear,Light,16:07
+1477218,333216,Shake Shack,American,29.49,Weekend,5.0,20,24,1.6,Rainy,Moderate,17:29
+1476633,137565,Shake Shack,American,15.76,Weekend,5.0,20,25,2.0,Rainy,Light,11:41
+1476776,125123,Le Grainne Cafe,French,29.25,Weekend,5.0,27,24,1.0,Snowy,Light,10:10
+1477447,398952,Han Dynasty,Chinese,5.82,Weekend,0.0,26,24,2.6,Stormy,Moderate,8:44
+1477878,62730,Westville Hudson,American,21.88,Weekend,5.0,20,15,2.2,Rainy,Light,8:20
+1478122,96262,Cafe Habana,Mexican,9.51,Weekend,5.0,22,21,2.0,Clear,Heavy,21:14
+1476601,270789,Vanessa's Dumplings,Chinese,15.09,Weekend,0.0,25,25,1.5,Rainy,Light,11:04
+1478206,108659,Osteria Morini,Italian,24.20,Weekday,3.0,28,28,2.1,Clear,Moderate,10:10
+1478326,82901,Il Bambino,Italian,29.25,Weekend,4.0,34,29,4.3,Snowy,Moderate,20:04
+1477691,366327,Parm,Italian,16.44,Weekend,5.0,29,26,5.3,Snowy,Light,16:07
+1477845,127056,Blue Ribbon Sushi,Japanese,24.30,Weekday,5.0,21,33,1.3,Rainy,Moderate,10:51
+1478300,175703,The Meatball Shop,Italian,6.06,Weekend,0.0,20,27,4.1,Rainy,Heavy,13:18
+1478147,372415,Five Guys Burgers and Fries,American,12.18,Weekend,0.0,21,19,3.2,Clear,Light,11:24
+1476719,77540,Parm,Italian,12.08,Weekend,3.0,25,28,3.1,Cloudy,Light,13:41
+1476765,147519,Sushi of Gari Tribeca,Japanese,19.45,Weekend,4.0,25,15,4.1,Snowy,Heavy,11:50
+1476985,64370,The Meatball Shop,Italian,9.65,Weekend,0.0,29,16,3.5,Rainy,Light,19:02
+1478317,128216,Shake Shack,American,19.74,Weekday,4.0,35,32,5.4,Clear,Moderate,18:56
+1477461,241719,Kori Restaurant and Bar,Korean,12.18,Weekday,4.0,26,26,4.4,Cloudy,Moderate,19:03
+1477028,60052,RedFarm Broadway,Chinese,14.55,Weekend,5.0,28,20,5.1,Rainy,Heavy,19:20
+1477672,59742,J. G. Melon,American,6.07,Weekday,3.0,29,25,1.6,Cloudy,Light,22:19
+1478307,365225,Sarabeth's Restaurant,American,15.91,Weekday,0.0,20,31,5.0,Clear,Light,9:58
+1477971,210544,DespaÌ±a,Spanish,16.98,Weekend,0.0,20,22,2.2,Clear,Moderate,20:01
+1477225,140530,Sushi of Gari 46,Japanese,25.22,Weekend,0.0,32,28,3.1,Clear,Light,17:23
+1477146,49793,Yama Japanese Restaurant,Japanese,32.93,Weekend,5.0,29,17,4.0,Cloudy,Heavy,21:28
+1477460,134058,The Meatball Shop,Italian,12.08,Weekday,5.0,33,25,3.5,Rainy,Heavy,19:20
+1477848,276192,12 Chairs,Middle Eastern,29.05,Weekday,5.0,28,32,3.6,Snowy,Light,15:32
+1478138,50323,Rubirosa,Italian,24.30,Weekend,0.0,30,26,1.1,Cloudy,Moderate,9:04
+1476918,135769,Blue Ribbon Sushi,Japanese,18.04,Weekend,0.0,35,28,2.4,Clear,Heavy,8:00
+1477935,378482,Lamarca Pasta,Italian,9.22,Weekend,0.0,23,19,1.5,Snowy,Light,14:42
+1477549,297130,L'Express,French,29.20,Weekend,5.0,21,29,3.3,Cloudy,Moderate,8:28
+1476932,301032,Mission Cantina,Mexican,29.15,Weekend,0.0,31,26,3.8,Rainy,Heavy,15:19
+1477574,212326,RedFarm Broadway,Chinese,12.32,Weekday,0.0,30,27,3.9,Snowy,Light,22:01
+1477596,334596,Chipotle Mexican Grill $1.99 Delivery,Mexican,19.35,Weekend,0.0,25,22,3.7,Stormy,Moderate,15:03
+1477258,83287,Blue Ribbon Sushi Izakaya,Japanese,29.10,Weekend,0.0,32,26,3.5,Rainy,Moderate,18:13
+1477849,117033,P.J. Clarke's,American,29.20,Weekend,0.0,30,22,3.3,Clear,Moderate,15:51
+1477328,342126,Parm,Italian,13.68,Weekend,4.0,33,21,3.4,Stormy,Heavy,13:22
+1478022,94152,Empanada Mama (closed),Mexican,11.88,Weekend,5.0,23,27,3.5,Clear,Heavy,18:39
+1477284,40745,Parm,Italian,14.12,Weekend,3.0,28,22,2.0,Cloudy,Light,18:42
+1477717,155555,Sushi of Gari 46,Japanese,16.06,Weekend,0.0,31,24,2.2,Stormy,Light,19:32
+1476926,349854,Cho Dang Gol,Korean,14.02,Weekend,0.0,25,20,2.0,Snowy,Light,14:09
+1477331,384390,El Parador Cafe,Mexican,24.20,Weekend,0.0,28,18,4.1,Clear,Light,12:41
+1478284,139885,Blue Ribbon Fried Chicken,American,8.20,Weekend,5.0,34,17,4.9,Cloudy,Light,12:31
+1477245,375585,TAO,Japanese,24.25,Weekend,0.0,31,27,2.4,Rainy,Heavy,11:42
+1477006,119465,Cafe Mogador,Middle Eastern,25.27,Weekday,5.0,30,25,2.9,Clear,Light,14:13
+1477008,373750,Blue Ribbon Brooklyn,American,5.97,Weekday,4.0,32,24,2.9,Snowy,Light,10:16
+1477341,127122,RedFarm Broadway,Chinese,22.36,Weekend,0.0,24,27,4.1,Clear,Moderate,18:37
+1477967,101241,Empanada Mama (closed),Mexican,24.30,Weekday,0.0,25,24,4.8,Clear,Light,12:08
+1477208,365244,Bareburger,American,12.13,Weekend,5.0,32,26,3.7,Cloudy,Moderate,18:18
+1478050,54189,Nobu Next Door,Japanese,19.40,Weekend,0.0,28,29,1.8,Clear,Heavy,13:29
+1476699,56722,The Meatball Shop,Italian,12.23,Weekend,5.0,35,22,2.1,Rainy,Light,9:46
+1477451,125262,Rubirosa,Italian,8.54,Weekend,0.0,34,28,2.8,Cloudy,Moderate,13:42
+1477179,52832,L'Express,French,24.20,Weekday,0.0,28,24,3.7,Snowy,Light,20:54
+1477313,395616,Parm,Italian,8.59,Weekday,5.0,32,33,1.6,Snowy,Moderate,20:08
+1477074,317904,Rubirosa,Italian,31.67,Weekend,0.0,25,15,3.2,Snowy,Light,19:55
+1478051,139639,Sushi of Gari 46,Japanese,24.30,Weekend,3.0,29,23,3.8,Snowy,Light,16:55
+1477071,78939,Nobu Next Door,Japanese,29.05,Weekend,5.0,33,29,1.6,Cloudy,Light,9:28
+1478368,64153,Burger Joint,American,12.13,Weekday,5.0,31,33,5.0,Clear,Heavy,21:24
+1476859,62667,Sarabeth's Restaurant,American,12.23,Weekend,4.0,26,24,1.6,Cloudy,Light,14:52
+1478393,80795,Tamarind TriBeCa,Indian,16.44,Weekend,5.0,23,24,5.4,Clear,Light,20:36
+1477345,339144,The Meatball Shop,Italian,5.05,Weekend,0.0,29,19,5.3,Cloudy,Moderate,16:57
+1476707,144133,Shake Shack,American,22.75,Weekday,4.0,21,27,1.9,Clear,Moderate,20:00
+1477064,134058,The Meatball Shop,Italian,16.98,Weekend,0.0,32,30,3.6,Cloudy,Light,9:03
+1477543,59105,Sushi of Gari 46,Japanese,12.13,Weekend,5.0,27,20,4.0,Stormy,Heavy,16:50
+1476680,44472,Blue Ribbon Sushi Izakaya,Japanese,12.08,Weekend,3.0,35,15,4.3,Cloudy,Moderate,16:28
+1476816,344079,Olea,Mediterranean,12.23,Weekend,4.0,29,24,5.1,Stormy,Light,20:55
+1477589,214028,Boqueria,Spanish,29.05,Weekend,4.0,24,24,3.9,Rainy,Moderate,12:12
+1477899,165485,Parm,Italian,8.68,Weekend,0.0,20,19,3.0,Snowy,Light,18:20
+1478043,264707,The Meatball Shop,Italian,29.20,Weekend,5.0,29,23,1.7,Clear,Heavy,15:06
+1476665,41246,Shake Shack,American,24.20,Weekend,0.0,25,24,1.3,Snowy,Light,16:24
+1477298,361728,The Meatball Shop,Italian,29.05,Weekend,4.0,32,19,3.4,Cloudy,Light,13:30
+1476793,77339,Rubirosa,Italian,9.17,Weekend,4.0,27,25,2.8,Rainy,Light,9:57
+1477396,140998,Boqueria,Spanish,13.00,Weekend,5.0,26,24,2.8,Rainy,Light,9:05
+1477477,78560,The Meatball Shop,Italian,11.69,Weekend,4.0,35,16,1.3,Cloudy,Moderate,18:12
+1476963,296805,Blue Ribbon Fried Chicken,American,13.00,Weekday,4.0,33,29,1.7,Cloudy,Light,18:13
+1477733,376499,Lucky Strike,American,29.25,Weekend,4.0,21,21,1.7,Cloudy,Light,21:14
+1477627,359699,RedFarm Hudson,Chinese,7.03,Weekday,5.0,32,24,1.7,Cloudy,Light,20:09
+1477718,42755,Blue Ribbon Sushi,Japanese,16.11,Weekend,5.0,22,26,4.1,Snowy,Light,20:16
+1477167,76907,Han Dynasty,Chinese,14.80,Weekday,4.0,23,25,3.4,Stormy,Moderate,16:42
+1477766,186473,Blue Ribbon Sushi,Japanese,19.45,Weekday,0.0,22,27,2.9,Snowy,Light,12:15
+1477386,221394,The Meatball Shop,Italian,8.83,Weekday,0.0,31,25,2.7,Snowy,Light,12:28
+1478176,240982,Rubirosa,Italian,29.10,Weekend,5.0,28,16,2.8,Clear,Moderate,16:33
+1476818,195927,Boqueria,Spanish,29.10,Weekend,0.0,28,19,1.2,Clear,Light,13:56
+1477435,154030,Hatsuhana,Japanese,29.49,Weekend,4.0,22,23,1.2,Clear,Heavy,8:06
+1478086,81333,Shake Shack,American,9.07,Weekend,0.0,24,16,4.9,Cloudy,Light,22:17
+1477465,361220,Carmine's,Italian,21.93,Weekend,5.0,20,28,1.5,Clear,Light,20:01
+1477412,146489,Paul & Jimmy's,Italian,16.05,Weekend,0.0,33,15,1.9,Cloudy,Moderate,12:58
+1476550,101347,The Loop,Japanese,16.98,Weekend,5.0,26,27,1.9,Stormy,Moderate,11:17
+1477361,115419,Shake Shack,American,12.13,Weekday,0.0,34,26,4.0,Clear,Moderate,19:03
+1477131,270525,The Smile,American,12.13,Weekend,4.0,29,24,1.3,Rainy,Light,9:23
+1477745,59017,TAO,Japanese,12.66,Weekday,0.0,29,29,2.7,Clear,Light,15:36
+1477683,279715,RedFarm Hudson,Chinese,21.34,Weekend,0.0,23,17,1.1,Clear,Heavy,11:06
+1476592,67844,The Smile,American,14.94,Weekend,0.0,27,22,4.5,Rainy,Heavy,21:26
+1477687,72757,Jack's Wife Freda,Mediterranean,12.13,Weekend,5.0,21,19,1.0,Snowy,Heavy,17:57
+1476857,220186,Blue Ribbon Fried Chicken,American,12.23,Weekday,5.0,33,26,1.5,Clear,Heavy,10:32
+1478325,399373,Shake Shack,American,29.10,Weekday,4.0,29,24,2.4,Cloudy,Moderate,10:32
+1477744,58675,Pinto Nouveau Thai Bistro,Thai,17.08,Weekend,0.0,23,16,4.6,Clear,Heavy,17:41
+1478025,99312,Pylos,Mediterranean,14.02,Weekday,3.0,30,29,5.4,Clear,Light,11:17
+1478171,316402,The Meatball Shop,American,14.50,Weekend,5.0,25,22,4.1,Clear,Heavy,9:06
+1477268,375585,TAO,Japanese,6.69,Weekend,5.0,22,28,4.9,Stormy,Light,17:47
+1476780,319773,Vezzo Thin Crust Pizza,Italian,12.13,Weekend,5.0,34,26,3.6,Rainy,Moderate,9:26
+1476594,94480,TAO,Japanese,12.17,Weekend,5.0,22,16,1.1,Stormy,Light,16:48
+1477830,61212,Tamarind TriBeCa,Indian,15.77,Weekend,5.0,25,29,5.3,Stormy,Moderate,21:28
+1477725,105754,Momoya,Japanese,12.18,Weekend,4.0,26,25,5.1,Cloudy,Moderate,17:29
+1476922,66373,Balthazar Boulangerie,French,12.18,Weekend,3.0,24,29,3.2,Rainy,Moderate,13:16
+1478266,297413,The Meatball Shop,Italian,16.10,Weekend,0.0,20,15,5.3,Clear,Moderate,9:24
+1478377,399584,The Meatball Shop,Italian,6.40,Weekend,0.0,23,20,4.6,Cloudy,Heavy,22:32
+1476880,216258,Momoya,Japanese,9.41,Weekend,5.0,26,20,5.3,Rainy,Light,11:55
+1476721,131645,The Meatball Shop,Italian,12.08,Weekend,0.0,23,23,3.8,Cloudy,Moderate,22:24
+1477793,318451,Blue Ribbon Sushi,Japanese,8.54,Weekday,4.0,22,26,4.1,Clear,Light,12:19
+1478322,57943,RedFarm Broadway,Chinese,24.25,Weekday,5.0,25,25,2.3,Clear,Moderate,16:20
+1477065,43636,The Meatball Shop,American,7.28,Weekday,5.0,20,29,5.0,Cloudy,Light,8:29
+1477670,235818,Shake Shack,American,6.01,Weekday,5.0,23,30,2.4,Clear,Heavy,10:16
+1476674,318689,Olive Garden,Italian,16.10,Weekday,0.0,24,29,2.6,Stormy,Light,17:28
+1478212,57878,Dos Caminos,Mexican,11.59,Weekend,0.0,33,22,4.3,Clear,Light,15:33
+1477632,76942,Sarabeth's Restaurant,American,29.15,Weekday,0.0,20,26,1.6,Clear,Heavy,8:04
+1478083,91817,Lucky's Famous Burgers,American,5.77,Weekend,4.0,21,20,3.4,Snowy,Light,21:48
+1477484,143984,Blue Ribbon Fried Chicken,American,6.79,Weekend,3.0,28,27,3.9,Cloudy,Moderate,21:26
+1477710,376578,Shake Shack,American,5.92,Weekday,5.0,34,24,4.6,Stormy,Light,8:34
+1477307,141732,Cho Dang Gol,Korean,5.77,Weekend,5.0,21,17,3.1,Cloudy,Moderate,21:32
+1478062,109107,Burger Joint,American,15.72,Weekend,4.0,31,30,1.6,Stormy,Light,19:29
+1476865,297232,Empanada Mama (closed),Mexican,31.38,Weekend,5.0,24,18,2.1,Clear,Moderate,18:33
+1476621,282699,RedFarm Hudson,Chinese,19.35,Weekend,0.0,30,24,4.4,Cloudy,Light,13:21
+1476957,54630,V-Nam Cafe,Vietnamese,12.08,Weekend,0.0,31,19,2.2,Cloudy,Heavy,22:36
+1477611,130820,Nobu Next Door,Japanese,15.13,Weekday,0.0,21,30,4.4,Rainy,Light,19:38
+1477775,142461,Shake Shack,American,29.25,Weekend,4.0,25,19,2.8,Snowy,Moderate,21:37
+1478007,113238,Boqueria,Spanish,24.25,Weekend,0.0,28,18,2.2,Clear,Heavy,10:38
+1477629,198936,Five Leaves,American,12.13,Weekend,0.0,23,15,2.8,Clear,Moderate,20:19
+1476737,94766,Nobu Next Door,Japanese,12.23,Weekday,5.0,31,29,3.8,Snowy,Light,12:37
+1477868,27609,Blue Ribbon Sushi Bar & Grill,Japanese,15.81,Weekend,0.0,21,25,2.4,Clear,Light,19:14
+1478185,97079,Benihana,Japanese,5.77,Weekend,0.0,22,22,3.3,Cloudy,Moderate,22:29
+1477567,175290,The Meatball Shop,Italian,9.17,Weekend,0.0,30,30,2.6,Snowy,Heavy,20:33
+1478251,99621,Jack's Wife Freda,Mediterranean,12.47,Weekend,5.0,34,20,2.6,Cloudy,Light,13:33
+1478079,54608,Tamarind TriBeCa,Indian,25.22,Weekend,5.0,30,26,1.7,Stormy,Light,16:28
+1478144,155124,The Meatball Shop,Italian,33.03,Weekend,5.0,30,16,3.0,Cloudy,Light,12:45
+1476615,338599,RedFarm Hudson,Chinese,29.44,Weekday,4.0,29,32,4.6,Cloudy,Heavy,17:29
+1478419,118776,Blue Ribbon Sushi Bar & Grill,Japanese,15.96,Weekend,5.0,31,20,1.2,Cloudy,Moderate,22:03
+1476920,36118,RedFarm Broadway,Chinese,12.13,Weekend,4.0,20,19,2.4,Cloudy,Heavy,20:23
+1477786,145389,RedFarm Hudson,Chinese,4.75,Weekend,3.0,23,25,1.7,Cloudy,Heavy,20:55
+1476924,153048,Shake Shack,American,21.83,Weekend,0.0,28,23,1.5,Clear,Moderate,8:08
+1476547,83095,Bareburger,American,6.84,Weekend,5.0,22,24,3.3,Snowy,Moderate,20:21
+1477561,183704,The Meatball Shop,Italian,6.74,Weekend,0.0,30,25,1.6,Rainy,Light,21:46
+1477422,64401,The Meatball Shop,Italian,16.54,Weekday,5.0,32,24,3.4,Clear,Light,15:29
+1477436,88853,RedFarm Hudson,Chinese,29.29,Weekend,4.0,27,21,2.2,Stormy,Light,20:10
+1478353,369809,Momoya,Japanese,12.23,Weekday,3.0,32,24,2.6,Cloudy,Light,10:44
+1477086,164529,Blue Ribbon Sushi,Japanese,17.08,Weekday,5.0,35,29,2.4,Snowy,Heavy,10:01
+1477688,101285,Blue Ribbon Sushi,Japanese,12.13,Weekend,4.0,35,28,4.6,Clear,Moderate,10:20
+1477011,309983,S'MAC,American,12.61,Weekday,0.0,34,24,1.9,Clear,Light,9:50
+1477695,302131,Rubirosa,Italian,24.20,Weekend,0.0,33,28,5.4,Snowy,Light,22:09
+1476608,297674,Burger Joint,American,7.81,Weekend,3.0,33,24,2.1,Clear,Light,11:04
+1478375,214028,Boqueria,Spanish,22.85,Weekend,5.0,28,30,4.3,Cloudy,Moderate,15:17
+1476965,276192,Delicatessen,American,24.20,Weekend,4.0,21,19,1.1,Rainy,Light,17:46
+1476757,115610,12 Chairs,Middle Eastern,14.12,Weekend,0.0,31,27,5.1,Cloudy,Heavy,13:33
+1476611,300003,Grand Sichuan International,Chinese,12.23,Weekend,0.0,24,28,3.3,Cloudy,Heavy,17:03
+1477055,77544,Bareburger,American,14.12,Weekend,4.0,26,19,2.5,Clear,Moderate,18:43
+1477949,385023,Rubirosa,Italian,24.35,Weekend,3.0,30,28,1.2,Cloudy,Moderate,22:19
+1477406,154022,Blue Ribbon Sushi Bar & Grill,Japanese,16.74,Weekend,4.0,22,20,3.3,Clear,Moderate,9:46
+1478118,101285,Blue Ribbon Sushi,Japanese,9.85,Weekend,3.0,24,15,2.3,Clear,Light,20:52
+1477352,100148,Sushi of Gari,Japanese,9.31,Weekend,5.0,31,22,1.5,Stormy,Light,11:59
+1478276,352827,Shake Shack,American,17.03,Weekend,0.0,21,28,1.7,Snowy,Light,9:35
+1477837,93133,Nobu Next Door,Japanese,12.08,Weekend,0.0,21,19,4.3,Clear,Moderate,17:24
+1476781,333449,Shake Shack,American,12.13,Weekday,0.0,22,25,5.1,Snowy,Moderate,17:23
+1476879,259341,Blue Ribbon Fried Chicken,American,8.39,Weekend,4.0,26,17,2.7,Snowy,Light,16:04
+1477383,174796,Xi'an Famous Foods,Chinese,6.64,Weekend,0.0,35,19,1.8,Rainy,Heavy,18:36
+1477534,155124,The Meatball Shop,Italian,9.22,Weekend,0.0,30,19,1.2,Cloudy,Light,11:45
+1477111,127149,P.J. Clarke's,American,31.33,Weekend,4.0,26,19,4.4,Snowy,Light,15:44
+1477818,144352,Shake Shack,American,22.36,Weekend,4.0,27,27,3.9,Cloudy,Heavy,22:17
+1477249,351561,The Kati Roll Company,Indian,20.13,Weekday,0.0,24,31,3.6,Snowy,Moderate,21:45
+1477095,196355,Shake Shack,American,13.10,Weekday,0.0,20,28,5.0,Clear,Moderate,21:27
+1477379,145962,Joe's Shanghai _Àü£¾÷´,Chinese,22.31,Weekday,3.0,27,31,1.4,Rainy,Moderate,19:03
+1477128,354016,Waverly Diner,American,14.94,Weekend,0.0,28,28,2.5,Cloudy,Moderate,19:21
+1478125,49104,Shake Shack,American,16.15,Weekday,4.0,20,26,2.4,Rainy,Light,13:58
+1477707,133330,Blue Ribbon Fried Chicken,American,25.27,Weekend,5.0,29,28,2.7,Clear,Moderate,11:59
+1478191,390232,Friend of a Farmer,American,9.70,Weekend,0.0,35,22,2.4,Snowy,Light,18:42
+1476614,138462,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.10,Weekday,5.0,21,29,2.4,Snowy,Moderate,9:42
+1477105,67844,The Smile,American,9.17,Weekday,5.0,26,28,1.3,Cloudy,Light,17:10
+1477124,270789,Vanessa's Dumplings,Chinese,9.51,Weekend,0.0,31,23,1.8,Clear,Moderate,8:53
+1476980,117810,Momoya,Japanese,6.02,Weekend,5.0,28,20,1.7,Stormy,Light,21:08
+1477162,42755,Blue Ribbon Fried Chicken,American,15.72,Weekend,4.0,25,19,1.8,Clear,Moderate,22:55
+1476754,229946,Balthazar Boulangerie,French,21.25,Weekend,0.0,25,20,3.6,Cloudy,Heavy,22:48
+1477260,229946,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.10,Weekend,4.0,27,25,3.2,Cloudy,Light,10:05
+1478297,180618,Bareburger,American,24.20,Weekend,5.0,27,24,2.2,Stormy,Light,21:33
+1476792,346280,Saravanaa Bhavan,Indian,9.17,Weekday,0.0,24,29,4.3,Clear,Heavy,19:16
+1477554,72726,Shake Shack,American,11.69,Weekend,0.0,31,28,3.7,Stormy,Light,8:29
+1477820,41746,Schnipper's Quality Kitchen,American,25.22,Weekend,4.0,33,18,4.2,Cloudy,Light,20:39
+1478291,385134,RedFarm Broadway,Chinese,31.87,Weekend,5.0,27,18,2.5,Clear,Light,15:59
+1477628,83287,Blue Ribbon Sushi Izakaya,Japanese,9.22,Weekend,0.0,28,15,3.1,Clear,Light,15:25
+1478038,45164,Shake Shack,American,12.18,Weekend,0.0,31,28,3.5,Clear,Moderate,17:05
+1478356,62540,Blue Ribbon Sushi,Japanese,16.44,Weekend,0.0,22,18,4.2,Clear,Light,14:07
+1477952,371117,Shake Shack,American,13.10,Weekend,4.0,30,29,3.7,Stormy,Heavy,9:01
+1476992,85782,Vezzo Thin Crust Pizza,Italian,12.13,Weekend,0.0,27,15,5.5,Cloudy,Moderate,9:18
+1478040,47280,Sushi of Gari Tribeca,Japanese,12.13,Weekday,5.0,22,26,1.6,Clear,Light,18:19
+1477905,164626,The Meatball Shop,Italian,15.57,Weekend,4.0,20,24,5.0,Rainy,Moderate,9:17
+1477658,80795,Tamarind TriBeCa,Indian,14.02,Weekday,0.0,20,25,2.9,Rainy,Light,13:20
+1477918,62912,Yama Japanese Restaurant,Japanese,24.25,Weekday,0.0,23,30,2.9,Rainy,Light,13:39
+1477562,93113,The Odeon,American,6.69,Weekend,4.0,30,20,4.8,Cloudy,Light,14:54
+1476847,114085,The Meatball Shop,Italian,24.30,Weekend,4.0,29,15,3.0,Clear,Heavy,9:41
+1477081,222734,Shake Shack,American,24.25,Weekday,0.0,23,30,4.3,Rainy,Light,22:56
+1476604,126798,Cafe Mogador,Middle Eastern,19.45,Weekday,4.0,23,29,3.6,Clear,Moderate,21:14
+1478016,154471,Yama Japanese Restaurant,Japanese,9.65,Weekend,5.0,24,16,3.7,Cloudy,Heavy,21:05
+1477087,206039,Shake Shack,American,12.66,Weekend,5.0,25,15,2.6,Stormy,Light,9:32
+1476706,327651,Hunan Manor,Chinese,5.72,Weekday,5.0,31,26,1.4,Cloudy,Light,17:08
+1477906,66012,Sushi of Gari Tribeca,Japanese,19.02,Weekend,5.0,27,29,3.6,Stormy,Light,16:47
+1478381,111909,Ravagh Persian Grill,Middle Eastern,16.06,Weekend,0.0,28,21,3.3,Cloudy,Light,11:32
+1478142,114085,Hatsuhana,Japanese,29.15,Weekend,3.0,33,28,3.8,Stormy,Light,22:26
+1477654,301032,Blue Ribbon Fried Chicken,American,12.13,Weekend,5.0,25,29,2.2,Stormy,Light,18:31
+1477965,384411,Shake Shack,American,19.45,Weekday,3.0,24,29,2.4,Cloudy,Moderate,11:22
+1476960,45577,Parm,Italian,21.83,Weekday,0.0,23,32,1.0,Cloudy,Moderate,12:33
+1478134,82041,Sushi of Gari Tribeca,Japanese,21.83,Weekday,0.0,34,30,1.5,Cloudy,Heavy,20:24
+1477588,286386,5 Napkin Burger,American,29.05,Weekend,3.0,26,21,3.3,Clear,Light,12:10
+1477897,79507,The Meatball Shop,Italian,12.56,Weekday,0.0,31,32,1.7,Clear,Moderate,18:48
+1477217,139639,Sushi of Gari 46,Japanese,29.15,Weekday,0.0,32,32,1.9,Cloudy,Light,12:05
+1476772,149984,Sushi of Gari,Japanese,12.13,Weekday,5.0,29,26,4.7,Clear,Moderate,18:19
+1478167,88078,RedFarm Hudson,Chinese,12.23,Weekday,0.0,20,25,3.7,Cloudy,Moderate,12:53
+1477101,81828,The Meatball Shop,American,14.55,Weekend,5.0,21,30,4.7,Clear,Light,16:56
+1477665,231061,Han Dynasty,Chinese,34.19,Weekday,0.0,21,31,2.9,Rainy,Light,21:49
+1477103,342515,Five Guys Burgers and Fries,American,19.45,Weekend,5.0,22,23,2.1,Clear,Moderate,8:57
+1477880,114410,The Meatball Shop,Italian,14.60,Weekend,5.0,21,23,1.6,Clear,Light,18:38
+1477346,235620,Shake Shack,American,5.53,Weekday,4.0,28,26,4.5,Stormy,Light,20:53
+1477157,92006,Blue Ribbon Sushi Bar & Grill,Japanese,10.82,Weekend,0.0,25,24,4.1,Clear,Light,15:23
+1477886,241310,Blue Ribbon Sushi,Japanese,32.93,Weekday,3.0,34,31,3.9,Snowy,Light,11:51
+1477442,184325,Asuka Sushi,Japanese,19.45,Weekend,5.0,23,23,4.5,Rainy,Light,8:31
+1477434,77857,Shake Shack,American,29.15,Weekend,5.0,20,21,3.9,Cloudy,Moderate,19:21
+1477303,92768,Sushi of Gari 46,Japanese,19.35,Weekday,0.0,28,24,4.9,Cloudy,Light,8:11
+1477423,80466,J. G. Melon,American,14.60,Weekend,5.0,32,24,2.4,Clear,Light,22:37
+1478424,304052,Parm,Italian,11.59,Weekday,5.0,35,29,4.7,Snowy,Light,14:04
+1476571,334758,Melt Shop,American,29.15,Weekend,4.0,26,17,4.0,Clear,Heavy,18:00
+1477034,259341,J. G. Melon,American,29.05,Weekend,0.0,26,28,4.9,Stormy,Moderate,8:18
+1477673,132906,Sushi of Gari 46,Japanese,22.46,Weekday,0.0,21,29,4.2,Clear,Light,21:52
+1478061,64151,Jack's Wife Freda,Mediterranean,16.01,Weekday,0.0,28,33,2.0,Clear,Light,18:34
+1476901,391860,Lucky's Famous Burgers,American,11.59,Weekend,5.0,26,23,3.9,Cloudy,Moderate,14:07
+1478113,74048,ilili Restaurant,Middle Eastern,25.22,Weekday,4.0,32,25,5.0,Stormy,Light,21:22
+1477986,115213,Junoon,Indian,22.75,Weekend,5.0,29,28,3.2,Clear,Moderate,12:28
+1477770,59742,J. G. Melon,American,7.33,Weekday,0.0,31,30,5.1,Rainy,Moderate,17:50
+1478420,104355,Momoya,Japanese,15.81,Weekend,5.0,25,15,1.8,Clear,Moderate,22:09
+1477252,96262,Cafe Habana,Mexican,8.10,Weekend,0.0,20,16,5.2,Rainy,Moderate,8:21
+1476883,354948,Westville Hudson,American,16.01,Weekend,5.0,20,18,4.4,Rainy,Light,18:07
+1478442,378035,Five Guys Burgers and Fries,American,29.73,Weekend,5.0,21,25,1.2,Clear,Heavy,8:33
+1477898,68248,J. G. Melon,American,10.43,Weekday,5.0,35,29,2.6,Rainy,Light,14:05
+1477476,276192,Delicatessen,American,32.93,Weekend,4.0,30,18,4.4,Clear,Moderate,17:20
+1477520,178158,Chipotle Mexican Grill $1.99 Delivery,Mexican,31.33,Weekend,4.0,35,21,3.7,Clear,Heavy,10:33
+1477652,99393,Parm,Italian,10.14,Weekday,0.0,24,28,5.2,Cloudy,Moderate,20:24
+1478205,65361,Coppola's East,Italian,13.05,Weekend,0.0,32,16,2.6,Clear,Light,19:45
+1477751,385134,RedFarm Broadway,Chinese,16.20,Weekend,5.0,29,18,2.8,Rainy,Light,15:50
+1477021,231453,Mamoun's Falafel,Mediterranean,14.46,Weekend,0.0,20,29,3.4,Clear,Light,12:35
+1476959,65007,Serafina Fabulous Pizza,Italian,19.50,Weekday,5.0,22,33,4.6,Rainy,Light,21:01
+1476687,61722,Blue Ribbon Sushi,Japanese,14.50,Weekend,0.0,28,28,3.0,Cloudy,Heavy,8:54
+1477798,378035,Five Guys Burgers and Fries,American,13.00,Weekend,4.0,29,27,1.8,Cloudy,Moderate,8:24
+1476938,164776,TAO,Japanese,25.27,Weekday,0.0,33,30,2.3,Clear,Light,19:13
+1477022,61588,Blue Ribbon Sushi,Japanese,12.08,Weekend,4.0,33,22,4.1,Cloudy,Light,10:44
+1477077,40808,Shake Shack,American,12.18,Weekend,4.0,27,23,3.5,Stormy,Light,16:13
+1478361,371117,Shake Shack,American,29.10,Weekend,5.0,26,24,3.1,Clear,Moderate,8:09
+1477407,123535,RedFarm Hudson,Chinese,12.61,Weekend,5.0,31,22,1.2,Clear,Light,16:18
+1477207,58088,Sushi of Gari 46,Japanese,12.18,Weekday,0.0,24,26,1.6,Clear,Heavy,8:48
+1477122,97806,Shake Shack,American,8.63,Weekend,0.0,33,19,4.2,Cloudy,Heavy,10:47
+1477199,154471,Yama Japanese Restaurant,Japanese,9.02,Weekday,3.0,25,33,1.9,Stormy,Heavy,14:27
+1478060,97346,Osteria Morini,Italian,9.51,Weekend,0.0,22,26,1.4,Clear,Heavy,17:53
+1478074,41638,Blue Ribbon Fried Chicken,American,29.05,Weekend,5.0,30,29,4.3,Clear,Light,11:55
+1477614,255697,Sushi Samba,Japanese,14.02,Weekend,0.0,30,29,4.1,Stormy,Moderate,9:10
+1477181,302790,Carmine's,Italian,29.05,Weekday,0.0,33,32,1.1,Stormy,Light,20:56
+1477454,210544,DespaÌ±a,Spanish,16.06,Weekend,5.0,21,17,2.3,Stormy,Light,18:34
+1476870,94524,The Meatball Shop,Italian,24.30,Weekend,5.0,28,25,1.1,Cloudy,Light,16:54
+1477759,68551,Blue Ribbon Sushi Bar & Grill,Japanese,12.13,Weekend,0.0,21,29,2.1,Snowy,Moderate,15:30
+1477606,39406,RedFarm Broadway,Chinese,9.27,Weekday,4.0,32,29,1.1,Clear,Light,14:36
+1478302,318665,Blue Ribbon Sushi Bar & Grill,Japanese,4.90,Weekday,4.0,29,32,1.6,Cloudy,Heavy,18:21
+1476574,376993,Emporio,Italian,31.43,Weekend,0.0,25,29,2.7,Clear,Moderate,21:24
+1478306,358158,Parm,Italian,9.12,Weekend,0.0,23,21,3.3,Clear,Moderate,16:47
+1476565,41991,Blue Ribbon Sushi Bar & Grill,Japanese,15.33,Weekend,5.0,32,29,2.7,Snowy,Moderate,20:00
+1478200,164016,Blue Ribbon Fried Chicken,American,12.13,Weekend,5.0,28,23,4.8,Rainy,Moderate,15:50
+1478264,70564,Jack's Wife Freda,Mediterranean,16.15,Weekday,5.0,22,24,5.3,Cloudy,Light,21:06
+1477228,52574,Jack's Wife Freda,Mediterranean,6.74,Weekend,0.0,25,22,4.3,Cloudy,Moderate,15:47
+1478057,75548,Parm,Italian,7.38,Weekend,0.0,26,20,2.1,Stormy,Moderate,16:00
+1478256,147468,Tamarind TriBeCa,Indian,6.69,Weekend,5.0,22,18,2.6,Clear,Light,11:27
+1478259,68446,Hill Country Fried Chicken,Southern,12.47,Weekend,0.0,29,28,2.9,Snowy,Light,15:19
+1477483,142681,Osteria Morini,Italian,6.79,Weekday,4.0,32,29,4.8,Cloudy,Light,8:49
+1477257,400950,Sushi of Gari 46,Japanese,12.13,Weekday,5.0,34,28,3.9,Rainy,Light,13:53
+1477056,298824,Shake Shack,American,12.18,Weekend,0.0,23,18,4.3,Cloudy,Heavy,13:37
+1477402,377481,Otto Enoteca Pizzeria,Italian,24.25,Weekday,0.0,31,30,1.0,Clear,Light,16:35
+1476760,180776,Empanada Mama (closed),Mexican,22.75,Weekend,0.0,29,18,1.9,Clear,Light,13:01
+1477030,240982,Rubirosa,Italian,24.30,Weekday,3.0,29,31,1.1,Snowy,Heavy,9:29
+1476850,85091,The Meatball Shop,Italian,13.05,Weekday,5.0,23,31,2.8,Clear,Light,10:32
+1477356,354923,CafÌ© China,Chinese,15.57,Weekday,4.0,34,31,1.2,Clear,Moderate,12:18
+1477990,59673,Rubirosa,Italian,12.95,Weekend,4.0,30,25,2.4,Snowy,Light,16:52
+1477448,142574,Sushi of Gari,Japanese,22.75,Weekend,5.0,30,22,3.9,Cloudy,Light,9:26
+1477784,146555,Momoya,Japanese,24.30,Weekend,5.0,28,20,5.3,Cloudy,Light,10:12
+1478425,373152,Parm,Italian,14.02,Weekday,0.0,28,32,2.5,Snowy,Moderate,10:01
+1477031,201471,Friend of a Farmer,American,24.20,Weekend,0.0,33,27,5.5,Cloudy,Heavy,10:19
+1477969,69516,Wa Jeal,Chinese,6.74,Weekend,0.0,32,24,5.4,Rainy,Moderate,15:18
+1476595,385150,Blue Ribbon Sushi,Japanese,14.02,Weekend,0.0,35,16,1.6,Cloudy,Light,21:29
+1478070,129206,RedFarm Broadway,Chinese,14.07,Weekend,3.0,20,15,4.3,Cloudy,Heavy,13:27
+1477501,151191,RedFarm Hudson,Chinese,12.18,Weekend,5.0,34,24,3.1,Snowy,Moderate,13:01
+1476727,49086,Jack's Wife Freda,Mediterranean,12.95,Weekday,3.0,22,33,5.0,Stormy,Moderate,11:28
+1477016,78067,Parm,Italian,15.37,Weekend,0.0,29,23,5.1,Clear,Moderate,18:26
+1477511,261665,RedFarm Broadway,Chinese,7.67,Weekend,5.0,24,15,3.0,Clear,Moderate,9:43
+1477067,370656,Vanessa's Dumplings,Chinese,8.30,Weekend,0.0,24,20,3.9,Cloudy,Moderate,21:25
+1477068,108046,Rubirosa,Italian,12.18,Weekend,0.0,33,20,1.6,Cloudy,Light,10:46
+1477551,277898,Blue Ribbon Fried Chicken,American,29.44,Weekend,4.0,33,27,2.1,Clear,Light,21:50
+1478415,105665,Blue Ribbon Sushi Bar & Grill,Japanese,12.56,Weekday,0.0,32,27,2.1,Snowy,Light,11:41
+1478129,52256,Han Dynasty,Chinese,12.18,Weekend,0.0,30,15,5.0,Snowy,Moderate,17:42
+1477096,158578,Xi'an Famous Foods,Chinese,14.12,Weekday,3.0,24,31,2.4,Clear,Light,20:58
+1477891,142461,Shake Shack,American,25.22,Weekend,0.0,28,26,2.3,Clear,Light,18:58
+1477881,63361,Cafeteria,American,13.05,Weekend,0.0,31,16,4.1,Snowy,Light,12:52
+1478197,41205,Shake Shack,American,12.08,Weekend,5.0,28,23,1.1,Clear,Moderate,9:12
+1477082,107909,ilili Restaurant,Middle Eastern,24.20,Weekday,4.0,34,24,1.9,Cloudy,Light,8:05
+1477781,183520,Tamarind TriBeCa,Indian,12.47,Weekend,5.0,32,26,3.1,Clear,Light,12:01
+1476570,148459,The Kati Roll Company,Indian,5.87,Weekday,0.0,26,30,3.2,Clear,Light,9:01
+1476677,302790,Le Zie 2000 Trattoria,Italian,15.47,Weekend,0.0,22,30,2.4,Cloudy,Moderate,19:41
+1478397,121706,Blue Ribbon Fried Chicken,American,24.30,Weekend,5.0,22,15,3.5,Cloudy,Heavy,20:51
+1477608,125123,Le Grainne Cafe,French,15.96,Weekend,4.0,25,22,1.9,Clear,Moderate,22:15
+1478241,60052,RedFarm Broadway,Chinese,24.20,Weekend,5.0,31,19,1.5,Stormy,Light,19:09
+1477216,259341,Momoya,Japanese,29.35,Weekday,0.0,31,30,3.4,Stormy,Light,15:00
+1478379,142753,Shake Shack,American,8.63,Weekday,0.0,31,32,2.1,Snowy,Moderate,12:07
+1478237,81110,Han Dynasty,Chinese,16.44,Weekday,0.0,23,29,5.0,Rainy,Heavy,18:55
+1477732,399729,Shake Shack,American,24.25,Weekend,4.0,20,29,3.8,Stormy,Light,21:05
+1476842,103970,RedFarm Broadway,Chinese,14.12,Weekend,0.0,35,23,2.7,Cloudy,Light,22:01
+1476984,286386,5 Napkin Burger,American,7.91,Weekday,0.0,29,26,1.7,Rainy,Light,8:21
+1476783,96254,Han Dynasty,Chinese,19.40,Weekend,0.0,35,26,3.9,Clear,Moderate,14:46
+1476989,64401,The Meatball Shop,Italian,21.34,Weekday,5.0,22,24,2.8,Clear,Heavy,20:55
+1477213,53156,The Meatball Shop,Italian,13.19,Weekend,0.0,26,29,5.2,Cloudy,Moderate,17:10
+1477607,386995,Han Dynasty,Chinese,9.75,Weekend,0.0,29,25,3.1,Snowy,Light,13:16
+1477863,128216,Shake Shack,American,8.20,Weekday,4.0,33,26,1.2,Clear,Moderate,13:57
+1478360,375043,Tamarind TriBeCa,Indian,24.20,Weekend,0.0,24,29,1.8,Snowy,Light,12:17
+1477134,361654,The Meatball Shop,Italian,13.53,Weekend,5.0,22,24,1.3,Snowy,Moderate,15:12
+1478390,38612,Vanessa's Dumplings,Chinese,12.13,Weekday,0.0,31,33,4.8,Snowy,Light,22:01
+1476794,73274,S'MAC,American,9.56,Weekend,0.0,27,20,2.5,Cloudy,Light,12:32
+1478116,378482,Five Guys Burgers and Fries,American,5.72,Weekday,0.0,22,24,1.5,Snowy,Heavy,9:03
+1478344,55334,Sushi of Gari Tribeca,Japanese,9.46,Weekend,5.0,32,20,3.7,Clear,Moderate,19:46
+1477796,40745,Parm,Italian,15.91,Weekday,0.0,32,28,3.7,Cloudy,Light,18:31
+1478243,159626,Blue Ribbon Sushi,Japanese,29.10,Weekend,4.0,21,15,3.5,Cloudy,Moderate,21:45
+1477069,377260,Blue Ribbon Fried Chicken,American,12.18,Weekend,5.0,35,27,1.3,Snowy,Heavy,16:53
+1476953,252342,Westville Hudson,American,20.13,Weekend,4.0,29,19,1.3,Cloudy,Heavy,17:07
+1477700,60039,Blue Ribbon Sushi,Japanese,33.37,Weekday,3.0,30,27,2.3,Clear,Light,17:32
+1478106,129206,Shake Shack,American,29.15,Weekday,0.0,34,28,1.9,Snowy,Moderate,10:08
+1477625,106860,Sushi of Gari Tribeca,Japanese,17.03,Weekday,0.0,35,30,5.0,Clear,Light,21:59
+1478213,122092,Han Dynasty,Chinese,22.31,Weekend,3.0,23,29,5.3,Rainy,Light,20:02
+1476779,378820,Sushi Samba,Japanese,31.33,Weekend,5.0,35,20,2.2,Snowy,Moderate,10:58
+1478207,62161,Tamarind TriBeCa,Indian,24.20,Weekend,4.0,28,26,1.1,Stormy,Heavy,20:23
+1477075,52832,ilili Restaurant,Middle Eastern,31.43,Weekday,3.0,26,29,2.4,Stormy,Light,11:33
+1477145,207281,Shake Shack,American,29.30,Weekday,5.0,33,32,2.4,Cloudy,Moderate,19:28
+1478153,300208,Xi'an Famous Foods,Chinese,6.02,Weekend,5.0,33,24,1.7,Cloudy,Light,14:36
+1477689,203442,Terakawa Ramen,Japanese,19.60,Weekday,0.0,23,26,5.0,Cloudy,Moderate,20:59
+1477742,338599,Blue Ribbon Fried Chicken,American,6.84,Weekend,3.0,24,26,5.2,Cloudy,Light,17:39
+1477391,60835,RedFarm Hudson,Chinese,16.49,Weekend,3.0,34,20,4.0,Clear,Moderate,14:22
+1476993,301825,RedFarm Broadway,Chinese,12.23,Weekend,0.0,32,19,4.8,Clear,Light,20:32
+1476705,260680,Cafe Mogador,Middle Eastern,5.77,Weekend,3.0,20,16,4.7,Snowy,Moderate,15:31
+1477694,192317,Shake Shack,American,24.30,Weekend,4.0,25,15,3.6,Rainy,Heavy,22:36
+1477933,284256,Empanada Mama (closed),Mexican,12.37,Weekend,0.0,29,25,1.2,Rainy,Moderate,12:38
+1477062,396432,Blue Ribbon Sushi,Japanese,19.40,Weekend,5.0,26,17,4.5,Stormy,Light,10:55
+1477771,232035,ilili Restaurant,Middle Eastern,12.23,Weekday,5.0,24,32,3.6,Cloudy,Heavy,21:34
+1477144,62667,Balthazar Boulangerie,French,29.10,Weekend,5.0,31,27,1.9,Snowy,Moderate,17:19
+1477149,102710,Rye House,American,12.13,Weekday,4.0,26,30,4.5,Clear,Moderate,19:32
+1478182,135970,Momoya,Japanese,25.27,Weekday,5.0,31,30,3.4,Rainy,Light,19:39
+1478405,58675,Shake Shack,American,11.59,Weekday,3.0,23,25,1.3,Cloudy,Light,20:42
+1478094,102010,TAO,Japanese,13.48,Weekday,0.0,27,32,1.1,Stormy,Light,10:10
+1477857,363202,S'MAC,American,25.27,Weekend,5.0,20,29,2.0,Clear,Heavy,17:48
+1476840,143866,Jack's Wife Freda,Mediterranean,20.71,Weekend,0.0,35,16,2.5,Clear,Light,16:09
+1477641,128224,Blue Ribbon Sushi,Japanese,24.20,Weekend,4.0,29,18,4.5,Stormy,Light,11:00
+1476690,124875,Vanessa's Dumplings,Chinese,24.20,Weekend,4.0,20,18,2.1,Stormy,Light,21:14
+1476593,175703,The Meatball Shop,Italian,20.61,Weekend,0.0,34,30,5.4,Rainy,Moderate,21:34
+1477343,101957,Hiroko's Place,Japanese,13.05,Weekend,0.0,32,27,2.4,Clear,Heavy,14:34
+1476881,57263,Nobu Next Door,Japanese,15.76,Weekday,0.0,27,28,1.7,Stormy,Light,20:52
+1476913,145216,Grand Sichuan International,Chinese,7.66,Weekday,5.0,33,31,3.7,Stormy,Moderate,15:49
+1478119,276192,Sushi of Gari Tribeca,Japanese,10.86,Weekday,4.0,28,28,2.7,Rainy,Heavy,9:20
+1476976,300552,Shake Shack,American,22.26,Weekday,5.0,33,32,5.4,Snowy,Moderate,11:38
+1476575,141912,P.J. Clarke's,American,31.38,Weekend,0.0,31,23,4.0,Cloudy,Light,14:51
+1478105,143721,Hummus Place,Middle Eastern,29.05,Weekend,5.0,26,17,1.9,Snowy,Heavy,22:10
+1476945,49034,The Smile,American,7.81,Weekend,5.0,24,21,1.6,Cloudy,Light,14:29
+1476853,139626,L'Express,French,16.98,Weekday,0.0,35,29,3.9,Clear,Light,16:04
+1477259,145952,Blue Ribbon Sushi,Japanese,29.15,Weekend,4.0,31,19,2.7,Clear,Light,12:36
+1477141,66331,Shake Shack,American,24.30,Weekend,5.0,21,24,1.2,Rainy,Light,11:25
+1477556,168420,Blue Ribbon Brooklyn,American,13.10,Weekend,0.0,32,19,3.3,Stormy,Light,22:39
+1478254,239985,5 Napkin Burger,American,25.22,Weekend,5.0,27,21,5.2,Cloudy,Light,20:57
+1478365,60039,ilili Restaurant,Middle Eastern,32.93,Weekend,4.0,25,17,5.0,Clear,Light,10:30
+1477380,108659,Rubirosa,Italian,25.27,Weekday,4.0,23,31,2.7,Rainy,Light,22:59
+1477548,79255,The Meatball Shop,Italian,12.95,Weekday,4.0,29,24,4.9,Rainy,Light,19:13
+1478444,355090,Shake Shack,American,31.43,Weekend,3.0,22,24,4.8,Cloudy,Light,16:35
+1477716,317515,Cafe Habana,Mexican,15.62,Weekend,0.0,29,19,5.0,Cloudy,Light,20:09
+1476668,114476,Zero Otto Nove,Italian,5.87,Weekend,0.0,31,18,1.9,Rainy,Heavy,20:09
+1477106,103852,J. G. Melon,American,8.83,Weekend,5.0,31,19,5.1,Cloudy,Moderate,16:29
+1477526,344079,Olea,Mediterranean,24.20,Weekend,0.0,20,16,4.3,Clear,Heavy,11:11
+1477664,47440,Blue Ribbon Fried Chicken,American,29.30,Weekend,4.0,28,16,4.4,Stormy,Moderate,11:46
+1477917,71249,Momoya,Japanese,24.30,Weekend,4.0,35,30,1.8,Clear,Light,19:23
+1477381,316223,The Smile,American,25.22,Weekday,4.0,25,28,2.9,Rainy,Light,22:36
+1476745,377771,Blue Ribbon Fried Chicken,American,12.61,Weekend,3.0,30,30,2.0,Cloudy,Moderate,17:48
+1477885,178158,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.10,Weekday,4.0,22,32,4.7,Cloudy,Moderate,9:06
+1476724,130956,Blue Ribbon Sushi,Japanese,21.83,Weekday,3.0,21,26,2.5,Cloudy,Heavy,13:24
+1477387,141732,Blue Ribbon Fried Chicken,American,9.27,Weekend,0.0,29,16,1.8,Clear,Light,11:21
+1476750,94152,Empanada Mama (closed),Mexican,15.37,Weekend,3.0,35,30,2.5,Stormy,Light,10:15
+1478285,113817,Blue Ribbon Fried Chicken,American,12.18,Weekend,4.0,32,22,1.9,Stormy,Light,17:56
+1477910,39702,Frank Restaurant,Italian,12.08,Weekday,4.0,20,31,4.4,Cloudy,Light,11:10
+1478364,273690,Grand Sichuan International,Chinese,32.93,Weekend,0.0,32,28,2.9,Clear,Light,14:41
+1477480,75722,Yama 49,Japanese,22.31,Weekend,5.0,29,17,1.7,Cloudy,Moderate,22:04
+1477050,337230,Shake Shack,American,15.18,Weekday,0.0,34,30,3.4,Clear,Moderate,9:11
+1478090,62359,Blue Ribbon Sushi Izakaya,Japanese,16.01,Weekday,5.0,23,27,4.5,Stormy,Light,12:59
+1477633,378753,Shake Shack,American,29.10,Weekend,5.0,29,17,4.3,Clear,Moderate,21:04
+1478095,183520,Blue Ribbon Sushi,Japanese,12.18,Weekend,4.0,30,17,3.3,Snowy,Heavy,10:13
+1478096,146211,Yama Japanese Restaurant,Japanese,12.08,Weekday,0.0,25,33,4.5,Rainy,Light,13:05
+1478166,177250,RedFarm Hudson,Chinese,12.13,Weekend,0.0,31,27,4.2,Snowy,Moderate,19:24
+1478013,283884,Westville Hudson,American,12.56,Weekend,5.0,26,28,4.8,Stormy,Light,10:48
+1478369,243341,Sushi Samba,Japanese,22.36,Weekend,5.0,31,30,2.6,Cloudy,Light,18:09
+1476970,275689,Nobu Next Door,Japanese,33.37,Weekend,4.0,32,21,2.2,Snowy,Moderate,10:59
+1476612,115610,Delicatessen,American,12.18,Weekend,0.0,24,17,4.7,Snowy,Light,20:27
+1478234,102620,Balthazar Boulangerie,French,12.23,Weekend,4.0,35,23,3.9,Cloudy,Moderate,17:51
+1477114,47594,Dos Caminos,Mexican,12.18,Weekday,5.0,24,30,2.1,Clear,Moderate,12:48
+1477644,82041,Osteria Morini,Italian,5.77,Weekend,3.0,24,19,1.2,Cloudy,Heavy,19:07
+1476634,82092,Sushi of Gari 46,Japanese,16.30,Weekend,0.0,21,29,3.3,Clear,Light,22:15
+1477186,291891,The Kati Roll Company,Indian,11.64,Weekend,4.0,34,18,2.9,Snowy,Light,17:55
+1477939,41040,The Meatball Shop,Italian,15.91,Weekend,0.0,26,20,3.7,Snowy,Light,20:15
+1477610,35643,Vanessa's Dumpling House,Chinese,16.49,Weekend,5.0,26,25,2.0,Rainy,Heavy,12:00
+1476843,361846,Sarabeth's West,American,14.12,Weekday,3.0,21,33,3.2,Cloudy,Moderate,15:55
+1476983,55689,Rubirosa,Italian,7.95,Weekday,0.0,20,26,4.0,Clear,Heavy,15:33
+1478418,95049,Nobu Next Door,Japanese,9.70,Weekend,0.0,21,19,1.5,Clear,Light,20:43
+1477941,64830,Cafeteria,American,15.52,Weekend,3.0,28,30,2.6,Clear,Heavy,20:13
+1478123,149268,Han Dynasty,Chinese,16.20,Weekend,0.0,29,18,3.8,Snowy,Light,20:31
+1477966,318451,Blue Ribbon Sushi,Japanese,24.30,Weekend,0.0,29,15,5.3,Stormy,Light,14:09
+1478154,383688,CafÌ© China,Chinese,12.61,Weekend,5.0,20,20,2.4,Cloudy,Moderate,9:25
+1477855,5139,Sushi of Gari 46,Japanese,22.26,Weekend,5.0,28,22,1.3,Rainy,Light,11:03
+1478261,106940,Parm,Italian,9.07,Weekday,4.0,23,30,1.7,Clear,Light,9:27
+1477121,274232,Nobu Next Door,Japanese,7.86,Weekday,5.0,20,27,4.1,Cloudy,Moderate,20:53
+1477927,351329,Parm,Italian,12.23,Weekday,0.0,27,26,5.2,Clear,Heavy,13:35
+1477871,124875,Shake Shack,American,21.39,Weekend,3.0,33,22,2.5,Snowy,Light,18:55
+1476644,142461,Shake Shack,American,16.93,Weekend,5.0,35,28,4.8,Clear,Moderate,21:40
+1477415,58800,Mamoun's Falafel,Mediterranean,14.41,Weekend,5.0,33,26,5.5,Clear,Light,18:27
+1477397,117810,Momoya,Japanese,8.05,Weekend,0.0,31,25,5.4,Clear,Light,8:36
+1476723,136807,RedFarm Hudson,Chinese,19.35,Weekday,5.0,35,28,3.9,Cloudy,Light,15:39
+1478258,222734,Shake Shack,American,16.98,Weekend,3.0,23,23,3.8,Cloudy,Moderate,18:44
+1477222,348096,The Meatball Shop,Italian,11.64,Weekend,4.0,23,24,5.2,Cloudy,Light,15:49
+1477335,84457,Nobu Next Door,Japanese,29.15,Weekend,0.0,27,15,1.7,Stormy,Moderate,9:33
+1476790,141732,Cho Dang Gol,Korean,12.18,Weekday,5.0,20,26,3.0,Stormy,Light,12:17
+1477330,198802,DuMont Burger,American,24.25,Weekend,3.0,28,20,5.3,Cloudy,Light,21:13
+1477639,211035,Blue Ribbon Sushi,Japanese,19.45,Weekday,0.0,28,28,2.2,Cloudy,Heavy,9:12
+1478124,328331,S'MAC,American,16.11,Weekday,5.0,25,24,4.4,Snowy,Moderate,11:09
+1477076,68834,Sushi of Gari 46,Japanese,31.43,Weekend,5.0,29,30,4.1,Cloudy,Light,22:00
+1476939,111894,The Meatball Shop,Italian,25.27,Weekend,0.0,25,29,3.9,Snowy,Moderate,21:44
+1476661,42755,Blue Ribbon Sushi,Japanese,12.13,Weekend,3.0,24,23,2.5,Cloudy,Heavy,22:52
+1478268,306119,Xi'an Famous Foods,Chinese,20.86,Weekend,4.0,35,26,2.2,Snowy,Light,9:48
+1477253,111125,Blue Ribbon Sushi,Japanese,8.54,Weekend,5.0,34,29,3.6,Snowy,Moderate,11:22
+1477778,100889,RedFarm Broadway,Chinese,31.43,Weekend,4.0,30,23,1.5,Stormy,Moderate,8:09
+1476923,50199,J. G. Melon,American,19.40,Weekday,4.0,35,26,2.5,Clear,Light,19:01
+1477362,172758,Shake Shack,American,12.23,Weekday,4.0,31,24,5.0,Snowy,Light,15:43
+1477404,96254,Yama Japanese Restaurant,Japanese,6.69,Weekend,4.0,28,17,5.2,Cloudy,Moderate,19:39
+1477000,328731,Blue Ribbon Fried Chicken,American,29.59,Weekend,5.0,23,25,3.8,Stormy,Heavy,14:30
+1478148,261371,Shake Shack,American,22.31,Weekend,0.0,35,28,3.3,Snowy,Light,15:31
+1477377,198802,DuMont Burger,American,12.56,Weekend,0.0,35,19,2.0,Snowy,Light,20:04
+1478039,292343,Amy Ruth's,Southern,12.23,Weekday,0.0,32,33,1.5,Stormy,Moderate,13:50
+1478320,85091,The Meatball Shop,Italian,13.53,Weekday,3.0,20,31,3.4,Snowy,Heavy,13:34
+1478304,321492,'wichcraft,American,8.10,Weekday,5.0,28,28,3.6,Cloudy,Light,17:09
+1477194,62540,Blue Ribbon Sushi,Japanese,5.92,Weekday,0.0,27,31,3.4,Clear,Light,12:35
+1477132,110792,Blue Ribbon Sushi,Japanese,12.13,Weekend,5.0,28,15,4.2,Clear,Light,20:19
+1477466,222734,Shake Shack,American,13.97,Weekend,5.0,35,27,2.9,Clear,Moderate,9:54
+1476700,127036,Shake Shack,American,12.23,Weekend,0.0,27,18,2.7,Rainy,Moderate,20:08
+1478011,96877,Melt Shop,American,16.98,Weekend,5.0,30,19,5.1,Stormy,Light,8:15
+1476748,109906,The Meatball Shop,American,9.27,Weekend,0.0,24,23,3.7,Cloudy,Heavy,15:59
+1477437,304993,Shake Shack,American,31.43,Weekend,3.0,31,24,3.8,Snowy,Moderate,17:27
+1477550,97324,Shake Shack,American,29.05,Weekday,4.0,27,29,4.2,Snowy,Moderate,22:52
+1478277,48282,The Meatball Shop,American,14.50,Weekend,5.0,34,25,5.3,Cloudy,Light,12:18
+1476873,237616,Shake Shack,American,5.82,Weekend,0.0,26,30,4.4,Stormy,Moderate,14:45
+1477353,106324,The Meatball Shop,Italian,16.20,Weekend,5.0,21,26,4.8,Stormy,Moderate,22:46
+1478190,94152,RedFarm Broadway,Chinese,8.68,Weekday,3.0,33,30,5.0,Stormy,Light,12:17
+1477316,164776,TAO,Japanese,15.67,Weekend,5.0,20,22,5.0,Clear,Moderate,15:58
+1476981,138586,Shake Shack,American,5.82,Weekend,0.0,22,28,5.0,Clear,Heavy,18:50
+1477473,97838,Han Dynasty,Chinese,29.15,Weekend,0.0,29,21,2.8,Cloudy,Moderate,17:00
+1476701,292602,Chipotle Mexican Grill $1.99 Delivery,Mexican,22.31,Weekend,5.0,31,17,1.3,Clear,Moderate,13:32
+1477421,397537,The Smile,American,12.18,Weekend,5.0,31,19,4.3,Clear,Moderate,21:32
+1477819,35309,Blue Ribbon Sushi,Japanese,25.22,Weekday,0.0,31,24,4.4,Cloudy,Moderate,17:41
+1477513,64151,Jack's Wife Freda,Mediterranean,12.18,Weekday,5.0,23,31,4.6,Cloudy,Moderate,19:10
+1478056,120353,Blue Ribbon Sushi,Japanese,19.45,Weekend,0.0,28,24,2.3,Clear,Heavy,14:34
